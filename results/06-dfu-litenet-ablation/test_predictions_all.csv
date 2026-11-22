@@ -1,0 +1,3566 @@
+model,fold,file,class,label,prob_ulcer,pred
+Baseline,0,121.jpg,Abnormal(Ulcer),1,0.9999659,1
+Baseline,0,122.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,0,123.jpg,Abnormal(Ulcer),1,0.99999833,1
+Baseline,0,161.jpg,Abnormal(Ulcer),1,0.99999785,1
+Baseline,0,162.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,163.jpg,Abnormal(Ulcer),1,0.99999917,1
+Baseline,0,164.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,180.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,181.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,182.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,0,183.jpg,Abnormal(Ulcer),1,0.9999982,1
+Baseline,0,187.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,20.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,200.jpg,Abnormal(Ulcer),1,0.9993445,1
+Baseline,0,201.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,202.jpg,Abnormal(Ulcer),1,0.9999995,1
+Baseline,0,203.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,0,204.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,0,207.jpg,Abnormal(Ulcer),1,0.9999963,1
+Baseline,0,208.jpg,Abnormal(Ulcer),1,0.99993,1
+Baseline,0,21.jpg,Abnormal(Ulcer),1,0.99999833,1
+Baseline,0,222.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,226.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,231.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,239.jpg,Abnormal(Ulcer),1,0.9999956,1
+Baseline,0,240.jpg,Abnormal(Ulcer),1,0.9997614,1
+Baseline,0,241.jpg,Abnormal(Ulcer),1,0.9999937,1
+Baseline,0,242.jpg,Abnormal(Ulcer),1,0.99970514,1
+Baseline,0,243.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,244.jpg,Abnormal(Ulcer),1,0.99769044,1
+Baseline,0,262.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,263.jpg,Abnormal(Ulcer),1,0.9999964,1
+Baseline,0,264.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,265.jpg,Abnormal(Ulcer),1,0.999923,1
+Baseline,0,266.jpg,Abnormal(Ulcer),1,0.9999974,1
+Baseline,0,267.jpg,Abnormal(Ulcer),1,0.99818975,1
+Baseline,0,268.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,269.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,27.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,270.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,276.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,277.jpg,Abnormal(Ulcer),1,0.920327,1
+Baseline,0,30.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,0,306.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,307.jpg,Abnormal(Ulcer),1,0.9998698,1
+Baseline,0,308.jpg,Abnormal(Ulcer),1,0.99999785,1
+Baseline,0,309.jpg,Abnormal(Ulcer),1,0.59884846,1
+Baseline,0,334.jpg,Abnormal(Ulcer),1,0.99914885,1
+Baseline,0,335.jpg,Abnormal(Ulcer),1,0.99987423,1
+Baseline,0,336.jpg,Abnormal(Ulcer),1,0.999997,1
+Baseline,0,337.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,0,338.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,339.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,340.jpg,Abnormal(Ulcer),1,0.99999785,1
+Baseline,0,341.jpg,Abnormal(Ulcer),1,0.99997306,1
+Baseline,0,342.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,343.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,351.jpg,Abnormal(Ulcer),1,0.99946445,1
+Baseline,0,353.jpg,Abnormal(Ulcer),1,0.99994576,1
+Baseline,0,354.jpg,Abnormal(Ulcer),1,0.9999883,1
+Baseline,0,355.jpg,Abnormal(Ulcer),1,0.99999154,1
+Baseline,0,356.jpg,Abnormal(Ulcer),1,0.9584323,1
+Baseline,0,36.jpg,Abnormal(Ulcer),1,0.99999607,1
+Baseline,0,37.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,375.jpg,Abnormal(Ulcer),1,0.9999993,1
+Baseline,0,376.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,377.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,403.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,417.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,418.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,419.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,42.jpg,Abnormal(Ulcer),1,0.9999752,1
+Baseline,0,420.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,0,422.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,423.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,424.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,425.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,440.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,456.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,458.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,0,469.jpg,Abnormal(Ulcer),1,0.9999963,1
+Baseline,0,474.jpg,Abnormal(Ulcer),1,0.9999958,1
+Baseline,0,477.jpg,Abnormal(Ulcer),1,0.9999987,1
+Baseline,0,478.jpg,Abnormal(Ulcer),1,0.9745308,1
+Baseline,0,480.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,492.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,0,507.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,513.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,53.jpg,Abnormal(Ulcer),1,0.99997914,1
+Baseline,0,54.jpg,Abnormal(Ulcer),1,0.8370573,1
+Baseline,0,60.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,0,9.jpg,Abnormal(Ulcer),1,0.99998677,1
+Baseline,0,10.jpg,Normal(Healthy skin),0,4.2104955e-05,0
+Baseline,0,100.jpg,Normal(Healthy skin),0,0.00025047723,0
+Baseline,0,101.jpg,Normal(Healthy skin),0,0.9960866,1
+Baseline,0,102.jpg,Normal(Healthy skin),0,0.12438448,0
+Baseline,0,103.jpg,Normal(Healthy skin),0,0.04414551,0
+Baseline,0,104.jpg,Normal(Healthy skin),0,4.8494418e-05,0
+Baseline,0,105.jpg,Normal(Healthy skin),0,3.2424956e-05,0
+Baseline,0,106.jpg,Normal(Healthy skin),0,2.4423933e-05,0
+Baseline,0,107.jpg,Normal(Healthy skin),0,0.0025273485,0
+Baseline,0,129.jpg,Normal(Healthy skin),0,8.612447e-06,0
+Baseline,0,13.jpg,Normal(Healthy skin),0,2.0750473e-05,0
+Baseline,0,136.jpg,Normal(Healthy skin),0,5.223279e-05,0
+Baseline,0,141.jpg,Normal(Healthy skin),0,7.640312e-06,0
+Baseline,0,146.jpg,Normal(Healthy skin),0,3.39872e-05,0
+Baseline,0,157.jpg,Normal(Healthy skin),0,0.00016527459,0
+Baseline,0,161.jpg,Normal(Healthy skin),0,0.0011907791,0
+Baseline,0,162.jpg,Normal(Healthy skin),0,5.1005998e-05,0
+Baseline,0,164.jpg,Normal(Healthy skin),0,6.009726e-05,0
+Baseline,0,165.jpg,Normal(Healthy skin),0,0.0003734437,0
+Baseline,0,166.jpg,Normal(Healthy skin),0,6.486015e-05,0
+Baseline,0,167.jpg,Normal(Healthy skin),0,0.00045079036,0
+Baseline,0,168.jpg,Normal(Healthy skin),0,1.115876e-05,0
+Baseline,0,169.jpg,Normal(Healthy skin),0,0.0040480774,0
+Baseline,0,172.jpg,Normal(Healthy skin),0,3.565486e-05,0
+Baseline,0,178.jpg,Normal(Healthy skin),0,2.5902484e-05,0
+Baseline,0,179.jpg,Normal(Healthy skin),0,0.00011204986,0
+Baseline,0,180.jpg,Normal(Healthy skin),0,4.554344e-05,0
+Baseline,0,181.jpg,Normal(Healthy skin),0,0.00030488,0
+Baseline,0,182.jpg,Normal(Healthy skin),0,6.153689e-05,0
+Baseline,0,183.jpg,Normal(Healthy skin),0,7.825843e-05,0
+Baseline,0,195.jpg,Normal(Healthy skin),0,2.2959997e-05,0
+Baseline,0,196.jpg,Normal(Healthy skin),0,2.9862229e-05,0
+Baseline,0,239.jpg,Normal(Healthy skin),0,2.5440479e-05,0
+Baseline,0,246.jpg,Normal(Healthy skin),0,1.1782553e-05,0
+Baseline,0,247.jpg,Normal(Healthy skin),0,0.00031511017,0
+Baseline,0,249.jpg,Normal(Healthy skin),0,0.00012905276,0
+Baseline,0,253.jpg,Normal(Healthy skin),0,8.9655055e-05,0
+Baseline,0,263.jpg,Normal(Healthy skin),0,2.9641815e-06,0
+Baseline,0,274.jpg,Normal(Healthy skin),0,8.6952925e-05,0
+Baseline,0,275.jpg,Normal(Healthy skin),0,4.171468e-05,0
+Baseline,0,320.jpg,Normal(Healthy skin),0,0.24067092,0
+Baseline,0,322 - Copy.jpg,Normal(Healthy skin),0,0.0006476414,0
+Baseline,0,329.jpg,Normal(Healthy skin),0,6.627929e-05,0
+Baseline,0,350.jpg,Normal(Healthy skin),0,5.0502924e-05,0
+Baseline,0,353.jpg,Normal(Healthy skin),0,5.4499393e-05,0
+Baseline,0,362.jpg,Normal(Healthy skin),0,2.7287875e-05,0
+Baseline,0,363.jpg,Normal(Healthy skin),0,4.4454755e-05,0
+Baseline,0,368.jpg,Normal(Healthy skin),0,1.8062135e-05,0
+Baseline,0,61.jpg,Normal(Healthy skin),0,0.98695904,1
+Baseline,0,89.jpg,Normal(Healthy skin),0,0.31511256,0
+Baseline,0,90.jpg,Normal(Healthy skin),0,0.01851423,0
+Baseline,1,1.jpg,Abnormal(Ulcer),1,0.99999535,1
+Baseline,1,124.jpg,Abnormal(Ulcer),1,0.999997,1
+Baseline,1,126.jpg,Abnormal(Ulcer),1,0.99997735,1
+Baseline,1,127.jpg,Abnormal(Ulcer),1,0.9999964,1
+Baseline,1,128.jpg,Abnormal(Ulcer),1,0.9999764,1
+Baseline,1,129.jpg,Abnormal(Ulcer),1,0.9999182,1
+Baseline,1,13.jpg,Abnormal(Ulcer),1,0.9999716,1
+Baseline,1,130.jpg,Abnormal(Ulcer),1,0.99993455,1
+Baseline,1,131.jpg,Abnormal(Ulcer),1,0.9999937,1
+Baseline,1,140.jpg,Abnormal(Ulcer),1,0.9999809,1
+Baseline,1,141.jpg,Abnormal(Ulcer),1,0.9999349,1
+Baseline,1,142.jpg,Abnormal(Ulcer),1,0.9999696,1
+Baseline,1,145.jpg,Abnormal(Ulcer),1,0.99998903,1
+Baseline,1,168.jpg,Abnormal(Ulcer),1,0.9998455,1
+Baseline,1,169.jpg,Abnormal(Ulcer),1,0.99995434,1
+Baseline,1,170.jpg,Abnormal(Ulcer),1,0.9999614,1
+Baseline,1,171.jpg,Abnormal(Ulcer),1,0.9999472,1
+Baseline,1,172.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,1,22.jpg,Abnormal(Ulcer),1,0.99999785,1
+Baseline,1,230.jpg,Abnormal(Ulcer),1,0.9999695,1
+Baseline,1,25.jpg,Abnormal(Ulcer),1,0.9999988,1
+Baseline,1,251.jpg,Abnormal(Ulcer),1,0.9998369,1
+Baseline,1,252.jpg,Abnormal(Ulcer),1,0.9999385,1
+Baseline,1,253.jpg,Abnormal(Ulcer),1,0.99965763,1
+Baseline,1,254.jpg,Abnormal(Ulcer),1,0.9999894,1
+Baseline,1,255.jpg,Abnormal(Ulcer),1,0.99945575,1
+Baseline,1,256.jpg,Abnormal(Ulcer),1,0.99999547,1
+Baseline,1,257.jpg,Abnormal(Ulcer),1,0.99994695,1
+Baseline,1,258.jpg,Abnormal(Ulcer),1,0.9999528,1
+Baseline,1,259.jpg,Abnormal(Ulcer),1,0.99999654,1
+Baseline,1,260.jpg,Abnormal(Ulcer),1,0.99999297,1
+Baseline,1,261.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,1,278.jpg,Abnormal(Ulcer),1,0.98248595,1
+Baseline,1,279.jpg,Abnormal(Ulcer),1,0.999938,1
+Baseline,1,28.jpg,Abnormal(Ulcer),1,0.99999917,1
+Baseline,1,280.jpg,Abnormal(Ulcer),1,0.9999454,1
+Baseline,1,281.jpg,Abnormal(Ulcer),1,0.9999939,1
+Baseline,1,3.jpg,Abnormal(Ulcer),1,0.9999305,1
+Baseline,1,302.jpg,Abnormal(Ulcer),1,0.99822086,1
+Baseline,1,303.jpg,Abnormal(Ulcer),1,0.99998844,1
+Baseline,1,304.jpg,Abnormal(Ulcer),1,0.9999757,1
+Baseline,1,305.jpg,Abnormal(Ulcer),1,0.9999465,1
+Baseline,1,310.jpg,Abnormal(Ulcer),1,0.9999988,1
+Baseline,1,324.jpg,Abnormal(Ulcer),1,0.58211035,1
+Baseline,1,33.jpg,Abnormal(Ulcer),1,0.9999771,1
+Baseline,1,344.jpg,Abnormal(Ulcer),1,0.99999774,1
+Baseline,1,347.jpg,Abnormal(Ulcer),1,0.9999851,1
+Baseline,1,35.jpg,Abnormal(Ulcer),1,0.9999417,1
+Baseline,1,352.jpg,Abnormal(Ulcer),1,0.99999714,1
+Baseline,1,357.jpg,Abnormal(Ulcer),1,0.9992205,1
+Baseline,1,358.jpg,Abnormal(Ulcer),1,0.99994814,1
+Baseline,1,359.jpg,Abnormal(Ulcer),1,0.9997932,1
+Baseline,1,363.jpg,Abnormal(Ulcer),1,0.9999968,1
+Baseline,1,364.jpg,Abnormal(Ulcer),1,0.999997,1
+Baseline,1,365.jpg,Abnormal(Ulcer),1,0.99999344,1
+Baseline,1,366.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,1,367.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,1,368.jpg,Abnormal(Ulcer),1,0.9999995,1
+Baseline,1,401.jpg,Abnormal(Ulcer),1,0.9996306,1
+Baseline,1,402.jpg,Abnormal(Ulcer),1,0.99961936,1
+Baseline,1,416.jpg,Abnormal(Ulcer),1,0.9707069,1
+Baseline,1,426.jpg,Abnormal(Ulcer),1,0.99996746,1
+Baseline,1,434.jpg,Abnormal(Ulcer),1,0.99995387,1
+Baseline,1,438.jpg,Abnormal(Ulcer),1,0.99997497,1
+Baseline,1,439.jpg,Abnormal(Ulcer),1,0.9999927,1
+Baseline,1,441.jpg,Abnormal(Ulcer),1,0.9999509,1
+Baseline,1,443.jpg,Abnormal(Ulcer),1,0.99999404,1
+Baseline,1,444.jpg,Abnormal(Ulcer),1,0.999998,1
+Baseline,1,448.jpg,Abnormal(Ulcer),1,0.9999888,1
+Baseline,1,450.jpg,Abnormal(Ulcer),1,0.9994485,1
+Baseline,1,459.jpg,Abnormal(Ulcer),1,0.9999975,1
+Baseline,1,460.jpg,Abnormal(Ulcer),1,0.9999976,1
+Baseline,1,464.jpg,Abnormal(Ulcer),1,0.9999703,1
+Baseline,1,468.jpg,Abnormal(Ulcer),1,0.99998236,1
+Baseline,1,472.jpg,Abnormal(Ulcer),1,0.9999789,1
+Baseline,1,476.jpg,Abnormal(Ulcer),1,0.999998,1
+Baseline,1,487.jpg,Abnormal(Ulcer),1,0.99994206,1
+Baseline,1,493.jpg,Abnormal(Ulcer),1,0.9999989,1
+Baseline,1,494.jpg,Abnormal(Ulcer),1,0.99997807,1
+Baseline,1,495.jpg,Abnormal(Ulcer),1,0.9999887,1
+Baseline,1,499.jpg,Abnormal(Ulcer),1,0.99997497,1
+Baseline,1,500.jpg,Abnormal(Ulcer),1,0.9999933,1
+Baseline,1,501.jpg,Abnormal(Ulcer),1,0.9999223,1
+Baseline,1,502.jpg,Abnormal(Ulcer),1,0.99999833,1
+Baseline,1,504.jpg,Abnormal(Ulcer),1,0.99993384,1
+Baseline,1,505.jpg,Abnormal(Ulcer),1,0.9999615,1
+Baseline,1,508.jpg,Abnormal(Ulcer),1,0.99999726,1
+Baseline,1,510.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,1,511.jpg,Abnormal(Ulcer),1,0.99999785,1
+Baseline,1,512.jpg,Abnormal(Ulcer),1,0.99999535,1
+Baseline,1,56.jpg,Abnormal(Ulcer),1,0.9850011,1
+Baseline,1,7.jpg,Abnormal(Ulcer),1,0.99999917,1
+Baseline,1,8.jpg,Abnormal(Ulcer),1,0.99997425,1
+Baseline,1,96.jpg,Abnormal(Ulcer),1,0.9999944,1
+Baseline,1,127.jpg,Normal(Healthy skin),0,0.000263007,0
+Baseline,1,134.jpg,Normal(Healthy skin),0,0.0010571964,0
+Baseline,1,139.jpg,Normal(Healthy skin),0,0.00029499875,0
+Baseline,1,144.jpg,Normal(Healthy skin),0,0.0027349824,0
+Baseline,1,15.jpg,Normal(Healthy skin),0,0.0009125298,0
+Baseline,1,153.jpg,Normal(Healthy skin),0,0.005452348,0
+Baseline,1,154.jpg,Normal(Healthy skin),0,0.093638316,0
+Baseline,1,155.jpg,Normal(Healthy skin),0,0.0024662318,0
+Baseline,1,156.jpg,Normal(Healthy skin),0,0.0052091233,0
+Baseline,1,173.jpg,Normal(Healthy skin),0,0.01137218,0
+Baseline,1,18.jpg,Normal(Healthy skin),0,0.018354515,0
+Baseline,1,198.jpg,Normal(Healthy skin),0,0.00022136468,0
+Baseline,1,199.jpg,Normal(Healthy skin),0,0.00020934247,0
+Baseline,1,200.jpg,Normal(Healthy skin),0,0.00026670055,0
+Baseline,1,204.jpg,Normal(Healthy skin),0,0.00037565772,0
+Baseline,1,210.jpg,Normal(Healthy skin),0,0.004238352,0
+Baseline,1,218.jpg,Normal(Healthy skin),0,0.0017289855,0
+Baseline,1,230.jpg,Normal(Healthy skin),0,0.0024399767,0
+Baseline,1,231.jpg,Normal(Healthy skin),0,0.0013049496,0
+Baseline,1,242.jpg,Normal(Healthy skin),0,0.0028918844,0
+Baseline,1,243.jpg,Normal(Healthy skin),0,0.0002959413,0
+Baseline,1,251.jpg,Normal(Healthy skin),0,0.00037690945,0
+Baseline,1,260.jpg,Normal(Healthy skin),0,0.00016808427,0
+Baseline,1,261.jpg,Normal(Healthy skin),0,0.00044020495,0
+Baseline,1,273.jpg,Normal(Healthy skin),0,0.0013196222,0
+Baseline,1,28.jpg,Normal(Healthy skin),0,0.0110936295,0
+Baseline,1,29.jpg,Normal(Healthy skin),0,0.00020116159,0
+Baseline,1,316 - Copy.jpg,Normal(Healthy skin),0,0.00037299417,0
+Baseline,1,318 - Copy.jpg,Normal(Healthy skin),0,0.008324017,0
+Baseline,1,319.jpg,Normal(Healthy skin),0,0.009174289,0
+Baseline,1,321 - Copy.jpg,Normal(Healthy skin),0,0.015654491,0
+Baseline,1,331 - Copy.jpg,Normal(Healthy skin),0,0.011899638,0
+Baseline,1,332.jpg,Normal(Healthy skin),0,0.002090418,0
+Baseline,1,336.jpg,Normal(Healthy skin),0,0.015219551,0
+Baseline,1,339.jpg,Normal(Healthy skin),0,0.0005479178,0
+Baseline,1,347.jpg,Normal(Healthy skin),0,0.035172183,0
+Baseline,1,349.jpg,Normal(Healthy skin),0,0.003088005,0
+Baseline,1,358.jpg,Normal(Healthy skin),0,0.0046808803,0
+Baseline,1,366.jpg,Normal(Healthy skin),0,0.025391286,0
+Baseline,1,40.jpg,Normal(Healthy skin),0,0.09174578,0
+Baseline,1,41.jpg,Normal(Healthy skin),0,0.10782042,0
+Baseline,1,79.jpg,Normal(Healthy skin),0,0.011577232,0
+Baseline,1,85.jpg,Normal(Healthy skin),0,0.291269,0
+Baseline,2,10.jpg,Abnormal(Ulcer),1,0.9998361,1
+Baseline,2,103.jpg,Abnormal(Ulcer),1,0.9980559,1
+Baseline,2,104.jpg,Abnormal(Ulcer),1,0.99512446,1
+Baseline,2,105.jpg,Abnormal(Ulcer),1,0.997993,1
+Baseline,2,106.jpg,Abnormal(Ulcer),1,0.9999968,1
+Baseline,2,107.jpg,Abnormal(Ulcer),1,0.999997,1
+Baseline,2,11.jpg,Abnormal(Ulcer),1,0.9999201,1
+Baseline,2,111.jpg,Abnormal(Ulcer),1,0.99999607,1
+Baseline,2,112.jpg,Abnormal(Ulcer),1,0.9998791,1
+Baseline,2,113.jpg,Abnormal(Ulcer),1,0.999966,1
+Baseline,2,114.jpg,Abnormal(Ulcer),1,0.99985147,1
+Baseline,2,115.jpg,Abnormal(Ulcer),1,0.9999255,1
+Baseline,2,116.jpg,Abnormal(Ulcer),1,0.9999914,1
+Baseline,2,117.jpg,Abnormal(Ulcer),1,0.9999776,1
+Baseline,2,118.jpg,Abnormal(Ulcer),1,0.99999726,1
+Baseline,2,12.jpg,Abnormal(Ulcer),1,0.9994611,1
+Baseline,2,132.jpg,Abnormal(Ulcer),1,0.99879766,1
+Baseline,2,133.jpg,Abnormal(Ulcer),1,0.9980008,1
+Baseline,2,134.jpg,Abnormal(Ulcer),1,0.9999019,1
+Baseline,2,135.jpg,Abnormal(Ulcer),1,0.9980805,1
+Baseline,2,136.jpg,Abnormal(Ulcer),1,0.99269,1
+Baseline,2,137.jpg,Abnormal(Ulcer),1,0.9999883,1
+Baseline,2,138.jpg,Abnormal(Ulcer),1,0.99939644,1
+Baseline,2,139.jpg,Abnormal(Ulcer),1,0.999817,1
+Baseline,2,14.jpg,Abnormal(Ulcer),1,0.9999813,1
+Baseline,2,157.jpg,Abnormal(Ulcer),1,0.99500126,1
+Baseline,2,158.jpg,Abnormal(Ulcer),1,0.99867225,1
+Baseline,2,159.jpg,Abnormal(Ulcer),1,0.9999635,1
+Baseline,2,160.jpg,Abnormal(Ulcer),1,0.9995423,1
+Baseline,2,19.jpg,Abnormal(Ulcer),1,0.9998349,1
+Baseline,2,194.jpg,Abnormal(Ulcer),1,0.9994152,1
+Baseline,2,205.jpg,Abnormal(Ulcer),1,0.9998609,1
+Baseline,2,206.jpg,Abnormal(Ulcer),1,0.9997507,1
+Baseline,2,218.jpg,Abnormal(Ulcer),1,0.9995443,1
+Baseline,2,219.jpg,Abnormal(Ulcer),1,0.9999924,1
+Baseline,2,220.jpg,Abnormal(Ulcer),1,0.99990654,1
+Baseline,2,224.jpg,Abnormal(Ulcer),1,0.99739873,1
+Baseline,2,225.jpg,Abnormal(Ulcer),1,0.99993217,1
+Baseline,2,227.jpg,Abnormal(Ulcer),1,0.99827397,1
+Baseline,2,229.jpg,Abnormal(Ulcer),1,0.9999398,1
+Baseline,2,235.jpg,Abnormal(Ulcer),1,0.9988072,1
+Baseline,2,236.jpg,Abnormal(Ulcer),1,0.84900075,1
+Baseline,2,237.jpg,Abnormal(Ulcer),1,0.9941096,1
+Baseline,2,238.jpg,Abnormal(Ulcer),1,0.9975048,1
+Baseline,2,273.jpg,Abnormal(Ulcer),1,0.99938333,1
+Baseline,2,275.jpg,Abnormal(Ulcer),1,0.9998641,1
+Baseline,2,282.jpg,Abnormal(Ulcer),1,0.99998224,1
+Baseline,2,283.jpg,Abnormal(Ulcer),1,0.9998828,1
+Baseline,2,284.jpg,Abnormal(Ulcer),1,0.99999535,1
+Baseline,2,290.jpg,Abnormal(Ulcer),1,0.99997604,1
+Baseline,2,291.jpg,Abnormal(Ulcer),1,0.44982645,1
+Baseline,2,301.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,2,31.jpg,Abnormal(Ulcer),1,0.9999386,1
+Baseline,2,315.jpg,Abnormal(Ulcer),1,0.9999672,1
+Baseline,2,316.jpg,Abnormal(Ulcer),1,0.99998045,1
+Baseline,2,317.jpg,Abnormal(Ulcer),1,0.9997508,1
+Baseline,2,318.jpg,Abnormal(Ulcer),1,0.9999542,1
+Baseline,2,319.jpg,Abnormal(Ulcer),1,0.9999429,1
+Baseline,2,320.jpg,Abnormal(Ulcer),1,0.9999924,1
+Baseline,2,321.jpg,Abnormal(Ulcer),1,0.94759184,1
+Baseline,2,325.jpg,Abnormal(Ulcer),1,0.9998678,1
+Baseline,2,330.jpg,Abnormal(Ulcer),1,0.99980664,1
+Baseline,2,34.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,2,346.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,2,348.jpg,Abnormal(Ulcer),1,0.8903978,1
+Baseline,2,349.jpg,Abnormal(Ulcer),1,0.9998809,1
+Baseline,2,350.jpg,Abnormal(Ulcer),1,0.9999974,1
+Baseline,2,380.jpg,Abnormal(Ulcer),1,0.9994719,1
+Baseline,2,4.jpg,Abnormal(Ulcer),1,0.99999297,1
+Baseline,2,40.jpg,Abnormal(Ulcer),1,0.99946505,1
+Baseline,2,41.jpg,Abnormal(Ulcer),1,0.99987245,1
+Baseline,2,410.jpg,Abnormal(Ulcer),1,0.9924858,1
+Baseline,2,411.jpg,Abnormal(Ulcer),1,0.9997069,1
+Baseline,2,413.jpg,Abnormal(Ulcer),1,0.9999304,1
+Baseline,2,414.jpg,Abnormal(Ulcer),1,0.9999993,1
+Baseline,2,415.jpg,Abnormal(Ulcer),1,0.99710244,1
+Baseline,2,421.jpg,Abnormal(Ulcer),1,0.9996526,1
+Baseline,2,437.jpg,Abnormal(Ulcer),1,0.9999392,1
+Baseline,2,442.jpg,Abnormal(Ulcer),1,0.99982655,1
+Baseline,2,457.jpg,Abnormal(Ulcer),1,0.99997854,1
+Baseline,2,466.jpg,Abnormal(Ulcer),1,0.99995255,1
+Baseline,2,473.jpg,Abnormal(Ulcer),1,0.99906343,1
+Baseline,2,475.jpg,Abnormal(Ulcer),1,0.9966282,1
+Baseline,2,481.jpg,Abnormal(Ulcer),1,0.9999937,1
+Baseline,2,482.jpg,Abnormal(Ulcer),1,0.99999857,1
+Baseline,2,489.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,2,49.jpg,Abnormal(Ulcer),1,0.9999958,1
+Baseline,2,497.jpg,Abnormal(Ulcer),1,0.9999846,1
+Baseline,2,5.jpg,Abnormal(Ulcer),1,0.9999782,1
+Baseline,2,50.jpg,Abnormal(Ulcer),1,0.9999254,1
+Baseline,2,509.jpg,Abnormal(Ulcer),1,0.9995747,1
+Baseline,2,51.jpg,Abnormal(Ulcer),1,0.99999106,1
+Baseline,2,57.jpg,Abnormal(Ulcer),1,0.5015302,1
+Baseline,2,59.jpg,Abnormal(Ulcer),1,0.9998175,1
+Baseline,2,1.jpg,Normal(Healthy skin),0,0.03652837,0
+Baseline,2,108.jpg,Normal(Healthy skin),0,0.00018311306,0
+Baseline,2,109.jpg,Normal(Healthy skin),0,0.00021474558,0
+Baseline,2,110.jpg,Normal(Healthy skin),0,0.0016879733,0
+Baseline,2,114.jpg,Normal(Healthy skin),0,0.0011519953,0
+Baseline,2,122.jpg,Normal(Healthy skin),0,0.00021608389,0
+Baseline,2,137.jpg,Normal(Healthy skin),0,0.0014793735,0
+Baseline,2,143.jpg,Normal(Healthy skin),0,0.000598771,0
+Baseline,2,145.jpg,Normal(Healthy skin),0,8.832978e-05,0
+Baseline,2,158.jpg,Normal(Healthy skin),0,0.0021902786,0
+Baseline,2,159.jpg,Normal(Healthy skin),0,0.0019901746,0
+Baseline,2,160.jpg,Normal(Healthy skin),0,0.0017267236,0
+Baseline,2,170.jpg,Normal(Healthy skin),0,0.021221804,0
+Baseline,2,174.jpg,Normal(Healthy skin),0,0.0018038197,0
+Baseline,2,176.jpg,Normal(Healthy skin),0,0.0036278854,0
+Baseline,2,177.jpg,Normal(Healthy skin),0,0.011677789,0
+Baseline,2,185.jpg,Normal(Healthy skin),0,0.00026303108,0
+Baseline,2,186.jpg,Normal(Healthy skin),0,0.007049739,0
+Baseline,2,187.jpg,Normal(Healthy skin),0,0.0054730005,0
+Baseline,2,188.jpg,Normal(Healthy skin),0,0.04579101,0
+Baseline,2,189.jpg,Normal(Healthy skin),0,0.76243937,1
+Baseline,2,190.jpg,Normal(Healthy skin),0,0.0001640806,0
+Baseline,2,191.jpg,Normal(Healthy skin),0,0.0011477323,0
+Baseline,2,192.jpg,Normal(Healthy skin),0,0.00010589557,0
+Baseline,2,193.jpg,Normal(Healthy skin),0,0.0007691885,0
+Baseline,2,194.jpg,Normal(Healthy skin),0,6.128075e-05,0
+Baseline,2,197.jpg,Normal(Healthy skin),0,0.0063218907,0
+Baseline,2,221.jpg,Normal(Healthy skin),0,0.00020735609,0
+Baseline,2,222.jpg,Normal(Healthy skin),0,0.00027162346,0
+Baseline,2,223.jpg,Normal(Healthy skin),0,0.00075995806,0
+Baseline,2,224.jpg,Normal(Healthy skin),0,0.00029598025,0
+Baseline,2,225.jpg,Normal(Healthy skin),0,0.00044138668,0
+Baseline,2,226.jpg,Normal(Healthy skin),0,9.1580674e-05,0
+Baseline,2,232.jpg,Normal(Healthy skin),0,0.00037338302,0
+Baseline,2,240.jpg,Normal(Healthy skin),0,0.00014155827,0
+Baseline,2,241.jpg,Normal(Healthy skin),0,0.00019016331,0
+Baseline,2,244.jpg,Normal(Healthy skin),0,0.001275101,0
+Baseline,2,245.jpg,Normal(Healthy skin),0,0.0023785762,0
+Baseline,2,248.jpg,Normal(Healthy skin),0,0.0012233153,0
+Baseline,2,250.jpg,Normal(Healthy skin),0,0.0032884143,0
+Baseline,2,254.jpg,Normal(Healthy skin),0,0.0012007641,0
+Baseline,2,255.jpg,Normal(Healthy skin),0,0.00071296596,0
+Baseline,2,256.jpg,Normal(Healthy skin),0,0.002641497,0
+Baseline,2,265.jpg,Normal(Healthy skin),0,0.0037445792,0
+Baseline,2,268.jpg,Normal(Healthy skin),0,0.0005983607,0
+Baseline,2,270.jpg,Normal(Healthy skin),0,0.00035579424,0
+Baseline,2,280.jpg,Normal(Healthy skin),0,0.00027094633,0
+Baseline,2,311.jpg,Normal(Healthy skin),0,0.0016282039,0
+Baseline,2,337.jpg,Normal(Healthy skin),0,0.00090624363,0
+Baseline,2,341.jpg,Normal(Healthy skin),0,0.00016528406,0
+Baseline,2,343.jpg,Normal(Healthy skin),0,0.0008375472,0
+Baseline,2,344.jpg,Normal(Healthy skin),0,4.3434036e-05,0
+Baseline,2,346.jpg,Normal(Healthy skin),0,0.0005589925,0
+Baseline,2,359.jpg,Normal(Healthy skin),0,0.004703622,0
+Baseline,2,59.jpg,Normal(Healthy skin),0,0.04902475,0
+Baseline,2,88.jpg,Normal(Healthy skin),0,0.011241539,0
+Baseline,3,100.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,101.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,125.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,143.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,144.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,146.jpg,Abnormal(Ulcer),1,0.9991922,1
+Baseline,3,147.jpg,Abnormal(Ulcer),1,0.99997413,1
+Baseline,3,148.jpg,Abnormal(Ulcer),1,0.99900466,1
+Baseline,3,149.jpg,Abnormal(Ulcer),1,0.999985,1
+Baseline,3,15.jpg,Abnormal(Ulcer),1,0.9999945,1
+Baseline,3,150.jpg,Abnormal(Ulcer),1,0.99998796,1
+Baseline,3,151.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,152.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,3,153.jpg,Abnormal(Ulcer),1,0.99978936,1
+Baseline,3,154.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,155.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,156.jpg,Abnormal(Ulcer),1,0.99999595,1
+Baseline,3,16.jpg,Abnormal(Ulcer),1,0.9999988,1
+Baseline,3,165.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,166.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,167.jpg,Abnormal(Ulcer),1,0.16835321,0
+Baseline,3,17.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,173.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,174.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,175.jpg,Abnormal(Ulcer),1,0.99999917,1
+Baseline,3,176.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,177.jpg,Abnormal(Ulcer),1,0.9999969,1
+Baseline,3,178.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,179.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,18.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,184.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,185.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,186.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,188.jpg,Abnormal(Ulcer),1,0.99991596,1
+Baseline,3,189.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,195.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,196.jpg,Abnormal(Ulcer),1,0.99997723,1
+Baseline,3,197.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,3,198.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,3,2.jpg,Abnormal(Ulcer),1,0.99999464,1
+Baseline,3,209.jpg,Abnormal(Ulcer),1,0.9999988,1
+Baseline,3,210.jpg,Abnormal(Ulcer),1,0.99999833,1
+Baseline,3,211.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,212.jpg,Abnormal(Ulcer),1,0.99999917,1
+Baseline,3,215.jpg,Abnormal(Ulcer),1,0.9999981,1
+Baseline,3,216.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,217.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,3,221.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,223.jpg,Abnormal(Ulcer),1,0.9999945,1
+Baseline,3,232.jpg,Abnormal(Ulcer),1,0.00085622404,0
+Baseline,3,24.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,26.jpg,Abnormal(Ulcer),1,0.999998,1
+Baseline,3,271.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,272.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,274.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,29.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,292.jpg,Abnormal(Ulcer),1,0.999987,1
+Baseline,3,322.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,323.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,360.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,361.jpg,Abnormal(Ulcer),1,0.9999442,1
+Baseline,3,362.jpg,Abnormal(Ulcer),1,0.9999995,1
+Baseline,3,369.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,370.jpg,Abnormal(Ulcer),1,0.9999988,1
+Baseline,3,39.jpg,Abnormal(Ulcer),1,0.99999213,1
+Baseline,3,408.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,409.jpg,Abnormal(Ulcer),1,0.99999964,1
+Baseline,3,43.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,430.jpg,Abnormal(Ulcer),1,0.9999995,1
+Baseline,3,431.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,435.jpg,Abnormal(Ulcer),1,0.9997921,1
+Baseline,3,44.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,445.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,446.jpg,Abnormal(Ulcer),1,0.9999995,1
+Baseline,3,452.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,453.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,454.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,455.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,3,463.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,470.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,471.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,479.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,483.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,484.jpg,Abnormal(Ulcer),1,0.99999976,1
+Baseline,3,488.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,498.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,503.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,6.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,78.jpg,Abnormal(Ulcer),1,0.99739254,1
+Baseline,3,79.jpg,Abnormal(Ulcer),1,0.99995387,1
+Baseline,3,80.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,81.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,82.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,83.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,84.jpg,Abnormal(Ulcer),1,0.9999951,1
+Baseline,3,85.jpg,Abnormal(Ulcer),1,0.9999994,1
+Baseline,3,86.jpg,Abnormal(Ulcer),1,0.9999999,1
+Baseline,3,88.jpg,Abnormal(Ulcer),1,0.99948466,1
+Baseline,3,89.jpg,Abnormal(Ulcer),1,0.99999905,1
+Baseline,3,97.jpg,Abnormal(Ulcer),1,0.9999969,1
+Baseline,3,98.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,99.jpg,Abnormal(Ulcer),1,1.0,1
+Baseline,3,11.jpg,Normal(Healthy skin),0,3.446119e-05,0
+Baseline,3,115.jpg,Normal(Healthy skin),0,0.00025642465,0
+Baseline,3,116.jpg,Normal(Healthy skin),0,8.571646e-05,0
+Baseline,3,118.jpg,Normal(Healthy skin),0,0.108980924,0
+Baseline,3,119.jpg,Normal(Healthy skin),0,3.817585e-05,0
+Baseline,3,12.jpg,Normal(Healthy skin),0,1.18193775e-05,0
+Baseline,3,120.jpg,Normal(Healthy skin),0,0.0015822803,0
+Baseline,3,121.jpg,Normal(Healthy skin),0,1.1094139e-06,0
+Baseline,3,123.jpg,Normal(Healthy skin),0,7.2125713e-06,0
+Baseline,3,124.jpg,Normal(Healthy skin),0,1.0133759e-05,0
+Baseline,3,125.jpg,Normal(Healthy skin),0,2.5071238e-06,0
+Baseline,3,126.jpg,Normal(Healthy skin),0,2.445597e-06,0
+Baseline,3,132.jpg,Normal(Healthy skin),0,9.112746e-06,0
+Baseline,3,142.jpg,Normal(Healthy skin),0,1.0716246e-05,0
+Baseline,3,163.jpg,Normal(Healthy skin),0,4.6706195e-05,0
+Baseline,3,175.jpg,Normal(Healthy skin),0,9.400973e-06,0
+Baseline,3,184.jpg,Normal(Healthy skin),0,9.192049e-05,0
+Baseline,3,20.jpg,Normal(Healthy skin),0,8.994323e-06,0
+Baseline,3,201.jpg,Normal(Healthy skin),0,0.0005591628,0
+Baseline,3,202.jpg,Normal(Healthy skin),0,1.8206432e-05,0
+Baseline,3,203.jpg,Normal(Healthy skin),0,6.590278e-05,0
+Baseline,3,205.jpg,Normal(Healthy skin),0,1.4432063e-05,0
+Baseline,3,215.jpg,Normal(Healthy skin),0,3.42582e-05,0
+Baseline,3,217.jpg,Normal(Healthy skin),0,1.8246274e-05,0
+Baseline,3,235.jpg,Normal(Healthy skin),0,7.806264e-06,0
+Baseline,3,236.jpg,Normal(Healthy skin),0,2.2063805e-05,0
+Baseline,3,237.jpg,Normal(Healthy skin),0,1.9004569e-06,0
+Baseline,3,238.jpg,Normal(Healthy skin),0,9.9150755e-05,0
+Baseline,3,257.jpg,Normal(Healthy skin),0,1.1721697e-05,0
+Baseline,3,258.jpg,Normal(Healthy skin),0,4.276832e-07,0
+Baseline,3,259.jpg,Normal(Healthy skin),0,1.0133178e-05,0
+Baseline,3,264.jpg,Normal(Healthy skin),0,0.00016196039,0
+Baseline,3,267.jpg,Normal(Healthy skin),0,3.3717902e-06,0
+Baseline,3,269.jpg,Normal(Healthy skin),0,8.142286e-06,0
+Baseline,3,271.jpg,Normal(Healthy skin),0,1.1372835e-05,0
+Baseline,3,272.jpg,Normal(Healthy skin),0,4.693814e-06,0
+Baseline,3,286.jpg,Normal(Healthy skin),0,3.5055597e-05,0
+Baseline,3,315 - Copy.jpg,Normal(Healthy skin),0,0.00030556443,0
+Baseline,3,323 - Copy.jpg,Normal(Healthy skin),0,7.687689e-06,0
+Baseline,3,325 - Copy.jpg,Normal(Healthy skin),0,3.7799646e-06,0
+Baseline,3,326.jpg,Normal(Healthy skin),0,1.4194842e-05,0
+Baseline,3,342.jpg,Normal(Healthy skin),0,5.5424673e-05,0
+Baseline,3,345.jpg,Normal(Healthy skin),0,0.00011963918,0
+Baseline,3,354.jpg,Normal(Healthy skin),0,6.208169e-05,0
+Baseline,3,361.jpg,Normal(Healthy skin),0,0.00014693565,0
+Baseline,3,43.jpg,Normal(Healthy skin),0,0.0036048153,0
+Baseline,3,44.jpg,Normal(Healthy skin),0,0.00445448,0
+Baseline,3,45.jpg,Normal(Healthy skin),0,0.0012712907,0
+Baseline,3,55.jpg,Normal(Healthy skin),0,0.00023188222,0
+Baseline,4,102.jpg,Abnormal(Ulcer),1,0.999799,1
+Baseline,4,108.jpg,Abnormal(Ulcer),1,0.9992575,1
+Baseline,4,109.jpg,Abnormal(Ulcer),1,0.99992776,1
+Baseline,4,110.jpg,Abnormal(Ulcer),1,0.9997429,1
+Baseline,4,119.jpg,Abnormal(Ulcer),1,0.9993864,1
+Baseline,4,120.jpg,Abnormal(Ulcer),1,0.9997167,1
+Baseline,4,190.jpg,Abnormal(Ulcer),1,0.9887842,1
+Baseline,4,191.jpg,Abnormal(Ulcer),1,0.9978517,1
+Baseline,4,192.jpg,Abnormal(Ulcer),1,0.99820673,1
+Baseline,4,193.jpg,Abnormal(Ulcer),1,0.9955094,1
+Baseline,4,213.jpg,Abnormal(Ulcer),1,0.9985141,1
+Baseline,4,214.jpg,Abnormal(Ulcer),1,0.6643321,1
+Baseline,4,23.jpg,Abnormal(Ulcer),1,0.99498236,1
+Baseline,4,233.jpg,Abnormal(Ulcer),1,0.99898,1
+Baseline,4,234.jpg,Abnormal(Ulcer),1,0.9962728,1
+Baseline,4,245.jpg,Abnormal(Ulcer),1,0.9990471,1
+Baseline,4,246.jpg,Abnormal(Ulcer),1,0.99990046,1
+Baseline,4,247.jpg,Abnormal(Ulcer),1,0.99947643,1
+Baseline,4,248.jpg,Abnormal(Ulcer),1,0.9991711,1
+Baseline,4,249.jpg,Abnormal(Ulcer),1,0.9989353,1
+Baseline,4,250.jpg,Abnormal(Ulcer),1,0.99114275,1
+Baseline,4,288.jpg,Abnormal(Ulcer),1,0.9977063,1
+Baseline,4,293.jpg,Abnormal(Ulcer),1,0.99866223,1
+Baseline,4,311.jpg,Abnormal(Ulcer),1,0.9997378,1
+Baseline,4,312.jpg,Abnormal(Ulcer),1,0.99781585,1
+Baseline,4,313.jpg,Abnormal(Ulcer),1,0.97731495,1
+Baseline,4,314.jpg,Abnormal(Ulcer),1,0.9990163,1
+Baseline,4,32.jpg,Abnormal(Ulcer),1,0.99409944,1
+Baseline,4,326.jpg,Abnormal(Ulcer),1,0.99979556,1
+Baseline,4,327.jpg,Abnormal(Ulcer),1,0.9987186,1
+Baseline,4,328.jpg,Abnormal(Ulcer),1,0.9983999,1
+Baseline,4,329.jpg,Abnormal(Ulcer),1,0.9997359,1
+Baseline,4,331.jpg,Abnormal(Ulcer),1,0.99964166,1
+Baseline,4,332.jpg,Abnormal(Ulcer),1,0.9898565,1
+Baseline,4,333.jpg,Abnormal(Ulcer),1,0.9892541,1
+Baseline,4,345.jpg,Abnormal(Ulcer),1,0.99860007,1
+Baseline,4,371.jpg,Abnormal(Ulcer),1,0.9988858,1
+Baseline,4,372.jpg,Abnormal(Ulcer),1,0.27411076,0
+Baseline,4,373.jpg,Abnormal(Ulcer),1,0.9996306,1
+Baseline,4,374.jpg,Abnormal(Ulcer),1,0.9997131,1
+Baseline,4,378.jpg,Abnormal(Ulcer),1,0.99895895,1
+Baseline,4,379.jpg,Abnormal(Ulcer),1,0.99924004,1
+Baseline,4,404.jpg,Abnormal(Ulcer),1,0.94991434,1
+Baseline,4,405.jpg,Abnormal(Ulcer),1,0.94326293,1
+Baseline,4,406.jpg,Abnormal(Ulcer),1,0.9988121,1
+Baseline,4,407.jpg,Abnormal(Ulcer),1,0.99913347,1
+Baseline,4,412.jpg,Abnormal(Ulcer),1,0.9976675,1
+Baseline,4,427.jpg,Abnormal(Ulcer),1,0.9997451,1
+Baseline,4,428.jpg,Abnormal(Ulcer),1,0.99987817,1
+Baseline,4,429.jpg,Abnormal(Ulcer),1,0.99968654,1
+Baseline,4,432.jpg,Abnormal(Ulcer),1,0.9968231,1
+Baseline,4,433.jpg,Abnormal(Ulcer),1,0.9995851,1
+Baseline,4,436.jpg,Abnormal(Ulcer),1,0.99474037,1
+Baseline,4,447.jpg,Abnormal(Ulcer),1,0.99821293,1
+Baseline,4,449.jpg,Abnormal(Ulcer),1,0.99459463,1
+Baseline,4,45.jpg,Abnormal(Ulcer),1,0.992804,1
+Baseline,4,451.jpg,Abnormal(Ulcer),1,0.9995349,1
+Baseline,4,461.jpg,Abnormal(Ulcer),1,0.9975247,1
+Baseline,4,462.jpg,Abnormal(Ulcer),1,0.99783725,1
+Baseline,4,465.jpg,Abnormal(Ulcer),1,0.9992956,1
+Baseline,4,467.jpg,Abnormal(Ulcer),1,0.99971086,1
+Baseline,4,47.jpg,Abnormal(Ulcer),1,0.9998548,1
+Baseline,4,485.jpg,Abnormal(Ulcer),1,0.99243706,1
+Baseline,4,486.jpg,Abnormal(Ulcer),1,0.97616667,1
+Baseline,4,490.jpg,Abnormal(Ulcer),1,0.99919504,1
+Baseline,4,491.jpg,Abnormal(Ulcer),1,0.99518174,1
+Baseline,4,496.jpg,Abnormal(Ulcer),1,0.7488478,1
+Baseline,4,506.jpg,Abnormal(Ulcer),1,0.9945437,1
+Baseline,4,52.jpg,Abnormal(Ulcer),1,0.92895573,1
+Baseline,4,61.jpg,Abnormal(Ulcer),1,0.9861286,1
+Baseline,4,62.jpg,Abnormal(Ulcer),1,0.9935116,1
+Baseline,4,63.jpg,Abnormal(Ulcer),1,0.9794179,1
+Baseline,4,64.jpg,Abnormal(Ulcer),1,0.98343986,1
+Baseline,4,65.jpg,Abnormal(Ulcer),1,0.9782835,1
+Baseline,4,66.jpg,Abnormal(Ulcer),1,0.98032117,1
+Baseline,4,67.jpg,Abnormal(Ulcer),1,0.98937535,1
+Baseline,4,68.jpg,Abnormal(Ulcer),1,0.9986468,1
+Baseline,4,69.jpg,Abnormal(Ulcer),1,0.9952483,1
+Baseline,4,70.jpg,Abnormal(Ulcer),1,0.99956757,1
+Baseline,4,71.jpg,Abnormal(Ulcer),1,0.99998343,1
+Baseline,4,72.jpg,Abnormal(Ulcer),1,0.9972199,1
+Baseline,4,73.jpg,Abnormal(Ulcer),1,0.99982667,1
+Baseline,4,74.jpg,Abnormal(Ulcer),1,0.9991774,1
+Baseline,4,76.jpg,Abnormal(Ulcer),1,0.9995839,1
+Baseline,4,77.jpg,Abnormal(Ulcer),1,0.9931941,1
+Baseline,4,90.jpg,Abnormal(Ulcer),1,0.90379834,1
+Baseline,4,91.jpg,Abnormal(Ulcer),1,0.9979803,1
+Baseline,4,92.jpg,Abnormal(Ulcer),1,0.9919165,1
+Baseline,4,93.jpg,Abnormal(Ulcer),1,0.987806,1
+Baseline,4,94.jpg,Abnormal(Ulcer),1,0.96948415,1
+Baseline,4,95.jpg,Abnormal(Ulcer),1,0.8686881,1
+Baseline,4,111.jpg,Normal(Healthy skin),0,0.015588262,0
+Baseline,4,112.jpg,Normal(Healthy skin),0,0.031218836,0
+Baseline,4,113.jpg,Normal(Healthy skin),0,0.004162975,0
+Baseline,4,117.jpg,Normal(Healthy skin),0,0.006283617,0
+Baseline,4,131.jpg,Normal(Healthy skin),0,0.0028204862,0
+Baseline,4,135.jpg,Normal(Healthy skin),0,0.021101821,0
+Baseline,4,138.jpg,Normal(Healthy skin),0,0.010331234,0
+Baseline,4,14.jpg,Normal(Healthy skin),0,0.030951226,0
+Baseline,4,140.jpg,Normal(Healthy skin),0,0.0067590377,0
+Baseline,4,147.jpg,Normal(Healthy skin),0,0.0150750205,0
+Baseline,4,151.jpg,Normal(Healthy skin),0,0.00523372,0
+Baseline,4,152.jpg,Normal(Healthy skin),0,0.016468044,0
+Baseline,4,171.jpg,Normal(Healthy skin),0,0.038405355,0
+Baseline,4,206.jpg,Normal(Healthy skin),0,0.0032715173,0
+Baseline,4,207.jpg,Normal(Healthy skin),0,0.003469177,0
+Baseline,4,208.jpg,Normal(Healthy skin),0,0.0044434643,0
+Baseline,4,209.jpg,Normal(Healthy skin),0,0.0034178977,0
+Baseline,4,211.jpg,Normal(Healthy skin),0,0.0045461594,0
+Baseline,4,212.jpg,Normal(Healthy skin),0,0.0062152427,0
+Baseline,4,213.jpg,Normal(Healthy skin),0,0.0028865447,0
+Baseline,4,214.jpg,Normal(Healthy skin),0,0.003160509,0
+Baseline,4,216.jpg,Normal(Healthy skin),0,0.0047957087,0
+Baseline,4,219.jpg,Normal(Healthy skin),0,0.0067201364,0
+Baseline,4,220.jpg,Normal(Healthy skin),0,0.020679573,0
+Baseline,4,227.jpg,Normal(Healthy skin),0,0.0029116618,0
+Baseline,4,228.jpg,Normal(Healthy skin),0,0.0020239006,0
+Baseline,4,229.jpg,Normal(Healthy skin),0,0.0042702937,0
+Baseline,4,233.jpg,Normal(Healthy skin),0,0.0052866046,0
+Baseline,4,234.jpg,Normal(Healthy skin),0,0.008059551,0
+Baseline,4,252.jpg,Normal(Healthy skin),0,0.005032696,0
+Baseline,4,262.jpg,Normal(Healthy skin),0,0.0029581543,0
+Baseline,4,266.jpg,Normal(Healthy skin),0,0.024089158,0
+Baseline,4,27.jpg,Normal(Healthy skin),0,0.0038790023,0
+Baseline,4,276.jpg,Normal(Healthy skin),0,0.0041710483,0
+Baseline,4,277.jpg,Normal(Healthy skin),0,0.0028884176,0
+Baseline,4,278.jpg,Normal(Healthy skin),0,0.005864899,0
+Baseline,4,279.jpg,Normal(Healthy skin),0,0.0037409787,0
+Baseline,4,324.jpg,Normal(Healthy skin),0,0.03305585,0
+Baseline,4,330.jpg,Normal(Healthy skin),0,0.0025608658,0
+Baseline,4,355.jpg,Normal(Healthy skin),0,0.03135054,0
+Baseline,4,370.jpg,Normal(Healthy skin),0,0.008152605,0
+ECA-Late,0,121.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,0,122.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,123.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,161.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Late,0,162.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,163.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,164.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,180.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,181.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,182.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,183.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,0,187.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,20.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,200.jpg,Abnormal(Ulcer),1,0.9999366,1
+ECA-Late,0,201.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,202.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,203.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,204.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,207.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Late,0,208.jpg,Abnormal(Ulcer),1,0.99999714,1
+ECA-Late,0,21.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,222.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,226.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,231.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,239.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,0,240.jpg,Abnormal(Ulcer),1,0.999802,1
+ECA-Late,0,241.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,242.jpg,Abnormal(Ulcer),1,0.9999956,1
+ECA-Late,0,243.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,244.jpg,Abnormal(Ulcer),1,0.9999443,1
+ECA-Late,0,262.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,263.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,264.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,265.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,0,266.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,267.jpg,Abnormal(Ulcer),1,0.999884,1
+ECA-Late,0,268.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,269.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,27.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,270.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,276.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,277.jpg,Abnormal(Ulcer),1,0.96969897,1
+ECA-Late,0,30.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,306.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,307.jpg,Abnormal(Ulcer),1,0.9999881,1
+ECA-Late,0,308.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,309.jpg,Abnormal(Ulcer),1,0.99753904,1
+ECA-Late,0,334.jpg,Abnormal(Ulcer),1,0.9997804,1
+ECA-Late,0,335.jpg,Abnormal(Ulcer),1,0.99999857,1
+ECA-Late,0,336.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,0,337.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,338.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,339.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,340.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,341.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Late,0,342.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,343.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,351.jpg,Abnormal(Ulcer),1,0.99999547,1
+ECA-Late,0,353.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Late,0,354.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,355.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,0,356.jpg,Abnormal(Ulcer),1,0.9995579,1
+ECA-Late,0,36.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,37.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,375.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,376.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,377.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,403.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,417.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,418.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,419.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,42.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,420.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,422.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,423.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,424.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,425.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,440.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,456.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,458.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,469.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,0,474.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,0,477.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,478.jpg,Abnormal(Ulcer),1,0.9964878,1
+ECA-Late,0,480.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,492.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,507.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,513.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,53.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,0,54.jpg,Abnormal(Ulcer),1,0.9230904,1
+ECA-Late,0,60.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,0,9.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,0,10.jpg,Normal(Healthy skin),0,4.067781e-06,0
+ECA-Late,0,100.jpg,Normal(Healthy skin),0,0.00027092954,0
+ECA-Late,0,101.jpg,Normal(Healthy skin),0,0.999984,1
+ECA-Late,0,102.jpg,Normal(Healthy skin),0,0.5549322,1
+ECA-Late,0,103.jpg,Normal(Healthy skin),0,0.16047385,0
+ECA-Late,0,104.jpg,Normal(Healthy skin),0,0.00012010647,0
+ECA-Late,0,105.jpg,Normal(Healthy skin),0,2.6324205e-05,0
+ECA-Late,0,106.jpg,Normal(Healthy skin),0,1.5615451e-05,0
+ECA-Late,0,107.jpg,Normal(Healthy skin),0,0.0037288815,0
+ECA-Late,0,129.jpg,Normal(Healthy skin),0,1.2819715e-06,0
+ECA-Late,0,13.jpg,Normal(Healthy skin),0,2.2764625e-06,0
+ECA-Late,0,136.jpg,Normal(Healthy skin),0,3.4449098e-05,0
+ECA-Late,0,141.jpg,Normal(Healthy skin),0,3.0085123e-06,0
+ECA-Late,0,146.jpg,Normal(Healthy skin),0,3.311453e-06,0
+ECA-Late,0,157.jpg,Normal(Healthy skin),0,3.446326e-05,0
+ECA-Late,0,161.jpg,Normal(Healthy skin),0,0.00093556714,0
+ECA-Late,0,162.jpg,Normal(Healthy skin),0,4.744144e-05,0
+ECA-Late,0,164.jpg,Normal(Healthy skin),0,1.7468172e-05,0
+ECA-Late,0,165.jpg,Normal(Healthy skin),0,0.00027236875,0
+ECA-Late,0,166.jpg,Normal(Healthy skin),0,4.0309096e-06,0
+ECA-Late,0,167.jpg,Normal(Healthy skin),0,0.0002656005,0
+ECA-Late,0,168.jpg,Normal(Healthy skin),0,7.5348026e-07,0
+ECA-Late,0,169.jpg,Normal(Healthy skin),0,0.0012241296,0
+ECA-Late,0,172.jpg,Normal(Healthy skin),0,1.942796e-05,0
+ECA-Late,0,178.jpg,Normal(Healthy skin),0,1.107206e-05,0
+ECA-Late,0,179.jpg,Normal(Healthy skin),0,1.1088534e-05,0
+ECA-Late,0,180.jpg,Normal(Healthy skin),0,8.1539265e-06,0
+ECA-Late,0,181.jpg,Normal(Healthy skin),0,0.00020803856,0
+ECA-Late,0,182.jpg,Normal(Healthy skin),0,1.5664045e-05,0
+ECA-Late,0,183.jpg,Normal(Healthy skin),0,2.0558778e-05,0
+ECA-Late,0,195.jpg,Normal(Healthy skin),0,6.2540207e-06,0
+ECA-Late,0,196.jpg,Normal(Healthy skin),0,1.0606742e-05,0
+ECA-Late,0,239.jpg,Normal(Healthy skin),0,2.1324333e-06,0
+ECA-Late,0,246.jpg,Normal(Healthy skin),0,1.7084138e-06,0
+ECA-Late,0,247.jpg,Normal(Healthy skin),0,0.00013247835,0
+ECA-Late,0,249.jpg,Normal(Healthy skin),0,2.475754e-05,0
+ECA-Late,0,253.jpg,Normal(Healthy skin),0,2.9151972e-05,0
+ECA-Late,0,263.jpg,Normal(Healthy skin),0,7.1889775e-07,0
+ECA-Late,0,274.jpg,Normal(Healthy skin),0,1.8227143e-05,0
+ECA-Late,0,275.jpg,Normal(Healthy skin),0,1.0385099e-05,0
+ECA-Late,0,320.jpg,Normal(Healthy skin),0,0.5470015,1
+ECA-Late,0,322 - Copy.jpg,Normal(Healthy skin),0,5.0122737e-05,0
+ECA-Late,0,329.jpg,Normal(Healthy skin),0,4.11529e-05,0
+ECA-Late,0,350.jpg,Normal(Healthy skin),0,2.2196933e-05,0
+ECA-Late,0,353.jpg,Normal(Healthy skin),0,1.1009622e-05,0
+ECA-Late,0,362.jpg,Normal(Healthy skin),0,6.4253095e-06,0
+ECA-Late,0,363.jpg,Normal(Healthy skin),0,3.110894e-06,0
+ECA-Late,0,368.jpg,Normal(Healthy skin),0,2.9039152e-06,0
+ECA-Late,0,61.jpg,Normal(Healthy skin),0,0.9998958,1
+ECA-Late,0,89.jpg,Normal(Healthy skin),0,0.9313811,1
+ECA-Late,0,90.jpg,Normal(Healthy skin),0,0.049061403,0
+ECA-Late,1,1.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Late,1,124.jpg,Abnormal(Ulcer),1,0.9999949,1
+ECA-Late,1,126.jpg,Abnormal(Ulcer),1,0.99995923,1
+ECA-Late,1,127.jpg,Abnormal(Ulcer),1,0.9999939,1
+ECA-Late,1,128.jpg,Abnormal(Ulcer),1,0.99993527,1
+ECA-Late,1,129.jpg,Abnormal(Ulcer),1,0.99995244,1
+ECA-Late,1,13.jpg,Abnormal(Ulcer),1,0.9999943,1
+ECA-Late,1,130.jpg,Abnormal(Ulcer),1,0.99949527,1
+ECA-Late,1,131.jpg,Abnormal(Ulcer),1,0.99998724,1
+ECA-Late,1,140.jpg,Abnormal(Ulcer),1,0.9998721,1
+ECA-Late,1,141.jpg,Abnormal(Ulcer),1,0.9998921,1
+ECA-Late,1,142.jpg,Abnormal(Ulcer),1,0.9999939,1
+ECA-Late,1,145.jpg,Abnormal(Ulcer),1,0.9999958,1
+ECA-Late,1,168.jpg,Abnormal(Ulcer),1,0.9998714,1
+ECA-Late,1,169.jpg,Abnormal(Ulcer),1,0.9999236,1
+ECA-Late,1,170.jpg,Abnormal(Ulcer),1,0.99992156,1
+ECA-Late,1,171.jpg,Abnormal(Ulcer),1,0.99990416,1
+ECA-Late,1,172.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,1,22.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Late,1,230.jpg,Abnormal(Ulcer),1,0.99994016,1
+ECA-Late,1,25.jpg,Abnormal(Ulcer),1,0.9999981,1
+ECA-Late,1,251.jpg,Abnormal(Ulcer),1,0.99911493,1
+ECA-Late,1,252.jpg,Abnormal(Ulcer),1,0.99969274,1
+ECA-Late,1,253.jpg,Abnormal(Ulcer),1,0.9997681,1
+ECA-Late,1,254.jpg,Abnormal(Ulcer),1,0.9999713,1
+ECA-Late,1,255.jpg,Abnormal(Ulcer),1,0.9991522,1
+ECA-Late,1,256.jpg,Abnormal(Ulcer),1,0.9999745,1
+ECA-Late,1,257.jpg,Abnormal(Ulcer),1,0.99998665,1
+ECA-Late,1,258.jpg,Abnormal(Ulcer),1,0.9999374,1
+ECA-Late,1,259.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Late,1,260.jpg,Abnormal(Ulcer),1,0.99999034,1
+ECA-Late,1,261.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,1,278.jpg,Abnormal(Ulcer),1,0.9831745,1
+ECA-Late,1,279.jpg,Abnormal(Ulcer),1,0.9999485,1
+ECA-Late,1,28.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Late,1,280.jpg,Abnormal(Ulcer),1,0.9998307,1
+ECA-Late,1,281.jpg,Abnormal(Ulcer),1,0.99997497,1
+ECA-Late,1,3.jpg,Abnormal(Ulcer),1,0.99996805,1
+ECA-Late,1,302.jpg,Abnormal(Ulcer),1,0.9966269,1
+ECA-Late,1,303.jpg,Abnormal(Ulcer),1,0.999992,1
+ECA-Late,1,304.jpg,Abnormal(Ulcer),1,0.9999815,1
+ECA-Late,1,305.jpg,Abnormal(Ulcer),1,0.99994767,1
+ECA-Late,1,310.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Late,1,324.jpg,Abnormal(Ulcer),1,0.8411257,1
+ECA-Late,1,33.jpg,Abnormal(Ulcer),1,0.9997464,1
+ECA-Late,1,344.jpg,Abnormal(Ulcer),1,0.999997,1
+ECA-Late,1,347.jpg,Abnormal(Ulcer),1,0.99999547,1
+ECA-Late,1,35.jpg,Abnormal(Ulcer),1,0.99998605,1
+ECA-Late,1,352.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,1,357.jpg,Abnormal(Ulcer),1,0.99931955,1
+ECA-Late,1,358.jpg,Abnormal(Ulcer),1,0.9999914,1
+ECA-Late,1,359.jpg,Abnormal(Ulcer),1,0.9998896,1
+ECA-Late,1,363.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,1,364.jpg,Abnormal(Ulcer),1,0.9999957,1
+ECA-Late,1,365.jpg,Abnormal(Ulcer),1,0.9999981,1
+ECA-Late,1,366.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,1,367.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,1,368.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,1,401.jpg,Abnormal(Ulcer),1,0.99972206,1
+ECA-Late,1,402.jpg,Abnormal(Ulcer),1,0.99797136,1
+ECA-Late,1,416.jpg,Abnormal(Ulcer),1,0.70996064,1
+ECA-Late,1,426.jpg,Abnormal(Ulcer),1,0.99996555,1
+ECA-Late,1,434.jpg,Abnormal(Ulcer),1,0.99945647,1
+ECA-Late,1,438.jpg,Abnormal(Ulcer),1,0.99998975,1
+ECA-Late,1,439.jpg,Abnormal(Ulcer),1,0.99999714,1
+ECA-Late,1,441.jpg,Abnormal(Ulcer),1,0.99998736,1
+ECA-Late,1,443.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,1,444.jpg,Abnormal(Ulcer),1,0.99999464,1
+ECA-Late,1,448.jpg,Abnormal(Ulcer),1,0.99999416,1
+ECA-Late,1,450.jpg,Abnormal(Ulcer),1,0.99939775,1
+ECA-Late,1,459.jpg,Abnormal(Ulcer),1,0.9999949,1
+ECA-Late,1,460.jpg,Abnormal(Ulcer),1,0.99999654,1
+ECA-Late,1,464.jpg,Abnormal(Ulcer),1,0.99996245,1
+ECA-Late,1,468.jpg,Abnormal(Ulcer),1,0.99999404,1
+ECA-Late,1,472.jpg,Abnormal(Ulcer),1,0.9999968,1
+ECA-Late,1,476.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Late,1,487.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Late,1,493.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,1,494.jpg,Abnormal(Ulcer),1,0.9999852,1
+ECA-Late,1,495.jpg,Abnormal(Ulcer),1,0.99999213,1
+ECA-Late,1,499.jpg,Abnormal(Ulcer),1,0.9996787,1
+ECA-Late,1,500.jpg,Abnormal(Ulcer),1,0.9999691,1
+ECA-Late,1,501.jpg,Abnormal(Ulcer),1,0.99996054,1
+ECA-Late,1,502.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Late,1,504.jpg,Abnormal(Ulcer),1,0.9999176,1
+ECA-Late,1,505.jpg,Abnormal(Ulcer),1,0.99976975,1
+ECA-Late,1,508.jpg,Abnormal(Ulcer),1,0.9999875,1
+ECA-Late,1,510.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,1,511.jpg,Abnormal(Ulcer),1,0.99999523,1
+ECA-Late,1,512.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Late,1,56.jpg,Abnormal(Ulcer),1,0.9902159,1
+ECA-Late,1,7.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Late,1,8.jpg,Abnormal(Ulcer),1,0.99995744,1
+ECA-Late,1,96.jpg,Abnormal(Ulcer),1,0.99999666,1
+ECA-Late,1,127.jpg,Normal(Healthy skin),0,0.00046037673,0
+ECA-Late,1,134.jpg,Normal(Healthy skin),0,0.0019845325,0
+ECA-Late,1,139.jpg,Normal(Healthy skin),0,0.00029950697,0
+ECA-Late,1,144.jpg,Normal(Healthy skin),0,0.015311378,0
+ECA-Late,1,15.jpg,Normal(Healthy skin),0,0.0017336946,0
+ECA-Late,1,153.jpg,Normal(Healthy skin),0,0.0110563515,0
+ECA-Late,1,154.jpg,Normal(Healthy skin),0,0.46047878,1
+ECA-Late,1,155.jpg,Normal(Healthy skin),0,0.0054730265,0
+ECA-Late,1,156.jpg,Normal(Healthy skin),0,0.0152534135,0
+ECA-Late,1,173.jpg,Normal(Healthy skin),0,0.01711466,0
+ECA-Late,1,18.jpg,Normal(Healthy skin),0,0.0284483,0
+ECA-Late,1,198.jpg,Normal(Healthy skin),0,0.0001788582,0
+ECA-Late,1,199.jpg,Normal(Healthy skin),0,0.0003174576,0
+ECA-Late,1,200.jpg,Normal(Healthy skin),0,0.0003427849,0
+ECA-Late,1,204.jpg,Normal(Healthy skin),0,0.0005409917,0
+ECA-Late,1,210.jpg,Normal(Healthy skin),0,0.0031591335,0
+ECA-Late,1,218.jpg,Normal(Healthy skin),0,0.0024008797,0
+ECA-Late,1,230.jpg,Normal(Healthy skin),0,0.00286268,0
+ECA-Late,1,231.jpg,Normal(Healthy skin),0,0.0010315969,0
+ECA-Late,1,242.jpg,Normal(Healthy skin),0,0.0035308697,0
+ECA-Late,1,243.jpg,Normal(Healthy skin),0,0.0021499803,0
+ECA-Late,1,251.jpg,Normal(Healthy skin),0,0.0010237888,0
+ECA-Late,1,260.jpg,Normal(Healthy skin),0,0.0001799331,0
+ECA-Late,1,261.jpg,Normal(Healthy skin),0,0.004434064,0
+ECA-Late,1,273.jpg,Normal(Healthy skin),0,0.0022102569,0
+ECA-Late,1,28.jpg,Normal(Healthy skin),0,0.008983,0
+ECA-Late,1,29.jpg,Normal(Healthy skin),0,0.00047528086,0
+ECA-Late,1,316 - Copy.jpg,Normal(Healthy skin),0,0.000642226,0
+ECA-Late,1,318 - Copy.jpg,Normal(Healthy skin),0,0.008329517,0
+ECA-Late,1,319.jpg,Normal(Healthy skin),0,0.005271023,0
+ECA-Late,1,321 - Copy.jpg,Normal(Healthy skin),0,0.0020484924,0
+ECA-Late,1,331 - Copy.jpg,Normal(Healthy skin),0,0.029977418,0
+ECA-Late,1,332.jpg,Normal(Healthy skin),0,0.0008839487,0
+ECA-Late,1,336.jpg,Normal(Healthy skin),0,0.0044503906,0
+ECA-Late,1,339.jpg,Normal(Healthy skin),0,0.0003131283,0
+ECA-Late,1,347.jpg,Normal(Healthy skin),0,0.026118072,0
+ECA-Late,1,349.jpg,Normal(Healthy skin),0,0.013811463,0
+ECA-Late,1,358.jpg,Normal(Healthy skin),0,0.030213902,0
+ECA-Late,1,366.jpg,Normal(Healthy skin),0,0.068368495,0
+ECA-Late,1,40.jpg,Normal(Healthy skin),0,0.36543044,0
+ECA-Late,1,41.jpg,Normal(Healthy skin),0,0.030395713,0
+ECA-Late,1,79.jpg,Normal(Healthy skin),0,0.01704948,0
+ECA-Late,1,85.jpg,Normal(Healthy skin),0,0.6328931,1
+ECA-Late,2,10.jpg,Abnormal(Ulcer),1,0.99999475,1
+ECA-Late,2,103.jpg,Abnormal(Ulcer),1,0.99976367,1
+ECA-Late,2,104.jpg,Abnormal(Ulcer),1,0.9996821,1
+ECA-Late,2,105.jpg,Abnormal(Ulcer),1,0.9990441,1
+ECA-Late,2,106.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Late,2,107.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,2,11.jpg,Abnormal(Ulcer),1,0.9999908,1
+ECA-Late,2,111.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Late,2,112.jpg,Abnormal(Ulcer),1,0.99999607,1
+ECA-Late,2,113.jpg,Abnormal(Ulcer),1,0.99999857,1
+ECA-Late,2,114.jpg,Abnormal(Ulcer),1,0.99997985,1
+ECA-Late,2,115.jpg,Abnormal(Ulcer),1,0.9999969,1
+ECA-Late,2,116.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,2,117.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,2,118.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,12.jpg,Abnormal(Ulcer),1,0.99992085,1
+ECA-Late,2,132.jpg,Abnormal(Ulcer),1,0.9997203,1
+ECA-Late,2,133.jpg,Abnormal(Ulcer),1,0.9999404,1
+ECA-Late,2,134.jpg,Abnormal(Ulcer),1,0.9999846,1
+ECA-Late,2,135.jpg,Abnormal(Ulcer),1,0.9997261,1
+ECA-Late,2,136.jpg,Abnormal(Ulcer),1,0.9968982,1
+ECA-Late,2,137.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,2,138.jpg,Abnormal(Ulcer),1,0.99964666,1
+ECA-Late,2,139.jpg,Abnormal(Ulcer),1,0.9999559,1
+ECA-Late,2,14.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,2,157.jpg,Abnormal(Ulcer),1,0.99971956,1
+ECA-Late,2,158.jpg,Abnormal(Ulcer),1,0.999645,1
+ECA-Late,2,159.jpg,Abnormal(Ulcer),1,0.9999901,1
+ECA-Late,2,160.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Late,2,19.jpg,Abnormal(Ulcer),1,0.9999844,1
+ECA-Late,2,194.jpg,Abnormal(Ulcer),1,0.999992,1
+ECA-Late,2,205.jpg,Abnormal(Ulcer),1,0.9999373,1
+ECA-Late,2,206.jpg,Abnormal(Ulcer),1,0.99999785,1
+ECA-Late,2,218.jpg,Abnormal(Ulcer),1,0.99987423,1
+ECA-Late,2,219.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Late,2,220.jpg,Abnormal(Ulcer),1,0.99998486,1
+ECA-Late,2,224.jpg,Abnormal(Ulcer),1,0.99984,1
+ECA-Late,2,225.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,2,227.jpg,Abnormal(Ulcer),1,0.9999361,1
+ECA-Late,2,229.jpg,Abnormal(Ulcer),1,0.9999962,1
+ECA-Late,2,235.jpg,Abnormal(Ulcer),1,0.99981165,1
+ECA-Late,2,236.jpg,Abnormal(Ulcer),1,0.84681433,1
+ECA-Late,2,237.jpg,Abnormal(Ulcer),1,0.9986987,1
+ECA-Late,2,238.jpg,Abnormal(Ulcer),1,0.9998461,1
+ECA-Late,2,273.jpg,Abnormal(Ulcer),1,0.9999894,1
+ECA-Late,2,275.jpg,Abnormal(Ulcer),1,0.9999988,1
+ECA-Late,2,282.jpg,Abnormal(Ulcer),1,0.9999949,1
+ECA-Late,2,283.jpg,Abnormal(Ulcer),1,0.99999785,1
+ECA-Late,2,284.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,2,290.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Late,2,291.jpg,Abnormal(Ulcer),1,0.30487934,0
+ECA-Late,2,301.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,31.jpg,Abnormal(Ulcer),1,0.9999968,1
+ECA-Late,2,315.jpg,Abnormal(Ulcer),1,0.9999982,1
+ECA-Late,2,316.jpg,Abnormal(Ulcer),1,0.9999981,1
+ECA-Late,2,317.jpg,Abnormal(Ulcer),1,0.99998057,1
+ECA-Late,2,318.jpg,Abnormal(Ulcer),1,0.9999924,1
+ECA-Late,2,319.jpg,Abnormal(Ulcer),1,0.9999982,1
+ECA-Late,2,320.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,2,321.jpg,Abnormal(Ulcer),1,0.9975908,1
+ECA-Late,2,325.jpg,Abnormal(Ulcer),1,0.99999297,1
+ECA-Late,2,330.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Late,2,34.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,2,346.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,348.jpg,Abnormal(Ulcer),1,0.98652977,1
+ECA-Late,2,349.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Late,2,350.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,380.jpg,Abnormal(Ulcer),1,0.99998736,1
+ECA-Late,2,4.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Late,2,40.jpg,Abnormal(Ulcer),1,0.99994373,1
+ECA-Late,2,41.jpg,Abnormal(Ulcer),1,0.99999213,1
+ECA-Late,2,410.jpg,Abnormal(Ulcer),1,0.99957794,1
+ECA-Late,2,411.jpg,Abnormal(Ulcer),1,0.9999757,1
+ECA-Late,2,413.jpg,Abnormal(Ulcer),1,0.9999956,1
+ECA-Late,2,414.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,415.jpg,Abnormal(Ulcer),1,0.9999138,1
+ECA-Late,2,421.jpg,Abnormal(Ulcer),1,0.99986756,1
+ECA-Late,2,437.jpg,Abnormal(Ulcer),1,0.99999607,1
+ECA-Late,2,442.jpg,Abnormal(Ulcer),1,0.9999939,1
+ECA-Late,2,457.jpg,Abnormal(Ulcer),1,0.99998534,1
+ECA-Late,2,466.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,2,473.jpg,Abnormal(Ulcer),1,0.9999534,1
+ECA-Late,2,475.jpg,Abnormal(Ulcer),1,0.9999194,1
+ECA-Late,2,481.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,2,482.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,489.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,2,49.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,2,497.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,2,5.jpg,Abnormal(Ulcer),1,0.999995,1
+ECA-Late,2,50.jpg,Abnormal(Ulcer),1,0.99999607,1
+ECA-Late,2,509.jpg,Abnormal(Ulcer),1,0.99997044,1
+ECA-Late,2,51.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,2,57.jpg,Abnormal(Ulcer),1,0.64127904,0
+ECA-Late,2,59.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,2,1.jpg,Normal(Healthy skin),0,0.01409915,0
+ECA-Late,2,108.jpg,Normal(Healthy skin),0,5.3660235e-05,0
+ECA-Late,2,109.jpg,Normal(Healthy skin),0,4.4428183e-05,0
+ECA-Late,2,110.jpg,Normal(Healthy skin),0,0.0004190001,0
+ECA-Late,2,114.jpg,Normal(Healthy skin),0,0.00082519103,0
+ECA-Late,2,122.jpg,Normal(Healthy skin),0,0.00011461522,0
+ECA-Late,2,137.jpg,Normal(Healthy skin),0,0.00015180328,0
+ECA-Late,2,143.jpg,Normal(Healthy skin),0,9.175314e-05,0
+ECA-Late,2,145.jpg,Normal(Healthy skin),0,3.2211283e-05,0
+ECA-Late,2,158.jpg,Normal(Healthy skin),0,0.0002635231,0
+ECA-Late,2,159.jpg,Normal(Healthy skin),0,0.00017878573,0
+ECA-Late,2,160.jpg,Normal(Healthy skin),0,0.0001533846,0
+ECA-Late,2,170.jpg,Normal(Healthy skin),0,0.017465783,0
+ECA-Late,2,174.jpg,Normal(Healthy skin),0,0.00042850262,0
+ECA-Late,2,176.jpg,Normal(Healthy skin),0,0.0007900742,0
+ECA-Late,2,177.jpg,Normal(Healthy skin),0,0.0024035869,0
+ECA-Late,2,185.jpg,Normal(Healthy skin),0,6.982308e-05,0
+ECA-Late,2,186.jpg,Normal(Healthy skin),0,0.00013223817,0
+ECA-Late,2,187.jpg,Normal(Healthy skin),0,0.0008765612,0
+ECA-Late,2,188.jpg,Normal(Healthy skin),0,0.0011362464,0
+ECA-Late,2,189.jpg,Normal(Healthy skin),0,0.5723437,0
+ECA-Late,2,190.jpg,Normal(Healthy skin),0,2.9669969e-05,0
+ECA-Late,2,191.jpg,Normal(Healthy skin),0,0.00015764327,0
+ECA-Late,2,192.jpg,Normal(Healthy skin),0,2.5038598e-05,0
+ECA-Late,2,193.jpg,Normal(Healthy skin),0,0.00014319582,0
+ECA-Late,2,194.jpg,Normal(Healthy skin),0,2.2681414e-05,0
+ECA-Late,2,197.jpg,Normal(Healthy skin),0,0.00026513016,0
+ECA-Late,2,221.jpg,Normal(Healthy skin),0,4.2358148e-05,0
+ECA-Late,2,222.jpg,Normal(Healthy skin),0,2.5625804e-05,0
+ECA-Late,2,223.jpg,Normal(Healthy skin),0,0.0002052735,0
+ECA-Late,2,224.jpg,Normal(Healthy skin),0,4.3681855e-05,0
+ECA-Late,2,225.jpg,Normal(Healthy skin),0,3.52384e-05,0
+ECA-Late,2,226.jpg,Normal(Healthy skin),0,3.3606884e-05,0
+ECA-Late,2,232.jpg,Normal(Healthy skin),0,4.685859e-05,0
+ECA-Late,2,240.jpg,Normal(Healthy skin),0,4.094367e-05,0
+ECA-Late,2,241.jpg,Normal(Healthy skin),0,9.352901e-05,0
+ECA-Late,2,244.jpg,Normal(Healthy skin),0,0.00016064888,0
+ECA-Late,2,245.jpg,Normal(Healthy skin),0,0.0004430487,0
+ECA-Late,2,248.jpg,Normal(Healthy skin),0,6.251537e-05,0
+ECA-Late,2,250.jpg,Normal(Healthy skin),0,0.00036582866,0
+ECA-Late,2,254.jpg,Normal(Healthy skin),0,0.00014661626,0
+ECA-Late,2,255.jpg,Normal(Healthy skin),0,0.00014866472,0
+ECA-Late,2,256.jpg,Normal(Healthy skin),0,0.0006797285,0
+ECA-Late,2,265.jpg,Normal(Healthy skin),0,0.002981383,0
+ECA-Late,2,268.jpg,Normal(Healthy skin),0,5.272071e-05,0
+ECA-Late,2,270.jpg,Normal(Healthy skin),0,3.7824273e-05,0
+ECA-Late,2,280.jpg,Normal(Healthy skin),0,2.847503e-05,0
+ECA-Late,2,311.jpg,Normal(Healthy skin),0,0.0003624627,0
+ECA-Late,2,337.jpg,Normal(Healthy skin),0,7.833055e-05,0
+ECA-Late,2,341.jpg,Normal(Healthy skin),0,2.94522e-05,0
+ECA-Late,2,343.jpg,Normal(Healthy skin),0,0.00016851835,0
+ECA-Late,2,344.jpg,Normal(Healthy skin),0,1.7262908e-05,0
+ECA-Late,2,346.jpg,Normal(Healthy skin),0,9.344476e-05,0
+ECA-Late,2,359.jpg,Normal(Healthy skin),0,0.00022721985,0
+ECA-Late,2,59.jpg,Normal(Healthy skin),0,0.00676182,0
+ECA-Late,2,88.jpg,Normal(Healthy skin),0,0.0048483238,0
+ECA-Late,3,100.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,101.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,125.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,143.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,144.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,146.jpg,Abnormal(Ulcer),1,0.9989999,1
+ECA-Late,3,147.jpg,Abnormal(Ulcer),1,0.9998746,1
+ECA-Late,3,148.jpg,Abnormal(Ulcer),1,0.99125123,1
+ECA-Late,3,149.jpg,Abnormal(Ulcer),1,0.9999943,1
+ECA-Late,3,15.jpg,Abnormal(Ulcer),1,0.9999988,1
+ECA-Late,3,150.jpg,Abnormal(Ulcer),1,0.9999418,1
+ECA-Late,3,151.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,3,152.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,3,153.jpg,Abnormal(Ulcer),1,0.99974996,1
+ECA-Late,3,154.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,155.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Late,3,156.jpg,Abnormal(Ulcer),1,0.99999666,1
+ECA-Late,3,16.jpg,Abnormal(Ulcer),1,0.99999857,1
+ECA-Late,3,165.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,166.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,167.jpg,Abnormal(Ulcer),1,0.10733513,0
+ECA-Late,3,17.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,173.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,3,174.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,175.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Late,3,176.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,177.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,178.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,3,179.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,3,18.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,184.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,185.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,186.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,188.jpg,Abnormal(Ulcer),1,0.9999982,1
+ECA-Late,3,189.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,195.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,3,196.jpg,Abnormal(Ulcer),1,0.9999927,1
+ECA-Late,3,197.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,3,198.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,2.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,209.jpg,Abnormal(Ulcer),1,0.99998915,1
+ECA-Late,3,210.jpg,Abnormal(Ulcer),1,0.99976355,1
+ECA-Late,3,211.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Late,3,212.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Late,3,215.jpg,Abnormal(Ulcer),1,0.99999213,1
+ECA-Late,3,216.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,217.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Late,3,221.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,223.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,232.jpg,Abnormal(Ulcer),1,0.006264973,0
+ECA-Late,3,24.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,26.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,3,271.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,272.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,274.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,29.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,292.jpg,Abnormal(Ulcer),1,0.9999926,1
+ECA-Late,3,322.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,323.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,360.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,361.jpg,Abnormal(Ulcer),1,0.9999815,1
+ECA-Late,3,362.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Late,3,369.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,370.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Late,3,39.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Late,3,408.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,409.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Late,3,43.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,430.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,431.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,435.jpg,Abnormal(Ulcer),1,0.9774045,1
+ECA-Late,3,44.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,445.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,446.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,452.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,453.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,454.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,455.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,463.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,470.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,471.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,479.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,483.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,484.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,488.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,498.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,503.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,6.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,78.jpg,Abnormal(Ulcer),1,0.9985324,1
+ECA-Late,3,79.jpg,Abnormal(Ulcer),1,0.99997425,1
+ECA-Late,3,80.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,81.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,82.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,3,83.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Late,3,84.jpg,Abnormal(Ulcer),1,0.99995935,1
+ECA-Late,3,85.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Late,3,86.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Late,3,88.jpg,Abnormal(Ulcer),1,0.9996519,1
+ECA-Late,3,89.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Late,3,97.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Late,3,98.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,99.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Late,3,11.jpg,Normal(Healthy skin),0,1.7052469e-05,0
+ECA-Late,3,115.jpg,Normal(Healthy skin),0,0.00019779589,0
+ECA-Late,3,116.jpg,Normal(Healthy skin),0,0.00023160072,0
+ECA-Late,3,118.jpg,Normal(Healthy skin),0,0.35545504,0
+ECA-Late,3,119.jpg,Normal(Healthy skin),0,1.6581474e-05,0
+ECA-Late,3,12.jpg,Normal(Healthy skin),0,1.1829052e-05,0
+ECA-Late,3,120.jpg,Normal(Healthy skin),0,0.00043613647,0
+ECA-Late,3,121.jpg,Normal(Healthy skin),0,3.6252936e-06,0
+ECA-Late,3,123.jpg,Normal(Healthy skin),0,5.5594487e-06,0
+ECA-Late,3,124.jpg,Normal(Healthy skin),0,1.6472126e-05,0
+ECA-Late,3,125.jpg,Normal(Healthy skin),0,1.1502635e-05,0
+ECA-Late,3,126.jpg,Normal(Healthy skin),0,2.7465364e-06,0
+ECA-Late,3,132.jpg,Normal(Healthy skin),0,7.3591477e-06,0
+ECA-Late,3,142.jpg,Normal(Healthy skin),0,5.434049e-05,0
+ECA-Late,3,163.jpg,Normal(Healthy skin),0,2.1724272e-05,0
+ECA-Late,3,175.jpg,Normal(Healthy skin),0,4.9099763e-06,0
+ECA-Late,3,184.jpg,Normal(Healthy skin),0,1.8575045e-05,0
+ECA-Late,3,20.jpg,Normal(Healthy skin),0,5.5690216e-06,0
+ECA-Late,3,201.jpg,Normal(Healthy skin),0,0.000575538,0
+ECA-Late,3,202.jpg,Normal(Healthy skin),0,7.0195536e-05,0
+ECA-Late,3,203.jpg,Normal(Healthy skin),0,6.546601e-05,0
+ECA-Late,3,205.jpg,Normal(Healthy skin),0,4.6439322e-06,0
+ECA-Late,3,215.jpg,Normal(Healthy skin),0,5.5791264e-05,0
+ECA-Late,3,217.jpg,Normal(Healthy skin),0,8.018996e-06,0
+ECA-Late,3,235.jpg,Normal(Healthy skin),0,2.330515e-05,0
+ECA-Late,3,236.jpg,Normal(Healthy skin),0,1.17133595e-05,0
+ECA-Late,3,237.jpg,Normal(Healthy skin),0,6.041476e-06,0
+ECA-Late,3,238.jpg,Normal(Healthy skin),0,7.61814e-05,0
+ECA-Late,3,257.jpg,Normal(Healthy skin),0,3.4554882e-06,0
+ECA-Late,3,258.jpg,Normal(Healthy skin),0,5.554672e-07,0
+ECA-Late,3,259.jpg,Normal(Healthy skin),0,4.6607965e-06,0
+ECA-Late,3,264.jpg,Normal(Healthy skin),0,0.00014130716,0
+ECA-Late,3,267.jpg,Normal(Healthy skin),0,4.056063e-06,0
+ECA-Late,3,269.jpg,Normal(Healthy skin),0,3.922845e-06,0
+ECA-Late,3,271.jpg,Normal(Healthy skin),0,3.831706e-06,0
+ECA-Late,3,272.jpg,Normal(Healthy skin),0,7.611365e-07,0
+ECA-Late,3,286.jpg,Normal(Healthy skin),0,1.5463434e-05,0
+ECA-Late,3,315 - Copy.jpg,Normal(Healthy skin),0,0.00018537627,0
+ECA-Late,3,323 - Copy.jpg,Normal(Healthy skin),0,6.910356e-06,0
+ECA-Late,3,325 - Copy.jpg,Normal(Healthy skin),0,2.283978e-06,0
+ECA-Late,3,326.jpg,Normal(Healthy skin),0,3.7542131e-06,0
+ECA-Late,3,342.jpg,Normal(Healthy skin),0,1.1972117e-05,0
+ECA-Late,3,345.jpg,Normal(Healthy skin),0,2.5593614e-05,0
+ECA-Late,3,354.jpg,Normal(Healthy skin),0,5.0044982e-05,0
+ECA-Late,3,361.jpg,Normal(Healthy skin),0,5.2370997e-05,0
+ECA-Late,3,43.jpg,Normal(Healthy skin),0,0.0008772685,0
+ECA-Late,3,44.jpg,Normal(Healthy skin),0,0.003929522,0
+ECA-Late,3,45.jpg,Normal(Healthy skin),0,0.0012353491,0
+ECA-Late,3,55.jpg,Normal(Healthy skin),0,0.00017117904,0
+ECA-Late,4,102.jpg,Abnormal(Ulcer),1,0.99992394,1
+ECA-Late,4,108.jpg,Abnormal(Ulcer),1,0.99975914,1
+ECA-Late,4,109.jpg,Abnormal(Ulcer),1,0.9999852,1
+ECA-Late,4,110.jpg,Abnormal(Ulcer),1,0.9999665,1
+ECA-Late,4,119.jpg,Abnormal(Ulcer),1,0.9998201,1
+ECA-Late,4,120.jpg,Abnormal(Ulcer),1,0.9999348,1
+ECA-Late,4,190.jpg,Abnormal(Ulcer),1,0.99341536,1
+ECA-Late,4,191.jpg,Abnormal(Ulcer),1,0.99922526,1
+ECA-Late,4,192.jpg,Abnormal(Ulcer),1,0.9991609,1
+ECA-Late,4,193.jpg,Abnormal(Ulcer),1,0.99850404,1
+ECA-Late,4,213.jpg,Abnormal(Ulcer),1,0.99923503,1
+ECA-Late,4,214.jpg,Abnormal(Ulcer),1,0.7742235,1
+ECA-Late,4,23.jpg,Abnormal(Ulcer),1,0.9968189,1
+ECA-Late,4,233.jpg,Abnormal(Ulcer),1,0.99922454,1
+ECA-Late,4,234.jpg,Abnormal(Ulcer),1,0.9972933,1
+ECA-Late,4,245.jpg,Abnormal(Ulcer),1,0.9991097,1
+ECA-Late,4,246.jpg,Abnormal(Ulcer),1,0.99995184,1
+ECA-Late,4,247.jpg,Abnormal(Ulcer),1,0.99946845,1
+ECA-Late,4,248.jpg,Abnormal(Ulcer),1,0.9991129,1
+ECA-Late,4,249.jpg,Abnormal(Ulcer),1,0.99917954,1
+ECA-Late,4,250.jpg,Abnormal(Ulcer),1,0.9937655,1
+ECA-Late,4,288.jpg,Abnormal(Ulcer),1,0.99923885,1
+ECA-Late,4,293.jpg,Abnormal(Ulcer),1,0.9993801,1
+ECA-Late,4,311.jpg,Abnormal(Ulcer),1,0.9996512,1
+ECA-Late,4,312.jpg,Abnormal(Ulcer),1,0.9987659,1
+ECA-Late,4,313.jpg,Abnormal(Ulcer),1,0.97651315,1
+ECA-Late,4,314.jpg,Abnormal(Ulcer),1,0.99949753,1
+ECA-Late,4,32.jpg,Abnormal(Ulcer),1,0.99820817,1
+ECA-Late,4,326.jpg,Abnormal(Ulcer),1,0.9999194,1
+ECA-Late,4,327.jpg,Abnormal(Ulcer),1,0.9993413,1
+ECA-Late,4,328.jpg,Abnormal(Ulcer),1,0.9985025,1
+ECA-Late,4,329.jpg,Abnormal(Ulcer),1,0.99970883,1
+ECA-Late,4,331.jpg,Abnormal(Ulcer),1,0.99994326,1
+ECA-Late,4,332.jpg,Abnormal(Ulcer),1,0.99488735,1
+ECA-Late,4,333.jpg,Abnormal(Ulcer),1,0.9939196,1
+ECA-Late,4,345.jpg,Abnormal(Ulcer),1,0.9996407,1
+ECA-Late,4,371.jpg,Abnormal(Ulcer),1,0.9995055,1
+ECA-Late,4,372.jpg,Abnormal(Ulcer),1,0.54999685,1
+ECA-Late,4,373.jpg,Abnormal(Ulcer),1,0.9997582,1
+ECA-Late,4,374.jpg,Abnormal(Ulcer),1,0.9998758,1
+ECA-Late,4,378.jpg,Abnormal(Ulcer),1,0.9992087,1
+ECA-Late,4,379.jpg,Abnormal(Ulcer),1,0.9996488,1
+ECA-Late,4,404.jpg,Abnormal(Ulcer),1,0.9547297,1
+ECA-Late,4,405.jpg,Abnormal(Ulcer),1,0.9431084,1
+ECA-Late,4,406.jpg,Abnormal(Ulcer),1,0.9993668,1
+ECA-Late,4,407.jpg,Abnormal(Ulcer),1,0.9994189,1
+ECA-Late,4,412.jpg,Abnormal(Ulcer),1,0.99715877,1
+ECA-Late,4,427.jpg,Abnormal(Ulcer),1,0.9998343,1
+ECA-Late,4,428.jpg,Abnormal(Ulcer),1,0.99992,1
+ECA-Late,4,429.jpg,Abnormal(Ulcer),1,0.9998659,1
+ECA-Late,4,432.jpg,Abnormal(Ulcer),1,0.9972193,1
+ECA-Late,4,433.jpg,Abnormal(Ulcer),1,0.99971527,1
+ECA-Late,4,436.jpg,Abnormal(Ulcer),1,0.9975568,1
+ECA-Late,4,447.jpg,Abnormal(Ulcer),1,0.9975642,1
+ECA-Late,4,449.jpg,Abnormal(Ulcer),1,0.998247,1
+ECA-Late,4,45.jpg,Abnormal(Ulcer),1,0.99923277,1
+ECA-Late,4,451.jpg,Abnormal(Ulcer),1,0.9997042,1
+ECA-Late,4,461.jpg,Abnormal(Ulcer),1,0.9991755,1
+ECA-Late,4,462.jpg,Abnormal(Ulcer),1,0.9986237,1
+ECA-Late,4,465.jpg,Abnormal(Ulcer),1,0.99968535,1
+ECA-Late,4,467.jpg,Abnormal(Ulcer),1,0.99976987,1
+ECA-Late,4,47.jpg,Abnormal(Ulcer),1,0.9998852,1
+ECA-Late,4,485.jpg,Abnormal(Ulcer),1,0.9902828,1
+ECA-Late,4,486.jpg,Abnormal(Ulcer),1,0.9829698,1
+ECA-Late,4,490.jpg,Abnormal(Ulcer),1,0.9998143,1
+ECA-Late,4,491.jpg,Abnormal(Ulcer),1,0.99910027,1
+ECA-Late,4,496.jpg,Abnormal(Ulcer),1,0.8449256,1
+ECA-Late,4,506.jpg,Abnormal(Ulcer),1,0.99751425,1
+ECA-Late,4,52.jpg,Abnormal(Ulcer),1,0.9281298,1
+ECA-Late,4,61.jpg,Abnormal(Ulcer),1,0.9922082,1
+ECA-Late,4,62.jpg,Abnormal(Ulcer),1,0.99230194,1
+ECA-Late,4,63.jpg,Abnormal(Ulcer),1,0.98213553,1
+ECA-Late,4,64.jpg,Abnormal(Ulcer),1,0.9900079,1
+ECA-Late,4,65.jpg,Abnormal(Ulcer),1,0.9797192,1
+ECA-Late,4,66.jpg,Abnormal(Ulcer),1,0.9876523,1
+ECA-Late,4,67.jpg,Abnormal(Ulcer),1,0.9885212,1
+ECA-Late,4,68.jpg,Abnormal(Ulcer),1,0.99849284,1
+ECA-Late,4,69.jpg,Abnormal(Ulcer),1,0.997766,1
+ECA-Late,4,70.jpg,Abnormal(Ulcer),1,0.9996257,1
+ECA-Late,4,71.jpg,Abnormal(Ulcer),1,0.9999924,1
+ECA-Late,4,72.jpg,Abnormal(Ulcer),1,0.99954075,1
+ECA-Late,4,73.jpg,Abnormal(Ulcer),1,0.99995136,1
+ECA-Late,4,74.jpg,Abnormal(Ulcer),1,0.99957174,1
+ECA-Late,4,76.jpg,Abnormal(Ulcer),1,0.9998671,1
+ECA-Late,4,77.jpg,Abnormal(Ulcer),1,0.9976931,1
+ECA-Late,4,90.jpg,Abnormal(Ulcer),1,0.873422,1
+ECA-Late,4,91.jpg,Abnormal(Ulcer),1,0.9976387,1
+ECA-Late,4,92.jpg,Abnormal(Ulcer),1,0.9945503,1
+ECA-Late,4,93.jpg,Abnormal(Ulcer),1,0.9916795,1
+ECA-Late,4,94.jpg,Abnormal(Ulcer),1,0.97871745,1
+ECA-Late,4,95.jpg,Abnormal(Ulcer),1,0.8609843,1
+ECA-Late,4,111.jpg,Normal(Healthy skin),0,0.01874872,0
+ECA-Late,4,112.jpg,Normal(Healthy skin),0,0.04861143,0
+ECA-Late,4,113.jpg,Normal(Healthy skin),0,0.0022645872,0
+ECA-Late,4,117.jpg,Normal(Healthy skin),0,0.008269986,0
+ECA-Late,4,131.jpg,Normal(Healthy skin),0,0.0019524603,0
+ECA-Late,4,135.jpg,Normal(Healthy skin),0,0.030515548,0
+ECA-Late,4,138.jpg,Normal(Healthy skin),0,0.019474706,0
+ECA-Late,4,14.jpg,Normal(Healthy skin),0,0.041318383,0
+ECA-Late,4,140.jpg,Normal(Healthy skin),0,0.0077355714,0
+ECA-Late,4,147.jpg,Normal(Healthy skin),0,0.010027294,0
+ECA-Late,4,151.jpg,Normal(Healthy skin),0,0.002898802,0
+ECA-Late,4,152.jpg,Normal(Healthy skin),0,0.025183959,0
+ECA-Late,4,171.jpg,Normal(Healthy skin),0,0.04337328,0
+ECA-Late,4,206.jpg,Normal(Healthy skin),0,0.003624061,0
+ECA-Late,4,207.jpg,Normal(Healthy skin),0,0.0030498945,0
+ECA-Late,4,208.jpg,Normal(Healthy skin),0,0.0024835535,0
+ECA-Late,4,209.jpg,Normal(Healthy skin),0,0.0044950796,0
+ECA-Late,4,211.jpg,Normal(Healthy skin),0,0.0031967938,0
+ECA-Late,4,212.jpg,Normal(Healthy skin),0,0.0068886657,0
+ECA-Late,4,213.jpg,Normal(Healthy skin),0,0.0030179506,0
+ECA-Late,4,214.jpg,Normal(Healthy skin),0,0.0035236664,0
+ECA-Late,4,216.jpg,Normal(Healthy skin),0,0.0037302687,0
+ECA-Late,4,219.jpg,Normal(Healthy skin),0,0.004826638,0
+ECA-Late,4,220.jpg,Normal(Healthy skin),0,0.021489017,0
+ECA-Late,4,227.jpg,Normal(Healthy skin),0,0.0017336352,0
+ECA-Late,4,228.jpg,Normal(Healthy skin),0,0.0012147224,0
+ECA-Late,4,229.jpg,Normal(Healthy skin),0,0.0016737761,0
+ECA-Late,4,233.jpg,Normal(Healthy skin),0,0.0066371784,0
+ECA-Late,4,234.jpg,Normal(Healthy skin),0,0.013442171,0
+ECA-Late,4,252.jpg,Normal(Healthy skin),0,0.005061597,0
+ECA-Late,4,262.jpg,Normal(Healthy skin),0,0.0025615445,0
+ECA-Late,4,266.jpg,Normal(Healthy skin),0,0.037685167,0
+ECA-Late,4,27.jpg,Normal(Healthy skin),0,0.003983702,0
+ECA-Late,4,276.jpg,Normal(Healthy skin),0,0.005150375,0
+ECA-Late,4,277.jpg,Normal(Healthy skin),0,0.0030758698,0
+ECA-Late,4,278.jpg,Normal(Healthy skin),0,0.0030750379,0
+ECA-Late,4,279.jpg,Normal(Healthy skin),0,0.0031172228,0
+ECA-Late,4,324.jpg,Normal(Healthy skin),0,0.036618076,0
+ECA-Late,4,330.jpg,Normal(Healthy skin),0,0.0023574794,0
+ECA-Late,4,355.jpg,Normal(Healthy skin),0,0.08650307,0
+ECA-Late,4,370.jpg,Normal(Healthy skin),0,0.0055126823,0
+CA-Late,0,121.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Late,0,122.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,123.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,161.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,162.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,0,163.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,164.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,0,180.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,181.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,182.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,183.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,187.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,20.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,200.jpg,Abnormal(Ulcer),1,0.9973508,1
+CA-Late,0,201.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,202.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,203.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,204.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,207.jpg,Abnormal(Ulcer),1,0.9999827,1
+CA-Late,0,208.jpg,Abnormal(Ulcer),1,0.9998474,1
+CA-Late,0,21.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,222.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,226.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,231.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,239.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,0,240.jpg,Abnormal(Ulcer),1,0.9999887,1
+CA-Late,0,241.jpg,Abnormal(Ulcer),1,0.99999845,1
+CA-Late,0,242.jpg,Abnormal(Ulcer),1,0.99999845,1
+CA-Late,0,243.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,244.jpg,Abnormal(Ulcer),1,0.9999256,1
+CA-Late,0,262.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,263.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,264.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,265.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,266.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,267.jpg,Abnormal(Ulcer),1,0.99992526,1
+CA-Late,0,268.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,269.jpg,Abnormal(Ulcer),1,0.9999975,1
+CA-Late,0,27.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,270.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,276.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,277.jpg,Abnormal(Ulcer),1,0.87520915,1
+CA-Late,0,30.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,306.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,0,307.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,308.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,0,309.jpg,Abnormal(Ulcer),1,0.9059219,1
+CA-Late,0,334.jpg,Abnormal(Ulcer),1,0.99962056,1
+CA-Late,0,335.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,336.jpg,Abnormal(Ulcer),1,0.99996316,1
+CA-Late,0,337.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,0,338.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,339.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,340.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,341.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,342.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,343.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,351.jpg,Abnormal(Ulcer),1,0.99999595,1
+CA-Late,0,353.jpg,Abnormal(Ulcer),1,0.99999356,1
+CA-Late,0,354.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,0,355.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Late,0,356.jpg,Abnormal(Ulcer),1,0.99546057,1
+CA-Late,0,36.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,37.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,375.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,376.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,377.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,403.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,417.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,418.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,419.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,42.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,0,420.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,422.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Late,0,423.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,424.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,0,425.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,440.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,456.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,458.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,469.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,474.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Late,0,477.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,478.jpg,Abnormal(Ulcer),1,0.99948764,1
+CA-Late,0,480.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,492.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,507.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,513.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,53.jpg,Abnormal(Ulcer),1,0.99999857,1
+CA-Late,0,54.jpg,Abnormal(Ulcer),1,0.8963504,1
+CA-Late,0,60.jpg,Abnormal(Ulcer),1,0.99999607,1
+CA-Late,0,9.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,0,10.jpg,Normal(Healthy skin),0,7.0310296e-07,0
+CA-Late,0,100.jpg,Normal(Healthy skin),0,0.00019828553,0
+CA-Late,0,101.jpg,Normal(Healthy skin),0,0.9275356,1
+CA-Late,0,102.jpg,Normal(Healthy skin),0,0.040162984,0
+CA-Late,0,103.jpg,Normal(Healthy skin),0,0.03480627,0
+CA-Late,0,104.jpg,Normal(Healthy skin),0,3.473885e-05,0
+CA-Late,0,105.jpg,Normal(Healthy skin),0,1.6868678e-05,0
+CA-Late,0,106.jpg,Normal(Healthy skin),0,3.3335826e-05,0
+CA-Late,0,107.jpg,Normal(Healthy skin),0,0.00031757934,0
+CA-Late,0,129.jpg,Normal(Healthy skin),0,6.648882e-07,0
+CA-Late,0,13.jpg,Normal(Healthy skin),0,1.3902873e-05,0
+CA-Late,0,136.jpg,Normal(Healthy skin),0,9.3080425e-06,0
+CA-Late,0,141.jpg,Normal(Healthy skin),0,3.911791e-07,0
+CA-Late,0,146.jpg,Normal(Healthy skin),0,3.5976504e-06,0
+CA-Late,0,157.jpg,Normal(Healthy skin),0,1.587726e-05,0
+CA-Late,0,161.jpg,Normal(Healthy skin),0,0.0004590695,0
+CA-Late,0,162.jpg,Normal(Healthy skin),0,0.00012624588,0
+CA-Late,0,164.jpg,Normal(Healthy skin),0,0.00012171655,0
+CA-Late,0,165.jpg,Normal(Healthy skin),0,0.00017599594,0
+CA-Late,0,166.jpg,Normal(Healthy skin),0,4.959049e-06,0
+CA-Late,0,167.jpg,Normal(Healthy skin),0,4.8634884e-05,0
+CA-Late,0,168.jpg,Normal(Healthy skin),0,5.186958e-07,0
+CA-Late,0,169.jpg,Normal(Healthy skin),0,0.09804678,0
+CA-Late,0,172.jpg,Normal(Healthy skin),0,2.2503385e-05,0
+CA-Late,0,178.jpg,Normal(Healthy skin),0,1.9181052e-05,0
+CA-Late,0,179.jpg,Normal(Healthy skin),0,7.560756e-05,0
+CA-Late,0,180.jpg,Normal(Healthy skin),0,4.3496668e-05,0
+CA-Late,0,181.jpg,Normal(Healthy skin),0,0.00016844335,0
+CA-Late,0,182.jpg,Normal(Healthy skin),0,0.00013248909,0
+CA-Late,0,183.jpg,Normal(Healthy skin),0,0.00014672088,0
+CA-Late,0,195.jpg,Normal(Healthy skin),0,4.283516e-06,0
+CA-Late,0,196.jpg,Normal(Healthy skin),0,1.2841109e-05,0
+CA-Late,0,239.jpg,Normal(Healthy skin),0,3.1996506e-06,0
+CA-Late,0,246.jpg,Normal(Healthy skin),0,7.840278e-06,0
+CA-Late,0,247.jpg,Normal(Healthy skin),0,3.7036545e-05,0
+CA-Late,0,249.jpg,Normal(Healthy skin),0,1.1459201e-05,0
+CA-Late,0,253.jpg,Normal(Healthy skin),0,3.972642e-05,0
+CA-Late,0,263.jpg,Normal(Healthy skin),0,2.0406402e-07,0
+CA-Late,0,274.jpg,Normal(Healthy skin),0,1.2120463e-05,0
+CA-Late,0,275.jpg,Normal(Healthy skin),0,1.9611074e-05,0
+CA-Late,0,320.jpg,Normal(Healthy skin),0,0.11532858,0
+CA-Late,0,322 - Copy.jpg,Normal(Healthy skin),0,0.00012497543,0
+CA-Late,0,329.jpg,Normal(Healthy skin),0,8.279781e-06,0
+CA-Late,0,350.jpg,Normal(Healthy skin),0,8.439894e-06,0
+CA-Late,0,353.jpg,Normal(Healthy skin),0,2.1233735e-05,0
+CA-Late,0,362.jpg,Normal(Healthy skin),0,2.5096591e-05,0
+CA-Late,0,363.jpg,Normal(Healthy skin),0,1.2184109e-05,0
+CA-Late,0,368.jpg,Normal(Healthy skin),0,5.075734e-06,0
+CA-Late,0,61.jpg,Normal(Healthy skin),0,0.98926234,1
+CA-Late,0,89.jpg,Normal(Healthy skin),0,0.9880755,1
+CA-Late,0,90.jpg,Normal(Healthy skin),0,0.009857393,0
+CA-Late,1,1.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,124.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,126.jpg,Abnormal(Ulcer),1,0.9999913,1
+CA-Late,1,127.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,128.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Late,1,129.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,13.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,130.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,131.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,140.jpg,Abnormal(Ulcer),1,0.99999297,1
+CA-Late,1,141.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,142.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,1,145.jpg,Abnormal(Ulcer),1,0.99989974,1
+CA-Late,1,168.jpg,Abnormal(Ulcer),1,0.9999777,1
+CA-Late,1,169.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,1,170.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,171.jpg,Abnormal(Ulcer),1,0.99999356,1
+CA-Late,1,172.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,22.jpg,Abnormal(Ulcer),1,0.99999917,1
+CA-Late,1,230.jpg,Abnormal(Ulcer),1,0.9999957,1
+CA-Late,1,25.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,251.jpg,Abnormal(Ulcer),1,0.9999031,1
+CA-Late,1,252.jpg,Abnormal(Ulcer),1,0.9999924,1
+CA-Late,1,253.jpg,Abnormal(Ulcer),1,0.999949,1
+CA-Late,1,254.jpg,Abnormal(Ulcer),1,0.9999784,1
+CA-Late,1,255.jpg,Abnormal(Ulcer),1,0.99979603,1
+CA-Late,1,256.jpg,Abnormal(Ulcer),1,0.9999856,1
+CA-Late,1,257.jpg,Abnormal(Ulcer),1,0.9999776,1
+CA-Late,1,258.jpg,Abnormal(Ulcer),1,0.99979293,1
+CA-Late,1,259.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,260.jpg,Abnormal(Ulcer),1,0.99997556,1
+CA-Late,1,261.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,278.jpg,Abnormal(Ulcer),1,0.9988399,1
+CA-Late,1,279.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,28.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,280.jpg,Abnormal(Ulcer),1,0.999992,1
+CA-Late,1,281.jpg,Abnormal(Ulcer),1,0.99999785,1
+CA-Late,1,3.jpg,Abnormal(Ulcer),1,0.9996574,1
+CA-Late,1,302.jpg,Abnormal(Ulcer),1,0.9981352,1
+CA-Late,1,303.jpg,Abnormal(Ulcer),1,0.9999261,1
+CA-Late,1,304.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,305.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,310.jpg,Abnormal(Ulcer),1,0.9999981,1
+CA-Late,1,324.jpg,Abnormal(Ulcer),1,0.99349385,1
+CA-Late,1,33.jpg,Abnormal(Ulcer),1,0.99996305,1
+CA-Late,1,344.jpg,Abnormal(Ulcer),1,0.9999765,1
+CA-Late,1,347.jpg,Abnormal(Ulcer),1,0.99980056,1
+CA-Late,1,35.jpg,Abnormal(Ulcer),1,0.999995,1
+CA-Late,1,352.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Late,1,357.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,358.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,359.jpg,Abnormal(Ulcer),1,0.9999908,1
+CA-Late,1,363.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,364.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,365.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,366.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,367.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,368.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,401.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,402.jpg,Abnormal(Ulcer),1,0.99957365,1
+CA-Late,1,416.jpg,Abnormal(Ulcer),1,0.92055357,1
+CA-Late,1,426.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,434.jpg,Abnormal(Ulcer),1,0.99996793,1
+CA-Late,1,438.jpg,Abnormal(Ulcer),1,0.9999926,1
+CA-Late,1,439.jpg,Abnormal(Ulcer),1,0.99999285,1
+CA-Late,1,441.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Late,1,443.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,444.jpg,Abnormal(Ulcer),1,0.99996066,1
+CA-Late,1,448.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,1,450.jpg,Abnormal(Ulcer),1,0.9995534,1
+CA-Late,1,459.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,460.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Late,1,464.jpg,Abnormal(Ulcer),1,0.9999435,1
+CA-Late,1,468.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Late,1,472.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,476.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,487.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,493.jpg,Abnormal(Ulcer),1,0.99999285,1
+CA-Late,1,494.jpg,Abnormal(Ulcer),1,0.9998739,1
+CA-Late,1,495.jpg,Abnormal(Ulcer),1,0.99993455,1
+CA-Late,1,499.jpg,Abnormal(Ulcer),1,0.9999925,1
+CA-Late,1,500.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,1,501.jpg,Abnormal(Ulcer),1,0.99995697,1
+CA-Late,1,502.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,504.jpg,Abnormal(Ulcer),1,0.9999963,1
+CA-Late,1,505.jpg,Abnormal(Ulcer),1,0.9999975,1
+CA-Late,1,508.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,510.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,511.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,512.jpg,Abnormal(Ulcer),1,0.9999932,1
+CA-Late,1,56.jpg,Abnormal(Ulcer),1,0.9985934,1
+CA-Late,1,7.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,8.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,1,96.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,1,127.jpg,Normal(Healthy skin),0,2.2307155e-05,0
+CA-Late,1,134.jpg,Normal(Healthy skin),0,0.00010687636,0
+CA-Late,1,139.jpg,Normal(Healthy skin),0,3.822598e-05,0
+CA-Late,1,144.jpg,Normal(Healthy skin),0,0.0010797544,0
+CA-Late,1,15.jpg,Normal(Healthy skin),0,6.841823e-05,0
+CA-Late,1,153.jpg,Normal(Healthy skin),0,0.00022284749,0
+CA-Late,1,154.jpg,Normal(Healthy skin),0,0.0063456227,0
+CA-Late,1,155.jpg,Normal(Healthy skin),0,0.0003855294,0
+CA-Late,1,156.jpg,Normal(Healthy skin),0,0.0008676767,0
+CA-Late,1,173.jpg,Normal(Healthy skin),0,0.001826063,0
+CA-Late,1,18.jpg,Normal(Healthy skin),0,0.0013861813,0
+CA-Late,1,198.jpg,Normal(Healthy skin),0,2.7617966e-06,0
+CA-Late,1,199.jpg,Normal(Healthy skin),0,2.5358946e-05,0
+CA-Late,1,200.jpg,Normal(Healthy skin),0,2.1990978e-05,0
+CA-Late,1,204.jpg,Normal(Healthy skin),0,4.0660598e-05,0
+CA-Late,1,210.jpg,Normal(Healthy skin),0,0.00013527251,0
+CA-Late,1,218.jpg,Normal(Healthy skin),0,9.792285e-05,0
+CA-Late,1,230.jpg,Normal(Healthy skin),0,0.00081643387,0
+CA-Late,1,231.jpg,Normal(Healthy skin),0,0.00026133156,0
+CA-Late,1,242.jpg,Normal(Healthy skin),0,0.0005457461,0
+CA-Late,1,243.jpg,Normal(Healthy skin),0,8.42011e-05,0
+CA-Late,1,251.jpg,Normal(Healthy skin),0,7.2159666e-05,0
+CA-Late,1,260.jpg,Normal(Healthy skin),0,1.1282254e-05,0
+CA-Late,1,261.jpg,Normal(Healthy skin),0,0.00019546771,0
+CA-Late,1,273.jpg,Normal(Healthy skin),0,0.00040771867,0
+CA-Late,1,28.jpg,Normal(Healthy skin),0,0.0002637053,0
+CA-Late,1,29.jpg,Normal(Healthy skin),0,6.537605e-05,0
+CA-Late,1,316 - Copy.jpg,Normal(Healthy skin),0,0.00016762556,0
+CA-Late,1,318 - Copy.jpg,Normal(Healthy skin),0,0.0023359293,0
+CA-Late,1,319.jpg,Normal(Healthy skin),0,0.00041239965,0
+CA-Late,1,321 - Copy.jpg,Normal(Healthy skin),0,0.0002971817,0
+CA-Late,1,331 - Copy.jpg,Normal(Healthy skin),0,0.050088923,0
+CA-Late,1,332.jpg,Normal(Healthy skin),0,0.00011518561,0
+CA-Late,1,336.jpg,Normal(Healthy skin),0,0.009041382,0
+CA-Late,1,339.jpg,Normal(Healthy skin),0,1.352149e-05,0
+CA-Late,1,347.jpg,Normal(Healthy skin),0,0.006988044,0
+CA-Late,1,349.jpg,Normal(Healthy skin),0,0.0009143993,0
+CA-Late,1,358.jpg,Normal(Healthy skin),0,0.002226233,0
+CA-Late,1,366.jpg,Normal(Healthy skin),0,0.02356929,0
+CA-Late,1,40.jpg,Normal(Healthy skin),0,0.050875552,0
+CA-Late,1,41.jpg,Normal(Healthy skin),0,0.001983084,0
+CA-Late,1,79.jpg,Normal(Healthy skin),0,0.004997009,0
+CA-Late,1,85.jpg,Normal(Healthy skin),0,0.04287281,0
+CA-Late,2,10.jpg,Abnormal(Ulcer),1,0.99996924,1
+CA-Late,2,103.jpg,Abnormal(Ulcer),1,0.999967,1
+CA-Late,2,104.jpg,Abnormal(Ulcer),1,0.9998832,1
+CA-Late,2,105.jpg,Abnormal(Ulcer),1,0.99946976,1
+CA-Late,2,106.jpg,Abnormal(Ulcer),1,0.99999225,1
+CA-Late,2,107.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,11.jpg,Abnormal(Ulcer),1,0.99993205,1
+CA-Late,2,111.jpg,Abnormal(Ulcer),1,0.99990094,1
+CA-Late,2,112.jpg,Abnormal(Ulcer),1,0.99999595,1
+CA-Late,2,113.jpg,Abnormal(Ulcer),1,0.9994743,1
+CA-Late,2,114.jpg,Abnormal(Ulcer),1,0.99725854,1
+CA-Late,2,115.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,2,116.jpg,Abnormal(Ulcer),1,0.9999937,1
+CA-Late,2,117.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,2,118.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Late,2,12.jpg,Abnormal(Ulcer),1,0.99999726,1
+CA-Late,2,132.jpg,Abnormal(Ulcer),1,0.96014464,1
+CA-Late,2,133.jpg,Abnormal(Ulcer),1,0.9841697,1
+CA-Late,2,134.jpg,Abnormal(Ulcer),1,0.9984353,1
+CA-Late,2,135.jpg,Abnormal(Ulcer),1,0.99831706,1
+CA-Late,2,136.jpg,Abnormal(Ulcer),1,0.99999523,1
+CA-Late,2,137.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,138.jpg,Abnormal(Ulcer),1,0.99998426,1
+CA-Late,2,139.jpg,Abnormal(Ulcer),1,0.99978447,1
+CA-Late,2,14.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,157.jpg,Abnormal(Ulcer),1,0.99931335,1
+CA-Late,2,158.jpg,Abnormal(Ulcer),1,0.9970926,1
+CA-Late,2,159.jpg,Abnormal(Ulcer),1,0.99937916,1
+CA-Late,2,160.jpg,Abnormal(Ulcer),1,0.9993019,1
+CA-Late,2,19.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Late,2,194.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,2,205.jpg,Abnormal(Ulcer),1,0.9846423,1
+CA-Late,2,206.jpg,Abnormal(Ulcer),1,0.99997103,1
+CA-Late,2,218.jpg,Abnormal(Ulcer),1,0.9982116,1
+CA-Late,2,219.jpg,Abnormal(Ulcer),1,0.9997484,1
+CA-Late,2,220.jpg,Abnormal(Ulcer),1,0.9983071,1
+CA-Late,2,224.jpg,Abnormal(Ulcer),1,0.9959786,1
+CA-Late,2,225.jpg,Abnormal(Ulcer),1,0.9999913,1
+CA-Late,2,227.jpg,Abnormal(Ulcer),1,0.99924165,1
+CA-Late,2,229.jpg,Abnormal(Ulcer),1,0.99976736,1
+CA-Late,2,235.jpg,Abnormal(Ulcer),1,0.9915673,1
+CA-Late,2,236.jpg,Abnormal(Ulcer),1,0.7147463,0
+CA-Late,2,237.jpg,Abnormal(Ulcer),1,0.9034547,1
+CA-Late,2,238.jpg,Abnormal(Ulcer),1,0.9867772,1
+CA-Late,2,273.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,275.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,2,282.jpg,Abnormal(Ulcer),1,0.9978155,1
+CA-Late,2,283.jpg,Abnormal(Ulcer),1,0.99175316,1
+CA-Late,2,284.jpg,Abnormal(Ulcer),1,0.9998474,1
+CA-Late,2,290.jpg,Abnormal(Ulcer),1,0.9998379,1
+CA-Late,2,291.jpg,Abnormal(Ulcer),1,0.95330465,1
+CA-Late,2,301.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Late,2,31.jpg,Abnormal(Ulcer),1,0.99762833,1
+CA-Late,2,315.jpg,Abnormal(Ulcer),1,0.9999528,1
+CA-Late,2,316.jpg,Abnormal(Ulcer),1,0.99757355,1
+CA-Late,2,317.jpg,Abnormal(Ulcer),1,0.96966845,1
+CA-Late,2,318.jpg,Abnormal(Ulcer),1,0.9999677,1
+CA-Late,2,319.jpg,Abnormal(Ulcer),1,0.99995995,1
+CA-Late,2,320.jpg,Abnormal(Ulcer),1,0.99997187,1
+CA-Late,2,321.jpg,Abnormal(Ulcer),1,0.99461275,1
+CA-Late,2,325.jpg,Abnormal(Ulcer),1,0.9998101,1
+CA-Late,2,330.jpg,Abnormal(Ulcer),1,0.9999869,1
+CA-Late,2,34.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Late,2,346.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,348.jpg,Abnormal(Ulcer),1,0.9415131,1
+CA-Late,2,349.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,2,350.jpg,Abnormal(Ulcer),1,0.99992335,1
+CA-Late,2,380.jpg,Abnormal(Ulcer),1,0.9999974,1
+CA-Late,2,4.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,2,40.jpg,Abnormal(Ulcer),1,0.9999119,1
+CA-Late,2,41.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,2,410.jpg,Abnormal(Ulcer),1,0.9996233,1
+CA-Late,2,411.jpg,Abnormal(Ulcer),1,0.99999785,1
+CA-Late,2,413.jpg,Abnormal(Ulcer),1,0.9917265,1
+CA-Late,2,414.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,2,415.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,2,421.jpg,Abnormal(Ulcer),1,0.999585,1
+CA-Late,2,437.jpg,Abnormal(Ulcer),1,0.9999119,1
+CA-Late,2,442.jpg,Abnormal(Ulcer),1,0.9988859,1
+CA-Late,2,457.jpg,Abnormal(Ulcer),1,0.99399865,1
+CA-Late,2,466.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,2,473.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Late,2,475.jpg,Abnormal(Ulcer),1,0.99985564,1
+CA-Late,2,481.jpg,Abnormal(Ulcer),1,0.9999939,1
+CA-Late,2,482.jpg,Abnormal(Ulcer),1,0.99974865,1
+CA-Late,2,489.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,2,49.jpg,Abnormal(Ulcer),1,0.9999968,1
+CA-Late,2,497.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,2,5.jpg,Abnormal(Ulcer),1,0.9686224,1
+CA-Late,2,50.jpg,Abnormal(Ulcer),1,0.999997,1
+CA-Late,2,509.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,2,51.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Late,2,57.jpg,Abnormal(Ulcer),1,0.9225708,1
+CA-Late,2,59.jpg,Abnormal(Ulcer),1,0.99999905,1
+CA-Late,2,1.jpg,Normal(Healthy skin),0,0.05441228,0
+CA-Late,2,108.jpg,Normal(Healthy skin),0,0.00030261543,0
+CA-Late,2,109.jpg,Normal(Healthy skin),0,0.00016788326,0
+CA-Late,2,110.jpg,Normal(Healthy skin),0,0.024442805,0
+CA-Late,2,114.jpg,Normal(Healthy skin),0,0.00042658468,0
+CA-Late,2,122.jpg,Normal(Healthy skin),0,0.0003038797,0
+CA-Late,2,137.jpg,Normal(Healthy skin),0,0.0019116702,0
+CA-Late,2,143.jpg,Normal(Healthy skin),0,0.0005847252,0
+CA-Late,2,145.jpg,Normal(Healthy skin),0,0.00025104647,0
+CA-Late,2,158.jpg,Normal(Healthy skin),0,0.00035353482,0
+CA-Late,2,159.jpg,Normal(Healthy skin),0,0.00040374242,0
+CA-Late,2,160.jpg,Normal(Healthy skin),0,0.0005694485,0
+CA-Late,2,170.jpg,Normal(Healthy skin),0,0.048747554,0
+CA-Late,2,174.jpg,Normal(Healthy skin),0,0.0074983784,0
+CA-Late,2,176.jpg,Normal(Healthy skin),0,0.006443806,0
+CA-Late,2,177.jpg,Normal(Healthy skin),0,0.0131266145,0
+CA-Late,2,185.jpg,Normal(Healthy skin),0,0.0004621078,0
+CA-Late,2,186.jpg,Normal(Healthy skin),0,0.002727805,0
+CA-Late,2,187.jpg,Normal(Healthy skin),0,0.03433504,0
+CA-Late,2,188.jpg,Normal(Healthy skin),0,0.0030377053,0
+CA-Late,2,189.jpg,Normal(Healthy skin),0,0.21869859,0
+CA-Late,2,190.jpg,Normal(Healthy skin),0,0.00040636677,0
+CA-Late,2,191.jpg,Normal(Healthy skin),0,0.0005532868,0
+CA-Late,2,192.jpg,Normal(Healthy skin),0,6.147952e-05,0
+CA-Late,2,193.jpg,Normal(Healthy skin),0,0.00049243245,0
+CA-Late,2,194.jpg,Normal(Healthy skin),0,2.512818e-05,0
+CA-Late,2,197.jpg,Normal(Healthy skin),0,0.0013826393,0
+CA-Late,2,221.jpg,Normal(Healthy skin),0,0.00024459517,0
+CA-Late,2,222.jpg,Normal(Healthy skin),0,0.00020089188,0
+CA-Late,2,223.jpg,Normal(Healthy skin),0,0.000121397796,0
+CA-Late,2,224.jpg,Normal(Healthy skin),0,6.1722836e-05,0
+CA-Late,2,225.jpg,Normal(Healthy skin),0,5.8205835e-05,0
+CA-Late,2,226.jpg,Normal(Healthy skin),0,0.00012428437,0
+CA-Late,2,232.jpg,Normal(Healthy skin),0,0.001180958,0
+CA-Late,2,240.jpg,Normal(Healthy skin),0,0.00012784095,0
+CA-Late,2,241.jpg,Normal(Healthy skin),0,6.517331e-05,0
+CA-Late,2,244.jpg,Normal(Healthy skin),0,0.00084415596,0
+CA-Late,2,245.jpg,Normal(Healthy skin),0,0.0018732634,0
+CA-Late,2,248.jpg,Normal(Healthy skin),0,0.00049296784,0
+CA-Late,2,250.jpg,Normal(Healthy skin),0,0.0007734361,0
+CA-Late,2,254.jpg,Normal(Healthy skin),0,0.0014941727,0
+CA-Late,2,255.jpg,Normal(Healthy skin),0,0.0014873531,0
+CA-Late,2,256.jpg,Normal(Healthy skin),0,0.0009846734,0
+CA-Late,2,265.jpg,Normal(Healthy skin),0,0.042590924,0
+CA-Late,2,268.jpg,Normal(Healthy skin),0,0.0006063886,0
+CA-Late,2,270.jpg,Normal(Healthy skin),0,0.00023782591,0
+CA-Late,2,280.jpg,Normal(Healthy skin),0,0.00024380795,0
+CA-Late,2,311.jpg,Normal(Healthy skin),0,0.0016087444,0
+CA-Late,2,337.jpg,Normal(Healthy skin),0,0.001727263,0
+CA-Late,2,341.jpg,Normal(Healthy skin),0,0.00073638675,0
+CA-Late,2,343.jpg,Normal(Healthy skin),0,0.0005147272,0
+CA-Late,2,344.jpg,Normal(Healthy skin),0,0.0002894019,0
+CA-Late,2,346.jpg,Normal(Healthy skin),0,0.0006258824,0
+CA-Late,2,359.jpg,Normal(Healthy skin),0,0.0053215106,0
+CA-Late,2,59.jpg,Normal(Healthy skin),0,0.2451948,0
+CA-Late,2,88.jpg,Normal(Healthy skin),0,0.012016349,0
+CA-Late,3,100.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,3,101.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,125.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,3,143.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,144.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,3,146.jpg,Abnormal(Ulcer),1,0.99995446,1
+CA-Late,3,147.jpg,Abnormal(Ulcer),1,0.9995876,1
+CA-Late,3,148.jpg,Abnormal(Ulcer),1,0.9999918,1
+CA-Late,3,149.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,3,15.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Late,3,150.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,3,151.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,152.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,153.jpg,Abnormal(Ulcer),1,0.9995635,1
+CA-Late,3,154.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Late,3,155.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,156.jpg,Abnormal(Ulcer),1,0.99999857,1
+CA-Late,3,16.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Late,3,165.jpg,Abnormal(Ulcer),1,0.9999956,1
+CA-Late,3,166.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Late,3,167.jpg,Abnormal(Ulcer),1,0.16848017,0
+CA-Late,3,17.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,173.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,174.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,175.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,176.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,177.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,178.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Late,3,179.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,18.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,184.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Late,3,185.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,186.jpg,Abnormal(Ulcer),1,0.9999814,1
+CA-Late,3,188.jpg,Abnormal(Ulcer),1,0.9999604,1
+CA-Late,3,189.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,195.jpg,Abnormal(Ulcer),1,0.9999968,1
+CA-Late,3,196.jpg,Abnormal(Ulcer),1,0.99974257,1
+CA-Late,3,197.jpg,Abnormal(Ulcer),1,0.99983954,1
+CA-Late,3,198.jpg,Abnormal(Ulcer),1,0.9999701,1
+CA-Late,3,2.jpg,Abnormal(Ulcer),1,0.99999785,1
+CA-Late,3,209.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,210.jpg,Abnormal(Ulcer),1,0.9999261,1
+CA-Late,3,211.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Late,3,212.jpg,Abnormal(Ulcer),1,0.99999917,1
+CA-Late,3,215.jpg,Abnormal(Ulcer),1,0.9993813,1
+CA-Late,3,216.jpg,Abnormal(Ulcer),1,0.99976677,1
+CA-Late,3,217.jpg,Abnormal(Ulcer),1,0.99884987,1
+CA-Late,3,221.jpg,Abnormal(Ulcer),1,0.9999975,1
+CA-Late,3,223.jpg,Abnormal(Ulcer),1,0.9999975,1
+CA-Late,3,232.jpg,Abnormal(Ulcer),1,0.00010317657,0
+CA-Late,3,24.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,26.jpg,Abnormal(Ulcer),1,0.99976176,1
+CA-Late,3,271.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,272.jpg,Abnormal(Ulcer),1,0.9999969,1
+CA-Late,3,274.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,29.jpg,Abnormal(Ulcer),1,0.9999993,1
+CA-Late,3,292.jpg,Abnormal(Ulcer),1,0.99999213,1
+CA-Late,3,322.jpg,Abnormal(Ulcer),1,0.99999547,1
+CA-Late,3,323.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Late,3,360.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,361.jpg,Abnormal(Ulcer),1,0.99998546,1
+CA-Late,3,362.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,369.jpg,Abnormal(Ulcer),1,0.9998802,1
+CA-Late,3,370.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,3,39.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Late,3,408.jpg,Abnormal(Ulcer),1,0.99999726,1
+CA-Late,3,409.jpg,Abnormal(Ulcer),1,0.9999957,1
+CA-Late,3,43.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,430.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,431.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Late,3,435.jpg,Abnormal(Ulcer),1,0.99764985,1
+CA-Late,3,44.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,445.jpg,Abnormal(Ulcer),1,0.99999595,1
+CA-Late,3,446.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,452.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,3,453.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Late,3,454.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,3,455.jpg,Abnormal(Ulcer),1,0.999982,1
+CA-Late,3,463.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,470.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,471.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,479.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Late,3,483.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Late,3,484.jpg,Abnormal(Ulcer),1,0.9999926,1
+CA-Late,3,488.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,498.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Late,3,503.jpg,Abnormal(Ulcer),1,0.99999356,1
+CA-Late,3,6.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,78.jpg,Abnormal(Ulcer),1,0.9958429,1
+CA-Late,3,79.jpg,Abnormal(Ulcer),1,0.99998367,1
+CA-Late,3,80.jpg,Abnormal(Ulcer),1,0.99996686,1
+CA-Late,3,81.jpg,Abnormal(Ulcer),1,0.99999857,1
+CA-Late,3,82.jpg,Abnormal(Ulcer),1,0.9999863,1
+CA-Late,3,83.jpg,Abnormal(Ulcer),1,0.9999968,1
+CA-Late,3,84.jpg,Abnormal(Ulcer),1,0.9999969,1
+CA-Late,3,85.jpg,Abnormal(Ulcer),1,0.99996996,1
+CA-Late,3,86.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Late,3,88.jpg,Abnormal(Ulcer),1,0.99980617,1
+CA-Late,3,89.jpg,Abnormal(Ulcer),1,0.99998224,1
+CA-Late,3,97.jpg,Abnormal(Ulcer),1,0.9999993,1
+CA-Late,3,98.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,99.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Late,3,11.jpg,Normal(Healthy skin),0,7.190363e-07,0
+CA-Late,3,115.jpg,Normal(Healthy skin),0,0.023410408,0
+CA-Late,3,116.jpg,Normal(Healthy skin),0,0.00041180468,0
+CA-Late,3,118.jpg,Normal(Healthy skin),0,0.87460166,1
+CA-Late,3,119.jpg,Normal(Healthy skin),0,2.6618705e-05,0
+CA-Late,3,12.jpg,Normal(Healthy skin),0,4.295428e-06,0
+CA-Late,3,120.jpg,Normal(Healthy skin),0,0.000671457,0
+CA-Late,3,121.jpg,Normal(Healthy skin),0,4.973571e-07,0
+CA-Late,3,123.jpg,Normal(Healthy skin),0,1.624246e-05,0
+CA-Late,3,124.jpg,Normal(Healthy skin),0,3.5609564e-06,0
+CA-Late,3,125.jpg,Normal(Healthy skin),0,1.1370589e-05,0
+CA-Late,3,126.jpg,Normal(Healthy skin),0,1.40675575e-05,0
+CA-Late,3,132.jpg,Normal(Healthy skin),0,2.801423e-05,0
+CA-Late,3,142.jpg,Normal(Healthy skin),0,6.942988e-05,0
+CA-Late,3,163.jpg,Normal(Healthy skin),0,3.2077317e-06,0
+CA-Late,3,175.jpg,Normal(Healthy skin),0,4.9550774e-05,0
+CA-Late,3,184.jpg,Normal(Healthy skin),0,0.00023093194,0
+CA-Late,3,20.jpg,Normal(Healthy skin),0,7.752047e-07,0
+CA-Late,3,201.jpg,Normal(Healthy skin),0,4.6090812e-05,0
+CA-Late,3,202.jpg,Normal(Healthy skin),0,2.4396371e-05,0
+CA-Late,3,203.jpg,Normal(Healthy skin),0,3.7616894e-05,0
+CA-Late,3,205.jpg,Normal(Healthy skin),0,4.239155e-06,0
+CA-Late,3,215.jpg,Normal(Healthy skin),0,5.745033e-06,0
+CA-Late,3,217.jpg,Normal(Healthy skin),0,7.4877867e-06,0
+CA-Late,3,235.jpg,Normal(Healthy skin),0,1.7096776e-05,0
+CA-Late,3,236.jpg,Normal(Healthy skin),0,1.6846141e-05,0
+CA-Late,3,237.jpg,Normal(Healthy skin),0,3.275106e-06,0
+CA-Late,3,238.jpg,Normal(Healthy skin),0,0.00010786333,0
+CA-Late,3,257.jpg,Normal(Healthy skin),0,7.607877e-06,0
+CA-Late,3,258.jpg,Normal(Healthy skin),0,1.6725429e-06,0
+CA-Late,3,259.jpg,Normal(Healthy skin),0,5.702451e-06,0
+CA-Late,3,264.jpg,Normal(Healthy skin),0,1.8213224e-05,0
+CA-Late,3,267.jpg,Normal(Healthy skin),0,6.457794e-06,0
+CA-Late,3,269.jpg,Normal(Healthy skin),0,4.3861337e-06,0
+CA-Late,3,271.jpg,Normal(Healthy skin),0,8.742751e-06,0
+CA-Late,3,272.jpg,Normal(Healthy skin),0,2.511781e-06,0
+CA-Late,3,286.jpg,Normal(Healthy skin),0,8.841826e-06,0
+CA-Late,3,315 - Copy.jpg,Normal(Healthy skin),0,7.1119095e-05,0
+CA-Late,3,323 - Copy.jpg,Normal(Healthy skin),0,3.083485e-05,0
+CA-Late,3,325 - Copy.jpg,Normal(Healthy skin),0,3.6727806e-06,0
+CA-Late,3,326.jpg,Normal(Healthy skin),0,7.240305e-05,0
+CA-Late,3,342.jpg,Normal(Healthy skin),0,1.847655e-05,0
+CA-Late,3,345.jpg,Normal(Healthy skin),0,7.965448e-05,0
+CA-Late,3,354.jpg,Normal(Healthy skin),0,0.00041354273,0
+CA-Late,3,361.jpg,Normal(Healthy skin),0,5.467289e-05,0
+CA-Late,3,43.jpg,Normal(Healthy skin),0,0.0011055504,0
+CA-Late,3,44.jpg,Normal(Healthy skin),0,0.006371635,0
+CA-Late,3,45.jpg,Normal(Healthy skin),0,0.0011055646,0
+CA-Late,3,55.jpg,Normal(Healthy skin),0,0.0017674823,0
+CA-Late,4,102.jpg,Abnormal(Ulcer),1,0.9999397,1
+CA-Late,4,108.jpg,Abnormal(Ulcer),1,0.9999734,1
+CA-Late,4,109.jpg,Abnormal(Ulcer),1,0.9997947,1
+CA-Late,4,110.jpg,Abnormal(Ulcer),1,0.9999808,1
+CA-Late,4,119.jpg,Abnormal(Ulcer),1,0.9999629,1
+CA-Late,4,120.jpg,Abnormal(Ulcer),1,0.99976796,1
+CA-Late,4,190.jpg,Abnormal(Ulcer),1,0.990827,1
+CA-Late,4,191.jpg,Abnormal(Ulcer),1,0.995985,1
+CA-Late,4,192.jpg,Abnormal(Ulcer),1,0.9873256,1
+CA-Late,4,193.jpg,Abnormal(Ulcer),1,0.9940035,1
+CA-Late,4,213.jpg,Abnormal(Ulcer),1,0.99758065,1
+CA-Late,4,214.jpg,Abnormal(Ulcer),1,0.7872709,0
+CA-Late,4,23.jpg,Abnormal(Ulcer),1,0.9875382,1
+CA-Late,4,233.jpg,Abnormal(Ulcer),1,0.9976997,1
+CA-Late,4,234.jpg,Abnormal(Ulcer),1,0.99644804,1
+CA-Late,4,245.jpg,Abnormal(Ulcer),1,0.999959,1
+CA-Late,4,246.jpg,Abnormal(Ulcer),1,0.99993753,1
+CA-Late,4,247.jpg,Abnormal(Ulcer),1,0.9987771,1
+CA-Late,4,248.jpg,Abnormal(Ulcer),1,0.9989434,1
+CA-Late,4,249.jpg,Abnormal(Ulcer),1,0.9975788,1
+CA-Late,4,250.jpg,Abnormal(Ulcer),1,0.9945228,1
+CA-Late,4,288.jpg,Abnormal(Ulcer),1,0.99233,1
+CA-Late,4,293.jpg,Abnormal(Ulcer),1,0.9908819,1
+CA-Late,4,311.jpg,Abnormal(Ulcer),1,0.9990139,1
+CA-Late,4,312.jpg,Abnormal(Ulcer),1,0.99999,1
+CA-Late,4,313.jpg,Abnormal(Ulcer),1,0.9980876,1
+CA-Late,4,314.jpg,Abnormal(Ulcer),1,0.9999387,1
+CA-Late,4,32.jpg,Abnormal(Ulcer),1,0.98693335,1
+CA-Late,4,326.jpg,Abnormal(Ulcer),1,0.9997766,1
+CA-Late,4,327.jpg,Abnormal(Ulcer),1,0.9971011,1
+CA-Late,4,328.jpg,Abnormal(Ulcer),1,0.9993819,1
+CA-Late,4,329.jpg,Abnormal(Ulcer),1,0.9998063,1
+CA-Late,4,331.jpg,Abnormal(Ulcer),1,0.9994257,1
+CA-Late,4,332.jpg,Abnormal(Ulcer),1,0.90797955,1
+CA-Late,4,333.jpg,Abnormal(Ulcer),1,0.9939556,1
+CA-Late,4,345.jpg,Abnormal(Ulcer),1,0.999265,1
+CA-Late,4,371.jpg,Abnormal(Ulcer),1,0.9959357,1
+CA-Late,4,372.jpg,Abnormal(Ulcer),1,0.43903494,0
+CA-Late,4,373.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Late,4,374.jpg,Abnormal(Ulcer),1,0.99995065,1
+CA-Late,4,378.jpg,Abnormal(Ulcer),1,0.99344957,1
+CA-Late,4,379.jpg,Abnormal(Ulcer),1,0.9999701,1
+CA-Late,4,404.jpg,Abnormal(Ulcer),1,0.9987918,1
+CA-Late,4,405.jpg,Abnormal(Ulcer),1,0.98694354,1
+CA-Late,4,406.jpg,Abnormal(Ulcer),1,0.99986875,1
+CA-Late,4,407.jpg,Abnormal(Ulcer),1,0.9995617,1
+CA-Late,4,412.jpg,Abnormal(Ulcer),1,0.9972452,1
+CA-Late,4,427.jpg,Abnormal(Ulcer),1,0.9996802,1
+CA-Late,4,428.jpg,Abnormal(Ulcer),1,0.99915326,1
+CA-Late,4,429.jpg,Abnormal(Ulcer),1,0.9994239,1
+CA-Late,4,432.jpg,Abnormal(Ulcer),1,0.9989932,1
+CA-Late,4,433.jpg,Abnormal(Ulcer),1,0.9999287,1
+CA-Late,4,436.jpg,Abnormal(Ulcer),1,0.9894036,1
+CA-Late,4,447.jpg,Abnormal(Ulcer),1,0.9829957,1
+CA-Late,4,449.jpg,Abnormal(Ulcer),1,0.98489285,1
+CA-Late,4,45.jpg,Abnormal(Ulcer),1,0.9883118,1
+CA-Late,4,451.jpg,Abnormal(Ulcer),1,0.9996513,1
+CA-Late,4,461.jpg,Abnormal(Ulcer),1,0.9966976,1
+CA-Late,4,462.jpg,Abnormal(Ulcer),1,0.9998888,1
+CA-Late,4,465.jpg,Abnormal(Ulcer),1,0.9998989,1
+CA-Late,4,467.jpg,Abnormal(Ulcer),1,0.99997354,1
+CA-Late,4,47.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Late,4,485.jpg,Abnormal(Ulcer),1,0.9944714,1
+CA-Late,4,486.jpg,Abnormal(Ulcer),1,0.99859244,1
+CA-Late,4,490.jpg,Abnormal(Ulcer),1,0.99993956,1
+CA-Late,4,491.jpg,Abnormal(Ulcer),1,0.99949276,1
+CA-Late,4,496.jpg,Abnormal(Ulcer),1,0.95553964,1
+CA-Late,4,506.jpg,Abnormal(Ulcer),1,0.966136,1
+CA-Late,4,52.jpg,Abnormal(Ulcer),1,0.96462125,1
+CA-Late,4,61.jpg,Abnormal(Ulcer),1,0.998694,1
+CA-Late,4,62.jpg,Abnormal(Ulcer),1,0.99909127,1
+CA-Late,4,63.jpg,Abnormal(Ulcer),1,0.99594676,1
+CA-Late,4,64.jpg,Abnormal(Ulcer),1,0.9975585,1
+CA-Late,4,65.jpg,Abnormal(Ulcer),1,0.995858,1
+CA-Late,4,66.jpg,Abnormal(Ulcer),1,0.97806984,1
+CA-Late,4,67.jpg,Abnormal(Ulcer),1,0.9990213,1
+CA-Late,4,68.jpg,Abnormal(Ulcer),1,0.99980795,1
+CA-Late,4,69.jpg,Abnormal(Ulcer),1,0.9803273,1
+CA-Late,4,70.jpg,Abnormal(Ulcer),1,0.9999418,1
+CA-Late,4,71.jpg,Abnormal(Ulcer),1,0.9999546,1
+CA-Late,4,72.jpg,Abnormal(Ulcer),1,0.9981649,1
+CA-Late,4,73.jpg,Abnormal(Ulcer),1,0.9999262,1
+CA-Late,4,74.jpg,Abnormal(Ulcer),1,0.9992723,1
+CA-Late,4,76.jpg,Abnormal(Ulcer),1,0.998618,1
+CA-Late,4,77.jpg,Abnormal(Ulcer),1,0.98175496,1
+CA-Late,4,90.jpg,Abnormal(Ulcer),1,0.98591715,1
+CA-Late,4,91.jpg,Abnormal(Ulcer),1,0.998547,1
+CA-Late,4,92.jpg,Abnormal(Ulcer),1,0.9939878,1
+CA-Late,4,93.jpg,Abnormal(Ulcer),1,0.9995324,1
+CA-Late,4,94.jpg,Abnormal(Ulcer),1,0.99402994,1
+CA-Late,4,95.jpg,Abnormal(Ulcer),1,0.9442073,1
+CA-Late,4,111.jpg,Normal(Healthy skin),0,0.008775508,0
+CA-Late,4,112.jpg,Normal(Healthy skin),0,0.036013074,0
+CA-Late,4,113.jpg,Normal(Healthy skin),0,0.0016838609,0
+CA-Late,4,117.jpg,Normal(Healthy skin),0,0.009552427,0
+CA-Late,4,131.jpg,Normal(Healthy skin),0,0.0010079507,0
+CA-Late,4,135.jpg,Normal(Healthy skin),0,0.002978579,0
+CA-Late,4,138.jpg,Normal(Healthy skin),0,0.00875601,0
+CA-Late,4,14.jpg,Normal(Healthy skin),0,0.005568874,0
+CA-Late,4,140.jpg,Normal(Healthy skin),0,0.0008832743,0
+CA-Late,4,147.jpg,Normal(Healthy skin),0,0.00788046,0
+CA-Late,4,151.jpg,Normal(Healthy skin),0,0.0016306606,0
+CA-Late,4,152.jpg,Normal(Healthy skin),0,0.01977714,0
+CA-Late,4,171.jpg,Normal(Healthy skin),0,0.0025887648,0
+CA-Late,4,206.jpg,Normal(Healthy skin),0,0.0010710439,0
+CA-Late,4,207.jpg,Normal(Healthy skin),0,0.0011775207,0
+CA-Late,4,208.jpg,Normal(Healthy skin),0,0.0006192116,0
+CA-Late,4,209.jpg,Normal(Healthy skin),0,0.0016856437,0
+CA-Late,4,211.jpg,Normal(Healthy skin),0,0.0025338165,0
+CA-Late,4,212.jpg,Normal(Healthy skin),0,0.008130432,0
+CA-Late,4,213.jpg,Normal(Healthy skin),0,0.0068160095,0
+CA-Late,4,214.jpg,Normal(Healthy skin),0,0.0055762064,0
+CA-Late,4,216.jpg,Normal(Healthy skin),0,0.0023386113,0
+CA-Late,4,219.jpg,Normal(Healthy skin),0,0.005518352,0
+CA-Late,4,220.jpg,Normal(Healthy skin),0,0.0092124855,0
+CA-Late,4,227.jpg,Normal(Healthy skin),0,0.0005942007,0
+CA-Late,4,228.jpg,Normal(Healthy skin),0,0.00064247183,0
+CA-Late,4,229.jpg,Normal(Healthy skin),0,0.00056191324,0
+CA-Late,4,233.jpg,Normal(Healthy skin),0,0.005394316,0
+CA-Late,4,234.jpg,Normal(Healthy skin),0,0.0078501,0
+CA-Late,4,252.jpg,Normal(Healthy skin),0,0.0028449774,0
+CA-Late,4,262.jpg,Normal(Healthy skin),0,0.004364145,0
+CA-Late,4,266.jpg,Normal(Healthy skin),0,0.02071891,0
+CA-Late,4,27.jpg,Normal(Healthy skin),0,0.0037204006,0
+CA-Late,4,276.jpg,Normal(Healthy skin),0,0.0017504051,0
+CA-Late,4,277.jpg,Normal(Healthy skin),0,0.0037299285,0
+CA-Late,4,278.jpg,Normal(Healthy skin),0,0.0017612608,0
+CA-Late,4,279.jpg,Normal(Healthy skin),0,0.0019579541,0
+CA-Late,4,324.jpg,Normal(Healthy skin),0,0.056308266,0
+CA-Late,4,330.jpg,Normal(Healthy skin),0,0.00074790895,0
+CA-Late,4,355.jpg,Normal(Healthy skin),0,0.026668759,0
+CA-Late,4,370.jpg,Normal(Healthy skin),0,0.0035767115,0
+ECA-Multi,0,121.jpg,Abnormal(Ulcer),1,0.9999778,1
+ECA-Multi,0,122.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,123.jpg,Abnormal(Ulcer),1,0.99999666,1
+ECA-Multi,0,161.jpg,Abnormal(Ulcer),1,0.9999974,1
+ECA-Multi,0,162.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,0,163.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,164.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,180.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,0,181.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,182.jpg,Abnormal(Ulcer),1,0.99999714,1
+ECA-Multi,0,183.jpg,Abnormal(Ulcer),1,0.99998987,1
+ECA-Multi,0,187.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,20.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,200.jpg,Abnormal(Ulcer),1,0.99953645,1
+ECA-Multi,0,201.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,0,202.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,0,203.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,0,204.jpg,Abnormal(Ulcer),1,0.99995685,1
+ECA-Multi,0,207.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,0,208.jpg,Abnormal(Ulcer),1,0.99993324,1
+ECA-Multi,0,21.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,0,222.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,226.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,231.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,239.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,0,240.jpg,Abnormal(Ulcer),1,0.99971205,1
+ECA-Multi,0,241.jpg,Abnormal(Ulcer),1,0.999977,1
+ECA-Multi,0,242.jpg,Abnormal(Ulcer),1,0.9999833,1
+ECA-Multi,0,243.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,244.jpg,Abnormal(Ulcer),1,0.99986184,1
+ECA-Multi,0,262.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Multi,0,263.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,0,264.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,265.jpg,Abnormal(Ulcer),1,0.9999945,1
+ECA-Multi,0,266.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,0,267.jpg,Abnormal(Ulcer),1,0.9952051,1
+ECA-Multi,0,268.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,269.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,0,27.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,270.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,276.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,0,277.jpg,Abnormal(Ulcer),1,0.4681427,0
+ECA-Multi,0,30.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,0,306.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,0,307.jpg,Abnormal(Ulcer),1,0.9998071,1
+ECA-Multi,0,308.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,0,309.jpg,Abnormal(Ulcer),1,0.7535029,1
+ECA-Multi,0,334.jpg,Abnormal(Ulcer),1,0.99985754,1
+ECA-Multi,0,335.jpg,Abnormal(Ulcer),1,0.99990463,1
+ECA-Multi,0,336.jpg,Abnormal(Ulcer),1,0.99999297,1
+ECA-Multi,0,337.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,0,338.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,339.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,340.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,341.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Multi,0,342.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,343.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,0,351.jpg,Abnormal(Ulcer),1,0.99980927,1
+ECA-Multi,0,353.jpg,Abnormal(Ulcer),1,0.9999871,1
+ECA-Multi,0,354.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,0,355.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,0,356.jpg,Abnormal(Ulcer),1,0.9943338,1
+ECA-Multi,0,36.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,0,37.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,375.jpg,Abnormal(Ulcer),1,0.99998295,1
+ECA-Multi,0,376.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,0,377.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,403.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,417.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,418.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,0,419.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,42.jpg,Abnormal(Ulcer),1,0.99999225,1
+ECA-Multi,0,420.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,0,422.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,423.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,424.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,0,425.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,0,440.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,456.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,458.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,0,469.jpg,Abnormal(Ulcer),1,0.99984276,1
+ECA-Multi,0,474.jpg,Abnormal(Ulcer),1,0.99999857,1
+ECA-Multi,0,477.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,0,478.jpg,Abnormal(Ulcer),1,0.88706684,1
+ECA-Multi,0,480.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,0,492.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,0,507.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,0,513.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,0,53.jpg,Abnormal(Ulcer),1,0.9999974,1
+ECA-Multi,0,54.jpg,Abnormal(Ulcer),1,0.93700117,1
+ECA-Multi,0,60.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,0,9.jpg,Abnormal(Ulcer),1,0.99998856,1
+ECA-Multi,0,10.jpg,Normal(Healthy skin),0,3.6103178e-05,0
+ECA-Multi,0,100.jpg,Normal(Healthy skin),0,0.00012307224,0
+ECA-Multi,0,101.jpg,Normal(Healthy skin),0,0.99977326,1
+ECA-Multi,0,102.jpg,Normal(Healthy skin),0,0.36295635,0
+ECA-Multi,0,103.jpg,Normal(Healthy skin),0,0.10130694,0
+ECA-Multi,0,104.jpg,Normal(Healthy skin),0,4.4986773e-05,0
+ECA-Multi,0,105.jpg,Normal(Healthy skin),0,7.898409e-05,0
+ECA-Multi,0,106.jpg,Normal(Healthy skin),0,1.0777174e-05,0
+ECA-Multi,0,107.jpg,Normal(Healthy skin),0,0.003459959,0
+ECA-Multi,0,129.jpg,Normal(Healthy skin),0,2.8882823e-06,0
+ECA-Multi,0,13.jpg,Normal(Healthy skin),0,6.741767e-06,0
+ECA-Multi,0,136.jpg,Normal(Healthy skin),0,3.3879052e-05,0
+ECA-Multi,0,141.jpg,Normal(Healthy skin),0,1.3880366e-05,0
+ECA-Multi,0,146.jpg,Normal(Healthy skin),0,3.389508e-05,0
+ECA-Multi,0,157.jpg,Normal(Healthy skin),0,5.3027976e-05,0
+ECA-Multi,0,161.jpg,Normal(Healthy skin),0,0.0013245669,0
+ECA-Multi,0,162.jpg,Normal(Healthy skin),0,2.8262662e-06,0
+ECA-Multi,0,164.jpg,Normal(Healthy skin),0,3.114694e-05,0
+ECA-Multi,0,165.jpg,Normal(Healthy skin),0,0.00040476423,0
+ECA-Multi,0,166.jpg,Normal(Healthy skin),0,2.7102598e-05,0
+ECA-Multi,0,167.jpg,Normal(Healthy skin),0,0.00041824993,0
+ECA-Multi,0,168.jpg,Normal(Healthy skin),0,1.2454761e-05,0
+ECA-Multi,0,169.jpg,Normal(Healthy skin),0,0.0022982487,0
+ECA-Multi,0,172.jpg,Normal(Healthy skin),0,9.534356e-06,0
+ECA-Multi,0,178.jpg,Normal(Healthy skin),0,4.3543832e-06,0
+ECA-Multi,0,179.jpg,Normal(Healthy skin),0,2.6282665e-05,0
+ECA-Multi,0,180.jpg,Normal(Healthy skin),0,1.7247603e-05,0
+ECA-Multi,0,181.jpg,Normal(Healthy skin),0,0.00021064913,0
+ECA-Multi,0,182.jpg,Normal(Healthy skin),0,6.577837e-06,0
+ECA-Multi,0,183.jpg,Normal(Healthy skin),0,1.0787231e-05,0
+ECA-Multi,0,195.jpg,Normal(Healthy skin),0,9.532591e-06,0
+ECA-Multi,0,196.jpg,Normal(Healthy skin),0,2.1334614e-05,0
+ECA-Multi,0,239.jpg,Normal(Healthy skin),0,7.413386e-06,0
+ECA-Multi,0,246.jpg,Normal(Healthy skin),0,4.003597e-06,0
+ECA-Multi,0,247.jpg,Normal(Healthy skin),0,0.0001877149,0
+ECA-Multi,0,249.jpg,Normal(Healthy skin),0,0.00013555516,0
+ECA-Multi,0,253.jpg,Normal(Healthy skin),0,4.140637e-05,0
+ECA-Multi,0,263.jpg,Normal(Healthy skin),0,1.0070589e-06,0
+ECA-Multi,0,274.jpg,Normal(Healthy skin),0,4.3847085e-05,0
+ECA-Multi,0,275.jpg,Normal(Healthy skin),0,2.549211e-05,0
+ECA-Multi,0,320.jpg,Normal(Healthy skin),0,0.31530765,0
+ECA-Multi,0,322 - Copy.jpg,Normal(Healthy skin),0,0.00027033273,0
+ECA-Multi,0,329.jpg,Normal(Healthy skin),0,0.0002592534,0
+ECA-Multi,0,350.jpg,Normal(Healthy skin),0,6.037004e-05,0
+ECA-Multi,0,353.jpg,Normal(Healthy skin),0,4.8364134e-05,0
+ECA-Multi,0,362.jpg,Normal(Healthy skin),0,3.7760154e-05,0
+ECA-Multi,0,363.jpg,Normal(Healthy skin),0,1.8688372e-05,0
+ECA-Multi,0,368.jpg,Normal(Healthy skin),0,7.985753e-06,0
+ECA-Multi,0,61.jpg,Normal(Healthy skin),0,0.9466985,1
+ECA-Multi,0,89.jpg,Normal(Healthy skin),0,0.23228402,0
+ECA-Multi,0,90.jpg,Normal(Healthy skin),0,0.016814774,0
+ECA-Multi,1,1.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,124.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,126.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,1,127.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,128.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,129.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,13.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,130.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,131.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,140.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,1,141.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Multi,1,142.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,145.jpg,Abnormal(Ulcer),1,0.9999964,1
+ECA-Multi,1,168.jpg,Abnormal(Ulcer),1,0.9999888,1
+ECA-Multi,1,169.jpg,Abnormal(Ulcer),1,0.99999726,1
+ECA-Multi,1,170.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,1,171.jpg,Abnormal(Ulcer),1,0.9999945,1
+ECA-Multi,1,172.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,22.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,230.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,1,25.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,251.jpg,Abnormal(Ulcer),1,0.99998176,1
+ECA-Multi,1,252.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,1,253.jpg,Abnormal(Ulcer),1,0.99998665,1
+ECA-Multi,1,254.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,255.jpg,Abnormal(Ulcer),1,0.999998,1
+ECA-Multi,1,256.jpg,Abnormal(Ulcer),1,0.9999862,1
+ECA-Multi,1,257.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,1,258.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Multi,1,259.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,260.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,261.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,278.jpg,Abnormal(Ulcer),1,0.99759704,1
+ECA-Multi,1,279.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,1,28.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,280.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,1,281.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,1,3.jpg,Abnormal(Ulcer),1,0.9999777,1
+ECA-Multi,1,302.jpg,Abnormal(Ulcer),1,0.9998189,1
+ECA-Multi,1,303.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,304.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,305.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,310.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,324.jpg,Abnormal(Ulcer),1,0.9971162,1
+ECA-Multi,1,33.jpg,Abnormal(Ulcer),1,0.99999726,1
+ECA-Multi,1,344.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,347.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,35.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Multi,1,352.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,357.jpg,Abnormal(Ulcer),1,0.9999696,1
+ECA-Multi,1,358.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,359.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,1,363.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,364.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,365.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,366.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,367.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,368.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,401.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,1,402.jpg,Abnormal(Ulcer),1,0.99998033,1
+ECA-Multi,1,416.jpg,Abnormal(Ulcer),1,0.8382461,1
+ECA-Multi,1,426.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,434.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Multi,1,438.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,1,439.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,441.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,1,443.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,444.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,448.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,1,450.jpg,Abnormal(Ulcer),1,0.9999101,1
+ECA-Multi,1,459.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,460.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,464.jpg,Abnormal(Ulcer),1,0.9999988,1
+ECA-Multi,1,468.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,1,472.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,476.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,487.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,493.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,494.jpg,Abnormal(Ulcer),1,0.9999981,1
+ECA-Multi,1,495.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,1,499.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,1,500.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,501.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,502.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,1,504.jpg,Abnormal(Ulcer),1,0.99998605,1
+ECA-Multi,1,505.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,1,508.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,510.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,511.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,512.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,1,56.jpg,Abnormal(Ulcer),1,0.9758066,1
+ECA-Multi,1,7.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,8.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,1,96.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,1,127.jpg,Normal(Healthy skin),0,5.5216973e-05,0
+ECA-Multi,1,134.jpg,Normal(Healthy skin),0,8.953399e-05,0
+ECA-Multi,1,139.jpg,Normal(Healthy skin),0,1.4972539e-05,0
+ECA-Multi,1,144.jpg,Normal(Healthy skin),0,0.00067749503,0
+ECA-Multi,1,15.jpg,Normal(Healthy skin),0,0.00013700342,0
+ECA-Multi,1,153.jpg,Normal(Healthy skin),0,0.0006067953,0
+ECA-Multi,1,154.jpg,Normal(Healthy skin),0,0.0540237,0
+ECA-Multi,1,155.jpg,Normal(Healthy skin),0,0.00014098347,0
+ECA-Multi,1,156.jpg,Normal(Healthy skin),0,0.0005235663,0
+ECA-Multi,1,173.jpg,Normal(Healthy skin),0,0.0031785257,0
+ECA-Multi,1,18.jpg,Normal(Healthy skin),0,0.021139657,0
+ECA-Multi,1,198.jpg,Normal(Healthy skin),0,1.4891188e-05,0
+ECA-Multi,1,199.jpg,Normal(Healthy skin),0,1.976873e-05,0
+ECA-Multi,1,200.jpg,Normal(Healthy skin),0,4.6876467e-05,0
+ECA-Multi,1,204.jpg,Normal(Healthy skin),0,6.584317e-05,0
+ECA-Multi,1,210.jpg,Normal(Healthy skin),0,0.00079805515,0
+ECA-Multi,1,218.jpg,Normal(Healthy skin),0,0.00036887996,0
+ECA-Multi,1,230.jpg,Normal(Healthy skin),0,9.782188e-05,0
+ECA-Multi,1,231.jpg,Normal(Healthy skin),0,9.550977e-05,0
+ECA-Multi,1,242.jpg,Normal(Healthy skin),0,0.0001711565,0
+ECA-Multi,1,243.jpg,Normal(Healthy skin),0,0.00020008958,0
+ECA-Multi,1,251.jpg,Normal(Healthy skin),0,0.00010004541,0
+ECA-Multi,1,260.jpg,Normal(Healthy skin),0,2.341415e-05,0
+ECA-Multi,1,261.jpg,Normal(Healthy skin),0,0.00027537884,0
+ECA-Multi,1,273.jpg,Normal(Healthy skin),0,0.00019125032,0
+ECA-Multi,1,28.jpg,Normal(Healthy skin),0,0.0023986937,0
+ECA-Multi,1,29.jpg,Normal(Healthy skin),0,2.150924e-05,0
+ECA-Multi,1,316 - Copy.jpg,Normal(Healthy skin),0,0.00023642778,0
+ECA-Multi,1,318 - Copy.jpg,Normal(Healthy skin),0,0.0009195975,0
+ECA-Multi,1,319.jpg,Normal(Healthy skin),0,0.0005246919,0
+ECA-Multi,1,321 - Copy.jpg,Normal(Healthy skin),0,0.0005340656,0
+ECA-Multi,1,331 - Copy.jpg,Normal(Healthy skin),0,0.010620653,0
+ECA-Multi,1,332.jpg,Normal(Healthy skin),0,0.00016307192,0
+ECA-Multi,1,336.jpg,Normal(Healthy skin),0,0.0016043253,0
+ECA-Multi,1,339.jpg,Normal(Healthy skin),0,1.6550022e-05,0
+ECA-Multi,1,347.jpg,Normal(Healthy skin),0,0.0019374682,0
+ECA-Multi,1,349.jpg,Normal(Healthy skin),0,0.0018375411,0
+ECA-Multi,1,358.jpg,Normal(Healthy skin),0,0.0014610189,0
+ECA-Multi,1,366.jpg,Normal(Healthy skin),0,0.005910024,0
+ECA-Multi,1,40.jpg,Normal(Healthy skin),0,0.059241943,0
+ECA-Multi,1,41.jpg,Normal(Healthy skin),0,0.005601037,0
+ECA-Multi,1,79.jpg,Normal(Healthy skin),0,0.0023635197,0
+ECA-Multi,1,85.jpg,Normal(Healthy skin),0,0.04198426,0
+ECA-Multi,2,10.jpg,Abnormal(Ulcer),1,0.99999607,1
+ECA-Multi,2,103.jpg,Abnormal(Ulcer),1,0.99977195,1
+ECA-Multi,2,104.jpg,Abnormal(Ulcer),1,0.99938583,1
+ECA-Multi,2,105.jpg,Abnormal(Ulcer),1,0.9996913,1
+ECA-Multi,2,106.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,2,107.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,11.jpg,Abnormal(Ulcer),1,0.99999106,1
+ECA-Multi,2,111.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,2,112.jpg,Abnormal(Ulcer),1,0.9999988,1
+ECA-Multi,2,113.jpg,Abnormal(Ulcer),1,0.99999785,1
+ECA-Multi,2,114.jpg,Abnormal(Ulcer),1,0.99998546,1
+ECA-Multi,2,115.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Multi,2,116.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,2,117.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,2,118.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,2,12.jpg,Abnormal(Ulcer),1,0.99998426,1
+ECA-Multi,2,132.jpg,Abnormal(Ulcer),1,0.9997471,1
+ECA-Multi,2,133.jpg,Abnormal(Ulcer),1,0.9999329,1
+ECA-Multi,2,134.jpg,Abnormal(Ulcer),1,0.9999846,1
+ECA-Multi,2,135.jpg,Abnormal(Ulcer),1,0.999764,1
+ECA-Multi,2,136.jpg,Abnormal(Ulcer),1,0.99943167,1
+ECA-Multi,2,137.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,2,138.jpg,Abnormal(Ulcer),1,0.9996233,1
+ECA-Multi,2,139.jpg,Abnormal(Ulcer),1,0.99991524,1
+ECA-Multi,2,14.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Multi,2,157.jpg,Abnormal(Ulcer),1,0.999825,1
+ECA-Multi,2,158.jpg,Abnormal(Ulcer),1,0.9998051,1
+ECA-Multi,2,159.jpg,Abnormal(Ulcer),1,0.9999926,1
+ECA-Multi,2,160.jpg,Abnormal(Ulcer),1,0.99999344,1
+ECA-Multi,2,19.jpg,Abnormal(Ulcer),1,0.9999938,1
+ECA-Multi,2,194.jpg,Abnormal(Ulcer),1,0.99997497,1
+ECA-Multi,2,205.jpg,Abnormal(Ulcer),1,0.9999771,1
+ECA-Multi,2,206.jpg,Abnormal(Ulcer),1,0.9999877,1
+ECA-Multi,2,218.jpg,Abnormal(Ulcer),1,0.99987316,1
+ECA-Multi,2,219.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,2,220.jpg,Abnormal(Ulcer),1,0.9999784,1
+ECA-Multi,2,224.jpg,Abnormal(Ulcer),1,0.99995255,1
+ECA-Multi,2,225.jpg,Abnormal(Ulcer),1,0.999998,1
+ECA-Multi,2,227.jpg,Abnormal(Ulcer),1,0.99995375,1
+ECA-Multi,2,229.jpg,Abnormal(Ulcer),1,0.99999106,1
+ECA-Multi,2,235.jpg,Abnormal(Ulcer),1,0.99986696,1
+ECA-Multi,2,236.jpg,Abnormal(Ulcer),1,0.97131515,1
+ECA-Multi,2,237.jpg,Abnormal(Ulcer),1,0.99933976,1
+ECA-Multi,2,238.jpg,Abnormal(Ulcer),1,0.999757,1
+ECA-Multi,2,273.jpg,Abnormal(Ulcer),1,0.9999633,1
+ECA-Multi,2,275.jpg,Abnormal(Ulcer),1,0.999998,1
+ECA-Multi,2,282.jpg,Abnormal(Ulcer),1,0.999997,1
+ECA-Multi,2,283.jpg,Abnormal(Ulcer),1,0.999995,1
+ECA-Multi,2,284.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,2,290.jpg,Abnormal(Ulcer),1,0.9999956,1
+ECA-Multi,2,291.jpg,Abnormal(Ulcer),1,0.36603355,0
+ECA-Multi,2,301.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,31.jpg,Abnormal(Ulcer),1,0.99998593,1
+ECA-Multi,2,315.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,2,316.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,2,317.jpg,Abnormal(Ulcer),1,0.99998486,1
+ECA-Multi,2,318.jpg,Abnormal(Ulcer),1,0.999984,1
+ECA-Multi,2,319.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Multi,2,320.jpg,Abnormal(Ulcer),1,0.9999951,1
+ECA-Multi,2,321.jpg,Abnormal(Ulcer),1,0.99866486,1
+ECA-Multi,2,325.jpg,Abnormal(Ulcer),1,0.9999795,1
+ECA-Multi,2,330.jpg,Abnormal(Ulcer),1,0.999995,1
+ECA-Multi,2,34.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,2,346.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,348.jpg,Abnormal(Ulcer),1,0.99619585,1
+ECA-Multi,2,349.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,2,350.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,2,380.jpg,Abnormal(Ulcer),1,0.99993587,1
+ECA-Multi,2,4.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,2,40.jpg,Abnormal(Ulcer),1,0.99992645,1
+ECA-Multi,2,41.jpg,Abnormal(Ulcer),1,0.99999106,1
+ECA-Multi,2,410.jpg,Abnormal(Ulcer),1,0.9998939,1
+ECA-Multi,2,411.jpg,Abnormal(Ulcer),1,0.9999665,1
+ECA-Multi,2,413.jpg,Abnormal(Ulcer),1,0.99999464,1
+ECA-Multi,2,414.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,415.jpg,Abnormal(Ulcer),1,0.99993813,1
+ECA-Multi,2,421.jpg,Abnormal(Ulcer),1,0.99988437,1
+ECA-Multi,2,437.jpg,Abnormal(Ulcer),1,0.9999887,1
+ECA-Multi,2,442.jpg,Abnormal(Ulcer),1,0.9999958,1
+ECA-Multi,2,457.jpg,Abnormal(Ulcer),1,0.9999958,1
+ECA-Multi,2,466.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,2,473.jpg,Abnormal(Ulcer),1,0.9999753,1
+ECA-Multi,2,475.jpg,Abnormal(Ulcer),1,0.99975175,1
+ECA-Multi,2,481.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,2,482.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,489.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,2,49.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,2,497.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,2,5.jpg,Abnormal(Ulcer),1,0.9999944,1
+ECA-Multi,2,50.jpg,Abnormal(Ulcer),1,0.9999964,1
+ECA-Multi,2,509.jpg,Abnormal(Ulcer),1,0.9999919,1
+ECA-Multi,2,51.jpg,Abnormal(Ulcer),1,0.9999993,1
+ECA-Multi,2,57.jpg,Abnormal(Ulcer),1,0.60585225,0
+ECA-Multi,2,59.jpg,Abnormal(Ulcer),1,0.9999988,1
+ECA-Multi,2,1.jpg,Normal(Healthy skin),0,0.0155124115,0
+ECA-Multi,2,108.jpg,Normal(Healthy skin),0,4.4250508e-05,0
+ECA-Multi,2,109.jpg,Normal(Healthy skin),0,5.9502996e-05,0
+ECA-Multi,2,110.jpg,Normal(Healthy skin),0,0.00024497323,0
+ECA-Multi,2,114.jpg,Normal(Healthy skin),0,0.0001894647,0
+ECA-Multi,2,122.jpg,Normal(Healthy skin),0,4.5260014e-05,0
+ECA-Multi,2,137.jpg,Normal(Healthy skin),0,0.00033147165,0
+ECA-Multi,2,143.jpg,Normal(Healthy skin),0,8.6872955e-05,0
+ECA-Multi,2,145.jpg,Normal(Healthy skin),0,3.3811466e-05,0
+ECA-Multi,2,158.jpg,Normal(Healthy skin),0,0.00026402052,0
+ECA-Multi,2,159.jpg,Normal(Healthy skin),0,0.00044078458,0
+ECA-Multi,2,160.jpg,Normal(Healthy skin),0,0.00044997875,0
+ECA-Multi,2,170.jpg,Normal(Healthy skin),0,0.013961414,0
+ECA-Multi,2,174.jpg,Normal(Healthy skin),0,0.0002022536,0
+ECA-Multi,2,176.jpg,Normal(Healthy skin),0,0.0007407191,0
+ECA-Multi,2,177.jpg,Normal(Healthy skin),0,0.0037030512,0
+ECA-Multi,2,185.jpg,Normal(Healthy skin),0,1.6309812e-05,0
+ECA-Multi,2,186.jpg,Normal(Healthy skin),0,0.00017417641,0
+ECA-Multi,2,187.jpg,Normal(Healthy skin),0,0.0007056103,0
+ECA-Multi,2,188.jpg,Normal(Healthy skin),0,0.0023059335,0
+ECA-Multi,2,189.jpg,Normal(Healthy skin),0,0.6603259,0
+ECA-Multi,2,190.jpg,Normal(Healthy skin),0,3.8162456e-05,0
+ECA-Multi,2,191.jpg,Normal(Healthy skin),0,0.00013130583,0
+ECA-Multi,2,192.jpg,Normal(Healthy skin),0,2.1131296e-05,0
+ECA-Multi,2,193.jpg,Normal(Healthy skin),0,7.674855e-05,0
+ECA-Multi,2,194.jpg,Normal(Healthy skin),0,7.852909e-06,0
+ECA-Multi,2,197.jpg,Normal(Healthy skin),0,0.00031634793,0
+ECA-Multi,2,221.jpg,Normal(Healthy skin),0,3.099059e-05,0
+ECA-Multi,2,222.jpg,Normal(Healthy skin),0,2.194989e-05,0
+ECA-Multi,2,223.jpg,Normal(Healthy skin),0,0.00010570328,0
+ECA-Multi,2,224.jpg,Normal(Healthy skin),0,3.229756e-05,0
+ECA-Multi,2,225.jpg,Normal(Healthy skin),0,1.5865864e-05,0
+ECA-Multi,2,226.jpg,Normal(Healthy skin),0,1.3218272e-05,0
+ECA-Multi,2,232.jpg,Normal(Healthy skin),0,3.0718977e-05,0
+ECA-Multi,2,240.jpg,Normal(Healthy skin),0,2.6758104e-05,0
+ECA-Multi,2,241.jpg,Normal(Healthy skin),0,4.8105438e-05,0
+ECA-Multi,2,244.jpg,Normal(Healthy skin),0,5.6907316e-05,0
+ECA-Multi,2,245.jpg,Normal(Healthy skin),0,0.00063643773,0
+ECA-Multi,2,248.jpg,Normal(Healthy skin),0,5.0017166e-05,0
+ECA-Multi,2,250.jpg,Normal(Healthy skin),0,0.0005197203,0
+ECA-Multi,2,254.jpg,Normal(Healthy skin),0,0.00028198404,0
+ECA-Multi,2,255.jpg,Normal(Healthy skin),0,9.114411e-05,0
+ECA-Multi,2,256.jpg,Normal(Healthy skin),0,0.00036553162,0
+ECA-Multi,2,265.jpg,Normal(Healthy skin),0,0.0010429715,0
+ECA-Multi,2,268.jpg,Normal(Healthy skin),0,6.772328e-05,0
+ECA-Multi,2,270.jpg,Normal(Healthy skin),0,5.364059e-05,0
+ECA-Multi,2,280.jpg,Normal(Healthy skin),0,6.583538e-05,0
+ECA-Multi,2,311.jpg,Normal(Healthy skin),0,0.0002766842,0
+ECA-Multi,2,337.jpg,Normal(Healthy skin),0,0.000117346346,0
+ECA-Multi,2,341.jpg,Normal(Healthy skin),0,3.821202e-05,0
+ECA-Multi,2,343.jpg,Normal(Healthy skin),0,0.000108423694,0
+ECA-Multi,2,344.jpg,Normal(Healthy skin),0,6.873582e-06,0
+ECA-Multi,2,346.jpg,Normal(Healthy skin),0,9.49283e-05,0
+ECA-Multi,2,359.jpg,Normal(Healthy skin),0,0.00043666564,0
+ECA-Multi,2,59.jpg,Normal(Healthy skin),0,0.028382044,0
+ECA-Multi,2,88.jpg,Normal(Healthy skin),0,0.004205102,0
+ECA-Multi,3,100.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,3,101.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,3,125.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,3,143.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,3,144.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,3,146.jpg,Abnormal(Ulcer),1,0.9988483,1
+ECA-Multi,3,147.jpg,Abnormal(Ulcer),1,0.99965405,1
+ECA-Multi,3,148.jpg,Abnormal(Ulcer),1,0.9962589,1
+ECA-Multi,3,149.jpg,Abnormal(Ulcer),1,0.99996877,1
+ECA-Multi,3,15.jpg,Abnormal(Ulcer),1,0.99999475,1
+ECA-Multi,3,150.jpg,Abnormal(Ulcer),1,0.9998932,1
+ECA-Multi,3,151.jpg,Abnormal(Ulcer),1,0.99999857,1
+ECA-Multi,3,152.jpg,Abnormal(Ulcer),1,0.9999927,1
+ECA-Multi,3,153.jpg,Abnormal(Ulcer),1,0.99960554,1
+ECA-Multi,3,154.jpg,Abnormal(Ulcer),1,0.9999982,1
+ECA-Multi,3,155.jpg,Abnormal(Ulcer),1,0.9999964,1
+ECA-Multi,3,156.jpg,Abnormal(Ulcer),1,0.9999678,1
+ECA-Multi,3,16.jpg,Abnormal(Ulcer),1,0.9999622,1
+ECA-Multi,3,165.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,3,166.jpg,Abnormal(Ulcer),1,0.99999535,1
+ECA-Multi,3,167.jpg,Abnormal(Ulcer),1,0.18793626,0
+ECA-Multi,3,17.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,173.jpg,Abnormal(Ulcer),1,0.99990344,1
+ECA-Multi,3,174.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,3,175.jpg,Abnormal(Ulcer),1,0.9999541,1
+ECA-Multi,3,176.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,3,177.jpg,Abnormal(Ulcer),1,0.9999461,1
+ECA-Multi,3,178.jpg,Abnormal(Ulcer),1,0.99999964,1
+ECA-Multi,3,179.jpg,Abnormal(Ulcer),1,0.99999833,1
+ECA-Multi,3,18.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,184.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,3,185.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,186.jpg,Abnormal(Ulcer),1,0.9999969,1
+ECA-Multi,3,188.jpg,Abnormal(Ulcer),1,0.9998983,1
+ECA-Multi,3,189.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,3,195.jpg,Abnormal(Ulcer),1,0.9999925,1
+ECA-Multi,3,196.jpg,Abnormal(Ulcer),1,0.9999206,1
+ECA-Multi,3,197.jpg,Abnormal(Ulcer),1,0.9999567,1
+ECA-Multi,3,198.jpg,Abnormal(Ulcer),1,0.99999547,1
+ECA-Multi,3,2.jpg,Abnormal(Ulcer),1,0.99998975,1
+ECA-Multi,3,209.jpg,Abnormal(Ulcer),1,0.999987,1
+ECA-Multi,3,210.jpg,Abnormal(Ulcer),1,0.999131,1
+ECA-Multi,3,211.jpg,Abnormal(Ulcer),1,0.999998,1
+ECA-Multi,3,212.jpg,Abnormal(Ulcer),1,0.9999969,1
+ECA-Multi,3,215.jpg,Abnormal(Ulcer),1,0.9999907,1
+ECA-Multi,3,216.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Multi,3,217.jpg,Abnormal(Ulcer),1,0.9999752,1
+ECA-Multi,3,221.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,3,223.jpg,Abnormal(Ulcer),1,0.9999856,1
+ECA-Multi,3,232.jpg,Abnormal(Ulcer),1,0.0018497532,0
+ECA-Multi,3,24.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,3,26.jpg,Abnormal(Ulcer),1,0.9999864,1
+ECA-Multi,3,271.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,272.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Multi,3,274.jpg,Abnormal(Ulcer),1,0.999997,1
+ECA-Multi,3,29.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,3,292.jpg,Abnormal(Ulcer),1,0.9999789,1
+ECA-Multi,3,322.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,3,323.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,3,360.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,361.jpg,Abnormal(Ulcer),1,0.99917847,1
+ECA-Multi,3,362.jpg,Abnormal(Ulcer),1,0.99998605,1
+ECA-Multi,3,369.jpg,Abnormal(Ulcer),1,0.9999969,1
+ECA-Multi,3,370.jpg,Abnormal(Ulcer),1,0.9999751,1
+ECA-Multi,3,39.jpg,Abnormal(Ulcer),1,0.9999945,1
+ECA-Multi,3,408.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,409.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,3,43.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,430.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,3,431.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,435.jpg,Abnormal(Ulcer),1,0.9978111,1
+ECA-Multi,3,44.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,445.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,3,446.jpg,Abnormal(Ulcer),1,0.9999933,1
+ECA-Multi,3,452.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,453.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,3,454.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,455.jpg,Abnormal(Ulcer),1,0.99999595,1
+ECA-Multi,3,463.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,3,470.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,471.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,479.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Multi,3,483.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,484.jpg,Abnormal(Ulcer),1,0.9999976,1
+ECA-Multi,3,488.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,498.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,503.jpg,Abnormal(Ulcer),1,0.9999995,1
+ECA-Multi,3,6.jpg,Abnormal(Ulcer),1,0.99999976,1
+ECA-Multi,3,78.jpg,Abnormal(Ulcer),1,0.98357743,1
+ECA-Multi,3,79.jpg,Abnormal(Ulcer),1,0.99895716,1
+ECA-Multi,3,80.jpg,Abnormal(Ulcer),1,0.999995,1
+ECA-Multi,3,81.jpg,Abnormal(Ulcer),1,0.9999989,1
+ECA-Multi,3,82.jpg,Abnormal(Ulcer),1,0.999936,1
+ECA-Multi,3,83.jpg,Abnormal(Ulcer),1,0.99999845,1
+ECA-Multi,3,84.jpg,Abnormal(Ulcer),1,0.9999807,1
+ECA-Multi,3,85.jpg,Abnormal(Ulcer),1,0.99999714,1
+ECA-Multi,3,86.jpg,Abnormal(Ulcer),1,0.99999917,1
+ECA-Multi,3,88.jpg,Abnormal(Ulcer),1,0.9998734,1
+ECA-Multi,3,89.jpg,Abnormal(Ulcer),1,0.99998796,1
+ECA-Multi,3,97.jpg,Abnormal(Ulcer),1,0.999995,1
+ECA-Multi,3,98.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,99.jpg,Abnormal(Ulcer),1,1.0,1
+ECA-Multi,3,11.jpg,Normal(Healthy skin),0,0.00023423071,0
+ECA-Multi,3,115.jpg,Normal(Healthy skin),0,0.0020833218,0
+ECA-Multi,3,116.jpg,Normal(Healthy skin),0,0.0028219284,0
+ECA-Multi,3,118.jpg,Normal(Healthy skin),0,0.7876894,1
+ECA-Multi,3,119.jpg,Normal(Healthy skin),0,0.00015467734,0
+ECA-Multi,3,12.jpg,Normal(Healthy skin),0,0.00016508433,0
+ECA-Multi,3,120.jpg,Normal(Healthy skin),0,0.0065731145,0
+ECA-Multi,3,121.jpg,Normal(Healthy skin),0,2.8280749e-05,0
+ECA-Multi,3,123.jpg,Normal(Healthy skin),0,0.00015843652,0
+ECA-Multi,3,124.jpg,Normal(Healthy skin),0,0.00014014497,0
+ECA-Multi,3,125.jpg,Normal(Healthy skin),0,6.222999e-05,0
+ECA-Multi,3,126.jpg,Normal(Healthy skin),0,0.00011916076,0
+ECA-Multi,3,132.jpg,Normal(Healthy skin),0,0.00021097998,0
+ECA-Multi,3,142.jpg,Normal(Healthy skin),0,0.0001986443,0
+ECA-Multi,3,163.jpg,Normal(Healthy skin),0,0.000398181,0
+ECA-Multi,3,175.jpg,Normal(Healthy skin),0,0.00019559114,0
+ECA-Multi,3,184.jpg,Normal(Healthy skin),0,0.001058571,0
+ECA-Multi,3,20.jpg,Normal(Healthy skin),0,9.027289e-05,0
+ECA-Multi,3,201.jpg,Normal(Healthy skin),0,0.0062341443,0
+ECA-Multi,3,202.jpg,Normal(Healthy skin),0,0.0021376498,0
+ECA-Multi,3,203.jpg,Normal(Healthy skin),0,0.00088632415,0
+ECA-Multi,3,205.jpg,Normal(Healthy skin),0,8.188418e-05,0
+ECA-Multi,3,215.jpg,Normal(Healthy skin),0,0.0009821942,0
+ECA-Multi,3,217.jpg,Normal(Healthy skin),0,0.00010931537,0
+ECA-Multi,3,235.jpg,Normal(Healthy skin),0,0.00038423037,0
+ECA-Multi,3,236.jpg,Normal(Healthy skin),0,7.125201e-05,0
+ECA-Multi,3,237.jpg,Normal(Healthy skin),0,3.999731e-05,0
+ECA-Multi,3,238.jpg,Normal(Healthy skin),0,0.0007561388,0
+ECA-Multi,3,257.jpg,Normal(Healthy skin),0,2.6511316e-05,0
+ECA-Multi,3,258.jpg,Normal(Healthy skin),0,1.1621576e-05,0
+ECA-Multi,3,259.jpg,Normal(Healthy skin),0,3.221632e-05,0
+ECA-Multi,3,264.jpg,Normal(Healthy skin),0,0.0012626919,0
+ECA-Multi,3,267.jpg,Normal(Healthy skin),0,0.00013911963,0
+ECA-Multi,3,269.jpg,Normal(Healthy skin),0,0.00023487836,0
+ECA-Multi,3,271.jpg,Normal(Healthy skin),0,4.415794e-05,0
+ECA-Multi,3,272.jpg,Normal(Healthy skin),0,4.9803937e-05,0
+ECA-Multi,3,286.jpg,Normal(Healthy skin),0,0.00012185045,0
+ECA-Multi,3,315 - Copy.jpg,Normal(Healthy skin),0,0.012542618,0
+ECA-Multi,3,323 - Copy.jpg,Normal(Healthy skin),0,0.00055616256,0
+ECA-Multi,3,325 - Copy.jpg,Normal(Healthy skin),0,3.8589205e-05,0
+ECA-Multi,3,326.jpg,Normal(Healthy skin),0,0.00026010137,0
+ECA-Multi,3,342.jpg,Normal(Healthy skin),0,0.0007117647,0
+ECA-Multi,3,345.jpg,Normal(Healthy skin),0,0.00077937316,0
+ECA-Multi,3,354.jpg,Normal(Healthy skin),0,0.0013655552,0
+ECA-Multi,3,361.jpg,Normal(Healthy skin),0,0.001004469,0
+ECA-Multi,3,43.jpg,Normal(Healthy skin),0,0.024689948,0
+ECA-Multi,3,44.jpg,Normal(Healthy skin),0,0.020605532,0
+ECA-Multi,3,45.jpg,Normal(Healthy skin),0,0.015235926,0
+ECA-Multi,3,55.jpg,Normal(Healthy skin),0,0.011548076,0
+ECA-Multi,4,102.jpg,Abnormal(Ulcer),1,0.9999927,1
+ECA-Multi,4,108.jpg,Abnormal(Ulcer),1,0.9999765,1
+ECA-Multi,4,109.jpg,Abnormal(Ulcer),1,0.9999987,1
+ECA-Multi,4,110.jpg,Abnormal(Ulcer),1,0.9999782,1
+ECA-Multi,4,119.jpg,Abnormal(Ulcer),1,0.9999887,1
+ECA-Multi,4,120.jpg,Abnormal(Ulcer),1,0.99998975,1
+ECA-Multi,4,190.jpg,Abnormal(Ulcer),1,0.99959016,1
+ECA-Multi,4,191.jpg,Abnormal(Ulcer),1,0.9999205,1
+ECA-Multi,4,192.jpg,Abnormal(Ulcer),1,0.99992895,1
+ECA-Multi,4,193.jpg,Abnormal(Ulcer),1,0.9998603,1
+ECA-Multi,4,213.jpg,Abnormal(Ulcer),1,0.99993956,1
+ECA-Multi,4,214.jpg,Abnormal(Ulcer),1,0.2690992,0
+ECA-Multi,4,23.jpg,Abnormal(Ulcer),1,0.9997465,1
+ECA-Multi,4,233.jpg,Abnormal(Ulcer),1,0.9999516,1
+ECA-Multi,4,234.jpg,Abnormal(Ulcer),1,0.9999175,1
+ECA-Multi,4,245.jpg,Abnormal(Ulcer),1,0.99996245,1
+ECA-Multi,4,246.jpg,Abnormal(Ulcer),1,0.99999905,1
+ECA-Multi,4,247.jpg,Abnormal(Ulcer),1,0.9999497,1
+ECA-Multi,4,248.jpg,Abnormal(Ulcer),1,0.9999255,1
+ECA-Multi,4,249.jpg,Abnormal(Ulcer),1,0.9999466,1
+ECA-Multi,4,250.jpg,Abnormal(Ulcer),1,0.9993457,1
+ECA-Multi,4,288.jpg,Abnormal(Ulcer),1,0.99993706,1
+ECA-Multi,4,293.jpg,Abnormal(Ulcer),1,0.99993443,1
+ECA-Multi,4,311.jpg,Abnormal(Ulcer),1,0.99996114,1
+ECA-Multi,4,312.jpg,Abnormal(Ulcer),1,0.99994814,1
+ECA-Multi,4,313.jpg,Abnormal(Ulcer),1,0.99980044,1
+ECA-Multi,4,314.jpg,Abnormal(Ulcer),1,0.99999,1
+ECA-Multi,4,32.jpg,Abnormal(Ulcer),1,0.9997516,1
+ECA-Multi,4,326.jpg,Abnormal(Ulcer),1,0.9999994,1
+ECA-Multi,4,327.jpg,Abnormal(Ulcer),1,0.9999908,1
+ECA-Multi,4,328.jpg,Abnormal(Ulcer),1,0.9999788,1
+ECA-Multi,4,329.jpg,Abnormal(Ulcer),1,0.99999464,1
+ECA-Multi,4,331.jpg,Abnormal(Ulcer),1,0.99999297,1
+ECA-Multi,4,332.jpg,Abnormal(Ulcer),1,0.9995185,1
+ECA-Multi,4,333.jpg,Abnormal(Ulcer),1,0.999645,1
+ECA-Multi,4,345.jpg,Abnormal(Ulcer),1,0.99997294,1
+ECA-Multi,4,371.jpg,Abnormal(Ulcer),1,0.99993145,1
+ECA-Multi,4,372.jpg,Abnormal(Ulcer),1,0.81539744,1
+ECA-Multi,4,373.jpg,Abnormal(Ulcer),1,0.99999034,1
+ECA-Multi,4,374.jpg,Abnormal(Ulcer),1,0.9999875,1
+ECA-Multi,4,378.jpg,Abnormal(Ulcer),1,0.9999583,1
+ECA-Multi,4,379.jpg,Abnormal(Ulcer),1,0.9999864,1
+ECA-Multi,4,404.jpg,Abnormal(Ulcer),1,0.99792457,1
+ECA-Multi,4,405.jpg,Abnormal(Ulcer),1,0.99234444,1
+ECA-Multi,4,406.jpg,Abnormal(Ulcer),1,0.99993813,1
+ECA-Multi,4,407.jpg,Abnormal(Ulcer),1,0.9999449,1
+ECA-Multi,4,412.jpg,Abnormal(Ulcer),1,0.99996376,1
+ECA-Multi,4,427.jpg,Abnormal(Ulcer),1,0.99999344,1
+ECA-Multi,4,428.jpg,Abnormal(Ulcer),1,0.9999975,1
+ECA-Multi,4,429.jpg,Abnormal(Ulcer),1,0.99999285,1
+ECA-Multi,4,432.jpg,Abnormal(Ulcer),1,0.9997675,1
+ECA-Multi,4,433.jpg,Abnormal(Ulcer),1,0.99999034,1
+ECA-Multi,4,436.jpg,Abnormal(Ulcer),1,0.99971884,1
+ECA-Multi,4,447.jpg,Abnormal(Ulcer),1,0.99978507,1
+ECA-Multi,4,449.jpg,Abnormal(Ulcer),1,0.9998286,1
+ECA-Multi,4,45.jpg,Abnormal(Ulcer),1,0.99966455,1
+ECA-Multi,4,451.jpg,Abnormal(Ulcer),1,0.99999344,1
+ECA-Multi,4,461.jpg,Abnormal(Ulcer),1,0.9999608,1
+ECA-Multi,4,462.jpg,Abnormal(Ulcer),1,0.99997354,1
+ECA-Multi,4,465.jpg,Abnormal(Ulcer),1,0.9999877,1
+ECA-Multi,4,467.jpg,Abnormal(Ulcer),1,0.99998605,1
+ECA-Multi,4,47.jpg,Abnormal(Ulcer),1,0.9999969,1
+ECA-Multi,4,485.jpg,Abnormal(Ulcer),1,0.9989812,1
+ECA-Multi,4,486.jpg,Abnormal(Ulcer),1,0.99740607,1
+ECA-Multi,4,490.jpg,Abnormal(Ulcer),1,0.9999963,1
+ECA-Multi,4,491.jpg,Abnormal(Ulcer),1,0.9999049,1
+ECA-Multi,4,496.jpg,Abnormal(Ulcer),1,0.98073846,1
+ECA-Multi,4,506.jpg,Abnormal(Ulcer),1,0.9998524,1
+ECA-Multi,4,52.jpg,Abnormal(Ulcer),1,0.9717667,1
+ECA-Multi,4,61.jpg,Abnormal(Ulcer),1,0.99983394,1
+ECA-Multi,4,62.jpg,Abnormal(Ulcer),1,0.99986243,1
+ECA-Multi,4,63.jpg,Abnormal(Ulcer),1,0.9999702,1
+ECA-Multi,4,64.jpg,Abnormal(Ulcer),1,0.99993706,1
+ECA-Multi,4,65.jpg,Abnormal(Ulcer),1,0.9995722,1
+ECA-Multi,4,66.jpg,Abnormal(Ulcer),1,0.99860305,1
+ECA-Multi,4,67.jpg,Abnormal(Ulcer),1,0.99966633,1
+ECA-Multi,4,68.jpg,Abnormal(Ulcer),1,0.9999715,1
+ECA-Multi,4,69.jpg,Abnormal(Ulcer),1,0.9998342,1
+ECA-Multi,4,70.jpg,Abnormal(Ulcer),1,0.99999464,1
+ECA-Multi,4,71.jpg,Abnormal(Ulcer),1,0.9999999,1
+ECA-Multi,4,72.jpg,Abnormal(Ulcer),1,0.9997582,1
+ECA-Multi,4,73.jpg,Abnormal(Ulcer),1,0.99999654,1
+ECA-Multi,4,74.jpg,Abnormal(Ulcer),1,0.9999846,1
+ECA-Multi,4,76.jpg,Abnormal(Ulcer),1,0.99999416,1
+ECA-Multi,4,77.jpg,Abnormal(Ulcer),1,0.9990064,1
+ECA-Multi,4,90.jpg,Abnormal(Ulcer),1,0.98890555,1
+ECA-Multi,4,91.jpg,Abnormal(Ulcer),1,0.99995196,1
+ECA-Multi,4,92.jpg,Abnormal(Ulcer),1,0.99985456,1
+ECA-Multi,4,93.jpg,Abnormal(Ulcer),1,0.9999471,1
+ECA-Multi,4,94.jpg,Abnormal(Ulcer),1,0.9993381,1
+ECA-Multi,4,95.jpg,Abnormal(Ulcer),1,0.96301115,1
+ECA-Multi,4,111.jpg,Normal(Healthy skin),0,0.003334913,0
+ECA-Multi,4,112.jpg,Normal(Healthy skin),0,0.011323423,0
+ECA-Multi,4,113.jpg,Normal(Healthy skin),0,0.00066004385,0
+ECA-Multi,4,117.jpg,Normal(Healthy skin),0,0.0011885648,0
+ECA-Multi,4,131.jpg,Normal(Healthy skin),0,0.00025609919,0
+ECA-Multi,4,135.jpg,Normal(Healthy skin),0,0.0030850132,0
+ECA-Multi,4,138.jpg,Normal(Healthy skin),0,0.0032382065,0
+ECA-Multi,4,14.jpg,Normal(Healthy skin),0,0.00872382,0
+ECA-Multi,4,140.jpg,Normal(Healthy skin),0,0.0006750405,0
+ECA-Multi,4,147.jpg,Normal(Healthy skin),0,0.001920887,0
+ECA-Multi,4,151.jpg,Normal(Healthy skin),0,0.00040651322,0
+ECA-Multi,4,152.jpg,Normal(Healthy skin),0,0.0075810147,0
+ECA-Multi,4,171.jpg,Normal(Healthy skin),0,0.0040302053,0
+ECA-Multi,4,206.jpg,Normal(Healthy skin),0,0.0002890644,0
+ECA-Multi,4,207.jpg,Normal(Healthy skin),0,0.000520823,0
+ECA-Multi,4,208.jpg,Normal(Healthy skin),0,0.0003357753,0
+ECA-Multi,4,209.jpg,Normal(Healthy skin),0,0.00059954554,0
+ECA-Multi,4,211.jpg,Normal(Healthy skin),0,0.000880608,0
+ECA-Multi,4,212.jpg,Normal(Healthy skin),0,0.0005462822,0
+ECA-Multi,4,213.jpg,Normal(Healthy skin),0,0.00020275661,0
+ECA-Multi,4,214.jpg,Normal(Healthy skin),0,0.00031705052,0
+ECA-Multi,4,216.jpg,Normal(Healthy skin),0,0.00064503297,0
+ECA-Multi,4,219.jpg,Normal(Healthy skin),0,0.0008209633,0
+ECA-Multi,4,220.jpg,Normal(Healthy skin),0,0.008801977,0
+ECA-Multi,4,227.jpg,Normal(Healthy skin),0,0.00045118784,0
+ECA-Multi,4,228.jpg,Normal(Healthy skin),0,0.00012756757,0
+ECA-Multi,4,229.jpg,Normal(Healthy skin),0,0.0002374586,0
+ECA-Multi,4,233.jpg,Normal(Healthy skin),0,0.00067941676,0
+ECA-Multi,4,234.jpg,Normal(Healthy skin),0,0.0012082977,0
+ECA-Multi,4,252.jpg,Normal(Healthy skin),0,0.00070541835,0
+ECA-Multi,4,262.jpg,Normal(Healthy skin),0,0.0003117768,0
+ECA-Multi,4,266.jpg,Normal(Healthy skin),0,0.0116113415,0
+ECA-Multi,4,27.jpg,Normal(Healthy skin),0,0.00044897443,0
+ECA-Multi,4,276.jpg,Normal(Healthy skin),0,0.00039239155,0
+ECA-Multi,4,277.jpg,Normal(Healthy skin),0,0.00039642458,0
+ECA-Multi,4,278.jpg,Normal(Healthy skin),0,0.0006036182,0
+ECA-Multi,4,279.jpg,Normal(Healthy skin),0,0.00041120802,0
+ECA-Multi,4,324.jpg,Normal(Healthy skin),0,0.009792879,0
+ECA-Multi,4,330.jpg,Normal(Healthy skin),0,0.00039251542,0
+ECA-Multi,4,355.jpg,Normal(Healthy skin),0,0.078207366,0
+ECA-Multi,4,370.jpg,Normal(Healthy skin),0,0.0011343117,0
+CA-Multi,0,121.jpg,Abnormal(Ulcer),1,0.99999404,1
+CA-Multi,0,122.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,123.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,161.jpg,Abnormal(Ulcer),1,0.99999917,1
+CA-Multi,0,162.jpg,Abnormal(Ulcer),1,0.9999949,1
+CA-Multi,0,163.jpg,Abnormal(Ulcer),1,0.99999034,1
+CA-Multi,0,164.jpg,Abnormal(Ulcer),1,0.99998665,1
+CA-Multi,0,180.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,0,181.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,182.jpg,Abnormal(Ulcer),1,0.99999785,1
+CA-Multi,0,183.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,187.jpg,Abnormal(Ulcer),1,0.99999857,1
+CA-Multi,0,20.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Multi,0,200.jpg,Abnormal(Ulcer),1,0.999765,1
+CA-Multi,0,201.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,202.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,203.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,204.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,0,207.jpg,Abnormal(Ulcer),1,0.9999795,1
+CA-Multi,0,208.jpg,Abnormal(Ulcer),1,0.9998516,1
+CA-Multi,0,21.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,0,222.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,226.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,231.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,239.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,240.jpg,Abnormal(Ulcer),1,0.999948,1
+CA-Multi,0,241.jpg,Abnormal(Ulcer),1,0.9999479,1
+CA-Multi,0,242.jpg,Abnormal(Ulcer),1,0.99984443,1
+CA-Multi,0,243.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,244.jpg,Abnormal(Ulcer),1,0.99999344,1
+CA-Multi,0,262.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,263.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,264.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,265.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,0,266.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,267.jpg,Abnormal(Ulcer),1,0.9999938,1
+CA-Multi,0,268.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Multi,0,269.jpg,Abnormal(Ulcer),1,0.99999,1
+CA-Multi,0,27.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,270.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,276.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,277.jpg,Abnormal(Ulcer),1,0.8953535,1
+CA-Multi,0,30.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,306.jpg,Abnormal(Ulcer),1,0.9999894,1
+CA-Multi,0,307.jpg,Abnormal(Ulcer),1,0.99999845,1
+CA-Multi,0,308.jpg,Abnormal(Ulcer),1,0.9999943,1
+CA-Multi,0,309.jpg,Abnormal(Ulcer),1,0.9856726,1
+CA-Multi,0,334.jpg,Abnormal(Ulcer),1,0.99987113,1
+CA-Multi,0,335.jpg,Abnormal(Ulcer),1,0.9999963,1
+CA-Multi,0,336.jpg,Abnormal(Ulcer),1,0.99999416,1
+CA-Multi,0,337.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Multi,0,338.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,0,339.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,340.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,0,341.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Multi,0,342.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,343.jpg,Abnormal(Ulcer),1,0.9999969,1
+CA-Multi,0,351.jpg,Abnormal(Ulcer),1,0.9999691,1
+CA-Multi,0,353.jpg,Abnormal(Ulcer),1,0.9999037,1
+CA-Multi,0,354.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,355.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Multi,0,356.jpg,Abnormal(Ulcer),1,0.9901125,1
+CA-Multi,0,36.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,37.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,375.jpg,Abnormal(Ulcer),1,0.99999547,1
+CA-Multi,0,376.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Multi,0,377.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Multi,0,403.jpg,Abnormal(Ulcer),1,0.99998295,1
+CA-Multi,0,417.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,418.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,419.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,42.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,420.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,422.jpg,Abnormal(Ulcer),1,0.99999297,1
+CA-Multi,0,423.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,424.jpg,Abnormal(Ulcer),1,0.99993515,1
+CA-Multi,0,425.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Multi,0,440.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,0,456.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Multi,0,458.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,469.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Multi,0,474.jpg,Abnormal(Ulcer),1,0.9999907,1
+CA-Multi,0,477.jpg,Abnormal(Ulcer),1,0.9999925,1
+CA-Multi,0,478.jpg,Abnormal(Ulcer),1,0.99915063,1
+CA-Multi,0,480.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,492.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,507.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,513.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,0,53.jpg,Abnormal(Ulcer),1,0.9999975,1
+CA-Multi,0,54.jpg,Abnormal(Ulcer),1,0.952203,1
+CA-Multi,0,60.jpg,Abnormal(Ulcer),1,0.99998283,1
+CA-Multi,0,9.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,0,10.jpg,Normal(Healthy skin),0,5.7577316e-05,0
+CA-Multi,0,100.jpg,Normal(Healthy skin),0,0.00080059195,0
+CA-Multi,0,101.jpg,Normal(Healthy skin),0,0.9982305,1
+CA-Multi,0,102.jpg,Normal(Healthy skin),0,0.11526653,0
+CA-Multi,0,103.jpg,Normal(Healthy skin),0,0.14535189,0
+CA-Multi,0,104.jpg,Normal(Healthy skin),0,0.00022539849,0
+CA-Multi,0,105.jpg,Normal(Healthy skin),0,0.00014161498,0
+CA-Multi,0,106.jpg,Normal(Healthy skin),0,7.648641e-05,0
+CA-Multi,0,107.jpg,Normal(Healthy skin),0,0.007256125,0
+CA-Multi,0,129.jpg,Normal(Healthy skin),0,4.497502e-06,0
+CA-Multi,0,13.jpg,Normal(Healthy skin),0,2.5945649e-06,0
+CA-Multi,0,136.jpg,Normal(Healthy skin),0,3.800172e-05,0
+CA-Multi,0,141.jpg,Normal(Healthy skin),0,1.5737837e-06,0
+CA-Multi,0,146.jpg,Normal(Healthy skin),0,1.7840544e-05,0
+CA-Multi,0,157.jpg,Normal(Healthy skin),0,0.00016447205,0
+CA-Multi,0,161.jpg,Normal(Healthy skin),0,0.00011124468,0
+CA-Multi,0,162.jpg,Normal(Healthy skin),0,8.959412e-05,0
+CA-Multi,0,164.jpg,Normal(Healthy skin),0,6.784953e-05,0
+CA-Multi,0,165.jpg,Normal(Healthy skin),0,0.00014630177,0
+CA-Multi,0,166.jpg,Normal(Healthy skin),0,8.218113e-06,0
+CA-Multi,0,167.jpg,Normal(Healthy skin),0,0.00028463625,0
+CA-Multi,0,168.jpg,Normal(Healthy skin),0,2.10162e-05,0
+CA-Multi,0,169.jpg,Normal(Healthy skin),0,0.00025077807,0
+CA-Multi,0,172.jpg,Normal(Healthy skin),0,2.2086688e-05,0
+CA-Multi,0,178.jpg,Normal(Healthy skin),0,3.2513024e-06,0
+CA-Multi,0,179.jpg,Normal(Healthy skin),0,1.4739994e-05,0
+CA-Multi,0,180.jpg,Normal(Healthy skin),0,1.6472659e-05,0
+CA-Multi,0,181.jpg,Normal(Healthy skin),0,0.00013036455,0
+CA-Multi,0,182.jpg,Normal(Healthy skin),0,4.478012e-05,0
+CA-Multi,0,183.jpg,Normal(Healthy skin),0,3.4015506e-05,0
+CA-Multi,0,195.jpg,Normal(Healthy skin),0,6.8316854e-06,0
+CA-Multi,0,196.jpg,Normal(Healthy skin),0,1.2171799e-05,0
+CA-Multi,0,239.jpg,Normal(Healthy skin),0,9.631768e-06,0
+CA-Multi,0,246.jpg,Normal(Healthy skin),0,4.8881066e-06,0
+CA-Multi,0,247.jpg,Normal(Healthy skin),0,0.00042302636,0
+CA-Multi,0,249.jpg,Normal(Healthy skin),0,0.00016927156,0
+CA-Multi,0,253.jpg,Normal(Healthy skin),0,1.02716795e-05,0
+CA-Multi,0,263.jpg,Normal(Healthy skin),0,6.412519e-07,0
+CA-Multi,0,274.jpg,Normal(Healthy skin),0,7.162001e-06,0
+CA-Multi,0,275.jpg,Normal(Healthy skin),0,3.5767443e-05,0
+CA-Multi,0,320.jpg,Normal(Healthy skin),0,0.70709085,1
+CA-Multi,0,322 - Copy.jpg,Normal(Healthy skin),0,0.0002555755,0
+CA-Multi,0,329.jpg,Normal(Healthy skin),0,1.1456076e-05,0
+CA-Multi,0,350.jpg,Normal(Healthy skin),0,7.5311735e-05,0
+CA-Multi,0,353.jpg,Normal(Healthy skin),0,2.1589038e-05,0
+CA-Multi,0,362.jpg,Normal(Healthy skin),0,1.581791e-05,0
+CA-Multi,0,363.jpg,Normal(Healthy skin),0,1.1892894e-05,0
+CA-Multi,0,368.jpg,Normal(Healthy skin),0,9.494531e-06,0
+CA-Multi,0,61.jpg,Normal(Healthy skin),0,0.93327284,1
+CA-Multi,0,89.jpg,Normal(Healthy skin),0,0.6435514,1
+CA-Multi,0,90.jpg,Normal(Healthy skin),0,0.0147059895,0
+CA-Multi,1,1.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Multi,1,124.jpg,Abnormal(Ulcer),1,0.9999807,1
+CA-Multi,1,126.jpg,Abnormal(Ulcer),1,0.9939349,1
+CA-Multi,1,127.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,1,128.jpg,Abnormal(Ulcer),1,0.99993277,1
+CA-Multi,1,129.jpg,Abnormal(Ulcer),1,0.99999905,1
+CA-Multi,1,13.jpg,Abnormal(Ulcer),1,0.9999993,1
+CA-Multi,1,130.jpg,Abnormal(Ulcer),1,0.99999225,1
+CA-Multi,1,131.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Multi,1,140.jpg,Abnormal(Ulcer),1,0.99930155,1
+CA-Multi,1,141.jpg,Abnormal(Ulcer),1,0.99998295,1
+CA-Multi,1,142.jpg,Abnormal(Ulcer),1,0.99984586,1
+CA-Multi,1,145.jpg,Abnormal(Ulcer),1,0.99970216,1
+CA-Multi,1,168.jpg,Abnormal(Ulcer),1,0.99944216,1
+CA-Multi,1,169.jpg,Abnormal(Ulcer),1,0.9997147,1
+CA-Multi,1,170.jpg,Abnormal(Ulcer),1,0.9999918,1
+CA-Multi,1,171.jpg,Abnormal(Ulcer),1,0.99985385,1
+CA-Multi,1,172.jpg,Abnormal(Ulcer),1,0.9999801,1
+CA-Multi,1,22.jpg,Abnormal(Ulcer),1,0.99996746,1
+CA-Multi,1,230.jpg,Abnormal(Ulcer),1,0.9991246,1
+CA-Multi,1,25.jpg,Abnormal(Ulcer),1,0.9999058,1
+CA-Multi,1,251.jpg,Abnormal(Ulcer),1,0.9965329,1
+CA-Multi,1,252.jpg,Abnormal(Ulcer),1,0.9999434,1
+CA-Multi,1,253.jpg,Abnormal(Ulcer),1,0.9998373,1
+CA-Multi,1,254.jpg,Abnormal(Ulcer),1,0.99983776,1
+CA-Multi,1,255.jpg,Abnormal(Ulcer),1,0.997049,1
+CA-Multi,1,256.jpg,Abnormal(Ulcer),1,0.9999844,1
+CA-Multi,1,257.jpg,Abnormal(Ulcer),1,0.9999049,1
+CA-Multi,1,258.jpg,Abnormal(Ulcer),1,0.9996401,1
+CA-Multi,1,259.jpg,Abnormal(Ulcer),1,0.99978113,1
+CA-Multi,1,260.jpg,Abnormal(Ulcer),1,0.99995697,1
+CA-Multi,1,261.jpg,Abnormal(Ulcer),1,0.99998057,1
+CA-Multi,1,278.jpg,Abnormal(Ulcer),1,0.99306715,1
+CA-Multi,1,279.jpg,Abnormal(Ulcer),1,0.99919206,1
+CA-Multi,1,28.jpg,Abnormal(Ulcer),1,0.9999826,1
+CA-Multi,1,280.jpg,Abnormal(Ulcer),1,0.9999294,1
+CA-Multi,1,281.jpg,Abnormal(Ulcer),1,0.9996679,1
+CA-Multi,1,3.jpg,Abnormal(Ulcer),1,0.999064,1
+CA-Multi,1,302.jpg,Abnormal(Ulcer),1,0.97723776,1
+CA-Multi,1,303.jpg,Abnormal(Ulcer),1,0.9999044,1
+CA-Multi,1,304.jpg,Abnormal(Ulcer),1,0.9999198,1
+CA-Multi,1,305.jpg,Abnormal(Ulcer),1,0.997776,1
+CA-Multi,1,310.jpg,Abnormal(Ulcer),1,0.99921215,1
+CA-Multi,1,324.jpg,Abnormal(Ulcer),1,0.6040719,1
+CA-Multi,1,33.jpg,Abnormal(Ulcer),1,0.99933296,1
+CA-Multi,1,344.jpg,Abnormal(Ulcer),1,0.99868935,1
+CA-Multi,1,347.jpg,Abnormal(Ulcer),1,0.999338,1
+CA-Multi,1,35.jpg,Abnormal(Ulcer),1,0.9995633,1
+CA-Multi,1,352.jpg,Abnormal(Ulcer),1,0.9999541,1
+CA-Multi,1,357.jpg,Abnormal(Ulcer),1,0.99996614,1
+CA-Multi,1,358.jpg,Abnormal(Ulcer),1,0.9999956,1
+CA-Multi,1,359.jpg,Abnormal(Ulcer),1,0.99984646,1
+CA-Multi,1,363.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,1,364.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Multi,1,365.jpg,Abnormal(Ulcer),1,0.99999464,1
+CA-Multi,1,366.jpg,Abnormal(Ulcer),1,0.9999993,1
+CA-Multi,1,367.jpg,Abnormal(Ulcer),1,0.99998057,1
+CA-Multi,1,368.jpg,Abnormal(Ulcer),1,0.99998915,1
+CA-Multi,1,401.jpg,Abnormal(Ulcer),1,0.9999964,1
+CA-Multi,1,402.jpg,Abnormal(Ulcer),1,0.99976295,1
+CA-Multi,1,416.jpg,Abnormal(Ulcer),1,0.8847368,1
+CA-Multi,1,426.jpg,Abnormal(Ulcer),1,0.99978364,1
+CA-Multi,1,434.jpg,Abnormal(Ulcer),1,0.9995288,1
+CA-Multi,1,438.jpg,Abnormal(Ulcer),1,0.9999821,1
+CA-Multi,1,439.jpg,Abnormal(Ulcer),1,0.9998957,1
+CA-Multi,1,441.jpg,Abnormal(Ulcer),1,0.999617,1
+CA-Multi,1,443.jpg,Abnormal(Ulcer),1,0.99993527,1
+CA-Multi,1,444.jpg,Abnormal(Ulcer),1,0.9997712,1
+CA-Multi,1,448.jpg,Abnormal(Ulcer),1,0.99938416,1
+CA-Multi,1,450.jpg,Abnormal(Ulcer),1,0.99894243,1
+CA-Multi,1,459.jpg,Abnormal(Ulcer),1,0.99980795,1
+CA-Multi,1,460.jpg,Abnormal(Ulcer),1,0.99997497,1
+CA-Multi,1,464.jpg,Abnormal(Ulcer),1,0.995691,1
+CA-Multi,1,468.jpg,Abnormal(Ulcer),1,0.9998876,1
+CA-Multi,1,472.jpg,Abnormal(Ulcer),1,0.99998987,1
+CA-Multi,1,476.jpg,Abnormal(Ulcer),1,0.99992526,1
+CA-Multi,1,487.jpg,Abnormal(Ulcer),1,0.9999864,1
+CA-Multi,1,493.jpg,Abnormal(Ulcer),1,0.99969023,1
+CA-Multi,1,494.jpg,Abnormal(Ulcer),1,0.9996975,1
+CA-Multi,1,495.jpg,Abnormal(Ulcer),1,0.99957675,1
+CA-Multi,1,499.jpg,Abnormal(Ulcer),1,0.9998809,1
+CA-Multi,1,500.jpg,Abnormal(Ulcer),1,0.99990225,1
+CA-Multi,1,501.jpg,Abnormal(Ulcer),1,0.9997765,1
+CA-Multi,1,502.jpg,Abnormal(Ulcer),1,0.99999666,1
+CA-Multi,1,504.jpg,Abnormal(Ulcer),1,0.9998485,1
+CA-Multi,1,505.jpg,Abnormal(Ulcer),1,0.9999832,1
+CA-Multi,1,508.jpg,Abnormal(Ulcer),1,0.9999987,1
+CA-Multi,1,510.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Multi,1,511.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Multi,1,512.jpg,Abnormal(Ulcer),1,0.99971455,1
+CA-Multi,1,56.jpg,Abnormal(Ulcer),1,0.9838574,1
+CA-Multi,1,7.jpg,Abnormal(Ulcer),1,0.9999974,1
+CA-Multi,1,8.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,1,96.jpg,Abnormal(Ulcer),1,0.99994695,1
+CA-Multi,1,127.jpg,Normal(Healthy skin),0,0.00021251316,0
+CA-Multi,1,134.jpg,Normal(Healthy skin),0,0.0004987167,0
+CA-Multi,1,139.jpg,Normal(Healthy skin),0,9.7286145e-05,0
+CA-Multi,1,144.jpg,Normal(Healthy skin),0,0.007517419,0
+CA-Multi,1,15.jpg,Normal(Healthy skin),0,0.00011737555,0
+CA-Multi,1,153.jpg,Normal(Healthy skin),0,0.002495359,0
+CA-Multi,1,154.jpg,Normal(Healthy skin),0,0.021449093,0
+CA-Multi,1,155.jpg,Normal(Healthy skin),0,0.0027878047,0
+CA-Multi,1,156.jpg,Normal(Healthy skin),0,0.009199077,0
+CA-Multi,1,173.jpg,Normal(Healthy skin),0,0.004783957,0
+CA-Multi,1,18.jpg,Normal(Healthy skin),0,0.0019181573,0
+CA-Multi,1,198.jpg,Normal(Healthy skin),0,6.526368e-05,0
+CA-Multi,1,199.jpg,Normal(Healthy skin),0,1.8393623e-05,0
+CA-Multi,1,200.jpg,Normal(Healthy skin),0,6.574843e-05,0
+CA-Multi,1,204.jpg,Normal(Healthy skin),0,9.247323e-05,0
+CA-Multi,1,210.jpg,Normal(Healthy skin),0,0.0050101583,0
+CA-Multi,1,218.jpg,Normal(Healthy skin),0,0.0004563509,0
+CA-Multi,1,230.jpg,Normal(Healthy skin),0,0.001045717,0
+CA-Multi,1,231.jpg,Normal(Healthy skin),0,0.0011479853,0
+CA-Multi,1,242.jpg,Normal(Healthy skin),0,0.00062111276,0
+CA-Multi,1,243.jpg,Normal(Healthy skin),0,0.0012968513,0
+CA-Multi,1,251.jpg,Normal(Healthy skin),0,0.001455799,0
+CA-Multi,1,260.jpg,Normal(Healthy skin),0,4.3374723e-05,0
+CA-Multi,1,261.jpg,Normal(Healthy skin),0,0.00022063454,0
+CA-Multi,1,273.jpg,Normal(Healthy skin),0,0.00046213772,0
+CA-Multi,1,28.jpg,Normal(Healthy skin),0,0.0073840683,0
+CA-Multi,1,29.jpg,Normal(Healthy skin),0,3.587635e-05,0
+CA-Multi,1,316 - Copy.jpg,Normal(Healthy skin),0,0.0004174827,0
+CA-Multi,1,318 - Copy.jpg,Normal(Healthy skin),0,0.0034500181,0
+CA-Multi,1,319.jpg,Normal(Healthy skin),0,0.005271103,0
+CA-Multi,1,321 - Copy.jpg,Normal(Healthy skin),0,0.0065826676,0
+CA-Multi,1,331 - Copy.jpg,Normal(Healthy skin),0,0.02410761,0
+CA-Multi,1,332.jpg,Normal(Healthy skin),0,0.00041502743,0
+CA-Multi,1,336.jpg,Normal(Healthy skin),0,0.008648943,0
+CA-Multi,1,339.jpg,Normal(Healthy skin),0,0.00034832204,0
+CA-Multi,1,347.jpg,Normal(Healthy skin),0,0.014830959,0
+CA-Multi,1,349.jpg,Normal(Healthy skin),0,0.0041288612,0
+CA-Multi,1,358.jpg,Normal(Healthy skin),0,0.096094705,0
+CA-Multi,1,366.jpg,Normal(Healthy skin),0,0.012615667,0
+CA-Multi,1,40.jpg,Normal(Healthy skin),0,0.58365065,1
+CA-Multi,1,41.jpg,Normal(Healthy skin),0,0.0052926657,0
+CA-Multi,1,79.jpg,Normal(Healthy skin),0,0.0064977165,0
+CA-Multi,1,85.jpg,Normal(Healthy skin),0,0.35540462,0
+CA-Multi,2,10.jpg,Abnormal(Ulcer),1,0.9956452,1
+CA-Multi,2,103.jpg,Abnormal(Ulcer),1,0.9820483,1
+CA-Multi,2,104.jpg,Abnormal(Ulcer),1,0.9990065,1
+CA-Multi,2,105.jpg,Abnormal(Ulcer),1,0.99366754,1
+CA-Multi,2,106.jpg,Abnormal(Ulcer),1,0.9998685,1
+CA-Multi,2,107.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,2,11.jpg,Abnormal(Ulcer),1,0.9995885,1
+CA-Multi,2,111.jpg,Abnormal(Ulcer),1,0.9988973,1
+CA-Multi,2,112.jpg,Abnormal(Ulcer),1,0.99978566,1
+CA-Multi,2,113.jpg,Abnormal(Ulcer),1,0.9998764,1
+CA-Multi,2,114.jpg,Abnormal(Ulcer),1,0.9980653,1
+CA-Multi,2,115.jpg,Abnormal(Ulcer),1,0.99996424,1
+CA-Multi,2,116.jpg,Abnormal(Ulcer),1,0.99914384,1
+CA-Multi,2,117.jpg,Abnormal(Ulcer),1,0.9995498,1
+CA-Multi,2,118.jpg,Abnormal(Ulcer),1,0.9998379,1
+CA-Multi,2,12.jpg,Abnormal(Ulcer),1,0.9937419,1
+CA-Multi,2,132.jpg,Abnormal(Ulcer),1,0.7437329,1
+CA-Multi,2,133.jpg,Abnormal(Ulcer),1,0.99049807,1
+CA-Multi,2,134.jpg,Abnormal(Ulcer),1,0.9939135,1
+CA-Multi,2,135.jpg,Abnormal(Ulcer),1,0.8730653,1
+CA-Multi,2,136.jpg,Abnormal(Ulcer),1,0.9996377,1
+CA-Multi,2,137.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Multi,2,138.jpg,Abnormal(Ulcer),1,0.9995646,1
+CA-Multi,2,139.jpg,Abnormal(Ulcer),1,0.99863607,1
+CA-Multi,2,14.jpg,Abnormal(Ulcer),1,0.9999982,1
+CA-Multi,2,157.jpg,Abnormal(Ulcer),1,0.9987739,1
+CA-Multi,2,158.jpg,Abnormal(Ulcer),1,0.9957579,1
+CA-Multi,2,159.jpg,Abnormal(Ulcer),1,0.9995603,1
+CA-Multi,2,160.jpg,Abnormal(Ulcer),1,0.9999219,1
+CA-Multi,2,19.jpg,Abnormal(Ulcer),1,0.9994438,1
+CA-Multi,2,194.jpg,Abnormal(Ulcer),1,0.9995042,1
+CA-Multi,2,205.jpg,Abnormal(Ulcer),1,0.9692378,1
+CA-Multi,2,206.jpg,Abnormal(Ulcer),1,0.99957114,1
+CA-Multi,2,218.jpg,Abnormal(Ulcer),1,0.9083552,1
+CA-Multi,2,219.jpg,Abnormal(Ulcer),1,0.9998816,1
+CA-Multi,2,220.jpg,Abnormal(Ulcer),1,0.99895275,1
+CA-Multi,2,224.jpg,Abnormal(Ulcer),1,0.9138862,1
+CA-Multi,2,225.jpg,Abnormal(Ulcer),1,0.9996393,1
+CA-Multi,2,227.jpg,Abnormal(Ulcer),1,0.9821781,1
+CA-Multi,2,229.jpg,Abnormal(Ulcer),1,0.9997822,1
+CA-Multi,2,235.jpg,Abnormal(Ulcer),1,0.9704764,1
+CA-Multi,2,236.jpg,Abnormal(Ulcer),1,0.86618084,1
+CA-Multi,2,237.jpg,Abnormal(Ulcer),1,0.9662467,1
+CA-Multi,2,238.jpg,Abnormal(Ulcer),1,0.9760784,1
+CA-Multi,2,273.jpg,Abnormal(Ulcer),1,0.9997222,1
+CA-Multi,2,275.jpg,Abnormal(Ulcer),1,0.9999629,1
+CA-Multi,2,282.jpg,Abnormal(Ulcer),1,0.9905053,1
+CA-Multi,2,283.jpg,Abnormal(Ulcer),1,0.99693656,1
+CA-Multi,2,284.jpg,Abnormal(Ulcer),1,0.9994054,1
+CA-Multi,2,290.jpg,Abnormal(Ulcer),1,0.999905,1
+CA-Multi,2,291.jpg,Abnormal(Ulcer),1,0.76944697,1
+CA-Multi,2,301.jpg,Abnormal(Ulcer),1,0.9999789,1
+CA-Multi,2,31.jpg,Abnormal(Ulcer),1,0.9995115,1
+CA-Multi,2,315.jpg,Abnormal(Ulcer),1,0.99918336,1
+CA-Multi,2,316.jpg,Abnormal(Ulcer),1,0.99778724,1
+CA-Multi,2,317.jpg,Abnormal(Ulcer),1,0.9970355,1
+CA-Multi,2,318.jpg,Abnormal(Ulcer),1,0.9999931,1
+CA-Multi,2,319.jpg,Abnormal(Ulcer),1,0.9999938,1
+CA-Multi,2,320.jpg,Abnormal(Ulcer),1,0.9999448,1
+CA-Multi,2,321.jpg,Abnormal(Ulcer),1,0.9753702,1
+CA-Multi,2,325.jpg,Abnormal(Ulcer),1,0.9998599,1
+CA-Multi,2,330.jpg,Abnormal(Ulcer),1,0.9999405,1
+CA-Multi,2,34.jpg,Abnormal(Ulcer),1,0.9999232,1
+CA-Multi,2,346.jpg,Abnormal(Ulcer),1,0.9999933,1
+CA-Multi,2,348.jpg,Abnormal(Ulcer),1,0.73880047,1
+CA-Multi,2,349.jpg,Abnormal(Ulcer),1,0.9996203,1
+CA-Multi,2,350.jpg,Abnormal(Ulcer),1,0.9997292,1
+CA-Multi,2,380.jpg,Abnormal(Ulcer),1,0.9993011,1
+CA-Multi,2,4.jpg,Abnormal(Ulcer),1,0.99988675,1
+CA-Multi,2,40.jpg,Abnormal(Ulcer),1,0.9865995,1
+CA-Multi,2,41.jpg,Abnormal(Ulcer),1,0.9960716,1
+CA-Multi,2,410.jpg,Abnormal(Ulcer),1,0.9977664,1
+CA-Multi,2,411.jpg,Abnormal(Ulcer),1,0.9985526,1
+CA-Multi,2,413.jpg,Abnormal(Ulcer),1,0.98887014,1
+CA-Multi,2,414.jpg,Abnormal(Ulcer),1,0.9999865,1
+CA-Multi,2,415.jpg,Abnormal(Ulcer),1,0.9998102,1
+CA-Multi,2,421.jpg,Abnormal(Ulcer),1,0.9904638,1
+CA-Multi,2,437.jpg,Abnormal(Ulcer),1,0.9999962,1
+CA-Multi,2,442.jpg,Abnormal(Ulcer),1,0.999173,1
+CA-Multi,2,457.jpg,Abnormal(Ulcer),1,0.99062085,1
+CA-Multi,2,466.jpg,Abnormal(Ulcer),1,0.999741,1
+CA-Multi,2,473.jpg,Abnormal(Ulcer),1,0.9998039,1
+CA-Multi,2,475.jpg,Abnormal(Ulcer),1,0.98380953,1
+CA-Multi,2,481.jpg,Abnormal(Ulcer),1,0.9994281,1
+CA-Multi,2,482.jpg,Abnormal(Ulcer),1,0.99539775,1
+CA-Multi,2,489.jpg,Abnormal(Ulcer),1,0.99997497,1
+CA-Multi,2,49.jpg,Abnormal(Ulcer),1,0.99991107,1
+CA-Multi,2,497.jpg,Abnormal(Ulcer),1,0.9999728,1
+CA-Multi,2,5.jpg,Abnormal(Ulcer),1,0.9046004,1
+CA-Multi,2,50.jpg,Abnormal(Ulcer),1,0.999501,1
+CA-Multi,2,509.jpg,Abnormal(Ulcer),1,0.99999046,1
+CA-Multi,2,51.jpg,Abnormal(Ulcer),1,0.99993443,1
+CA-Multi,2,57.jpg,Abnormal(Ulcer),1,0.6874101,1
+CA-Multi,2,59.jpg,Abnormal(Ulcer),1,0.99947846,1
+CA-Multi,2,1.jpg,Normal(Healthy skin),0,0.0104235355,0
+CA-Multi,2,108.jpg,Normal(Healthy skin),0,0.0002200379,0
+CA-Multi,2,109.jpg,Normal(Healthy skin),0,0.00010386104,0
+CA-Multi,2,110.jpg,Normal(Healthy skin),0,0.026495537,0
+CA-Multi,2,114.jpg,Normal(Healthy skin),0,0.00034727892,0
+CA-Multi,2,122.jpg,Normal(Healthy skin),0,0.0001876188,0
+CA-Multi,2,137.jpg,Normal(Healthy skin),0,0.0019991316,0
+CA-Multi,2,143.jpg,Normal(Healthy skin),0,0.000799336,0
+CA-Multi,2,145.jpg,Normal(Healthy skin),0,6.595081e-05,0
+CA-Multi,2,158.jpg,Normal(Healthy skin),0,0.00024247891,0
+CA-Multi,2,159.jpg,Normal(Healthy skin),0,0.00034834363,0
+CA-Multi,2,160.jpg,Normal(Healthy skin),0,0.0007201113,0
+CA-Multi,2,170.jpg,Normal(Healthy skin),0,0.026883835,0
+CA-Multi,2,174.jpg,Normal(Healthy skin),0,0.0053667133,0
+CA-Multi,2,176.jpg,Normal(Healthy skin),0,0.0056466158,0
+CA-Multi,2,177.jpg,Normal(Healthy skin),0,0.025564205,0
+CA-Multi,2,185.jpg,Normal(Healthy skin),0,0.02042244,0
+CA-Multi,2,186.jpg,Normal(Healthy skin),0,0.03646179,0
+CA-Multi,2,187.jpg,Normal(Healthy skin),0,0.0695379,0
+CA-Multi,2,188.jpg,Normal(Healthy skin),0,0.034552988,0
+CA-Multi,2,189.jpg,Normal(Healthy skin),0,0.4070608,1
+CA-Multi,2,190.jpg,Normal(Healthy skin),0,2.2199962e-05,0
+CA-Multi,2,191.jpg,Normal(Healthy skin),0,0.00018770898,0
+CA-Multi,2,192.jpg,Normal(Healthy skin),0,0.00011492581,0
+CA-Multi,2,193.jpg,Normal(Healthy skin),0,0.00021023158,0
+CA-Multi,2,194.jpg,Normal(Healthy skin),0,0.00018028343,0
+CA-Multi,2,197.jpg,Normal(Healthy skin),0,0.0032896474,0
+CA-Multi,2,221.jpg,Normal(Healthy skin),0,3.74874e-05,0
+CA-Multi,2,222.jpg,Normal(Healthy skin),0,1.4985111e-05,0
+CA-Multi,2,223.jpg,Normal(Healthy skin),0,0.0005809718,0
+CA-Multi,2,224.jpg,Normal(Healthy skin),0,0.00011366462,0
+CA-Multi,2,225.jpg,Normal(Healthy skin),0,0.0009730954,0
+CA-Multi,2,226.jpg,Normal(Healthy skin),0,0.0007999152,0
+CA-Multi,2,232.jpg,Normal(Healthy skin),0,0.004188687,0
+CA-Multi,2,240.jpg,Normal(Healthy skin),0,3.7951162e-05,0
+CA-Multi,2,241.jpg,Normal(Healthy skin),0,1.6955288e-05,0
+CA-Multi,2,244.jpg,Normal(Healthy skin),0,0.0003836903,0
+CA-Multi,2,245.jpg,Normal(Healthy skin),0,0.0035373045,0
+CA-Multi,2,248.jpg,Normal(Healthy skin),0,0.0025912703,0
+CA-Multi,2,250.jpg,Normal(Healthy skin),0,0.0013982201,0
+CA-Multi,2,254.jpg,Normal(Healthy skin),0,0.00010317815,0
+CA-Multi,2,255.jpg,Normal(Healthy skin),0,0.00047460178,0
+CA-Multi,2,256.jpg,Normal(Healthy skin),0,0.00366074,0
+CA-Multi,2,265.jpg,Normal(Healthy skin),0,0.01865369,0
+CA-Multi,2,268.jpg,Normal(Healthy skin),0,0.0009057667,0
+CA-Multi,2,270.jpg,Normal(Healthy skin),0,0.0008799905,0
+CA-Multi,2,280.jpg,Normal(Healthy skin),0,0.00013068155,0
+CA-Multi,2,311.jpg,Normal(Healthy skin),0,0.0030327402,0
+CA-Multi,2,337.jpg,Normal(Healthy skin),0,0.006640254,0
+CA-Multi,2,341.jpg,Normal(Healthy skin),0,0.00015894584,0
+CA-Multi,2,343.jpg,Normal(Healthy skin),0,0.00020627491,0
+CA-Multi,2,344.jpg,Normal(Healthy skin),0,1.3929563e-05,0
+CA-Multi,2,346.jpg,Normal(Healthy skin),0,0.0030339328,0
+CA-Multi,2,359.jpg,Normal(Healthy skin),0,0.0071258983,0
+CA-Multi,2,59.jpg,Normal(Healthy skin),0,0.057006653,0
+CA-Multi,2,88.jpg,Normal(Healthy skin),0,0.030089878,0
+CA-Multi,3,100.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,101.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,125.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,143.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,144.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Multi,3,146.jpg,Abnormal(Ulcer),1,0.99991417,1
+CA-Multi,3,147.jpg,Abnormal(Ulcer),1,0.999086,1
+CA-Multi,3,148.jpg,Abnormal(Ulcer),1,0.99243236,1
+CA-Multi,3,149.jpg,Abnormal(Ulcer),1,0.99996865,1
+CA-Multi,3,15.jpg,Abnormal(Ulcer),1,0.9995399,1
+CA-Multi,3,150.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Multi,3,151.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,152.jpg,Abnormal(Ulcer),1,0.99999857,1
+CA-Multi,3,153.jpg,Abnormal(Ulcer),1,0.99768305,1
+CA-Multi,3,154.jpg,Abnormal(Ulcer),1,0.9999924,1
+CA-Multi,3,155.jpg,Abnormal(Ulcer),1,0.99999785,1
+CA-Multi,3,156.jpg,Abnormal(Ulcer),1,0.99998593,1
+CA-Multi,3,16.jpg,Abnormal(Ulcer),1,0.99999774,1
+CA-Multi,3,165.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Multi,3,166.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,167.jpg,Abnormal(Ulcer),1,0.0069969776,0
+CA-Multi,3,17.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,173.jpg,Abnormal(Ulcer),1,0.999998,1
+CA-Multi,3,174.jpg,Abnormal(Ulcer),1,0.99999833,1
+CA-Multi,3,175.jpg,Abnormal(Ulcer),1,0.9999846,1
+CA-Multi,3,176.jpg,Abnormal(Ulcer),1,0.99999654,1
+CA-Multi,3,177.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,178.jpg,Abnormal(Ulcer),1,0.9999994,1
+CA-Multi,3,179.jpg,Abnormal(Ulcer),1,0.9999914,1
+CA-Multi,3,18.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,184.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,185.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,186.jpg,Abnormal(Ulcer),1,0.9999912,1
+CA-Multi,3,188.jpg,Abnormal(Ulcer),1,0.99996793,1
+CA-Multi,3,189.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,195.jpg,Abnormal(Ulcer),1,0.999985,1
+CA-Multi,3,196.jpg,Abnormal(Ulcer),1,0.99996614,1
+CA-Multi,3,197.jpg,Abnormal(Ulcer),1,0.9999949,1
+CA-Multi,3,198.jpg,Abnormal(Ulcer),1,0.99997973,1
+CA-Multi,3,2.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Multi,3,209.jpg,Abnormal(Ulcer),1,0.9999913,1
+CA-Multi,3,210.jpg,Abnormal(Ulcer),1,0.9994912,1
+CA-Multi,3,211.jpg,Abnormal(Ulcer),1,0.999997,1
+CA-Multi,3,212.jpg,Abnormal(Ulcer),1,0.999995,1
+CA-Multi,3,215.jpg,Abnormal(Ulcer),1,0.9996901,1
+CA-Multi,3,216.jpg,Abnormal(Ulcer),1,0.9999944,1
+CA-Multi,3,217.jpg,Abnormal(Ulcer),1,0.9998951,1
+CA-Multi,3,221.jpg,Abnormal(Ulcer),1,0.99999845,1
+CA-Multi,3,223.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,232.jpg,Abnormal(Ulcer),1,0.0015163877,0
+CA-Multi,3,24.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,26.jpg,Abnormal(Ulcer),1,0.99998987,1
+CA-Multi,3,271.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,272.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,274.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,29.jpg,Abnormal(Ulcer),1,0.9999924,1
+CA-Multi,3,292.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,3,322.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,3,323.jpg,Abnormal(Ulcer),1,0.9999937,1
+CA-Multi,3,360.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,361.jpg,Abnormal(Ulcer),1,0.9998616,1
+CA-Multi,3,362.jpg,Abnormal(Ulcer),1,0.99998105,1
+CA-Multi,3,369.jpg,Abnormal(Ulcer),1,0.99998116,1
+CA-Multi,3,370.jpg,Abnormal(Ulcer),1,0.9999912,1
+CA-Multi,3,39.jpg,Abnormal(Ulcer),1,0.99956614,1
+CA-Multi,3,408.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,3,409.jpg,Abnormal(Ulcer),1,0.99995434,1
+CA-Multi,3,43.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,430.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,431.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,435.jpg,Abnormal(Ulcer),1,0.9998114,1
+CA-Multi,3,44.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,445.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,446.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,452.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,453.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,3,454.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,455.jpg,Abnormal(Ulcer),1,0.9999821,1
+CA-Multi,3,463.jpg,Abnormal(Ulcer),1,0.99999475,1
+CA-Multi,3,470.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,471.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,479.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,483.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,484.jpg,Abnormal(Ulcer),1,0.9999831,1
+CA-Multi,3,488.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,498.jpg,Abnormal(Ulcer),1,0.99999905,1
+CA-Multi,3,503.jpg,Abnormal(Ulcer),1,0.9999902,1
+CA-Multi,3,6.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,78.jpg,Abnormal(Ulcer),1,0.9991706,1
+CA-Multi,3,79.jpg,Abnormal(Ulcer),1,0.99999046,1
+CA-Multi,3,80.jpg,Abnormal(Ulcer),1,0.9999695,1
+CA-Multi,3,81.jpg,Abnormal(Ulcer),1,0.9999888,1
+CA-Multi,3,82.jpg,Abnormal(Ulcer),1,0.99990857,1
+CA-Multi,3,83.jpg,Abnormal(Ulcer),1,0.99999475,1
+CA-Multi,3,84.jpg,Abnormal(Ulcer),1,0.9997596,1
+CA-Multi,3,85.jpg,Abnormal(Ulcer),1,0.99997866,1
+CA-Multi,3,86.jpg,Abnormal(Ulcer),1,0.99985754,1
+CA-Multi,3,88.jpg,Abnormal(Ulcer),1,0.9993918,1
+CA-Multi,3,89.jpg,Abnormal(Ulcer),1,0.9999912,1
+CA-Multi,3,97.jpg,Abnormal(Ulcer),1,0.9998932,1
+CA-Multi,3,98.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,99.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,3,11.jpg,Normal(Healthy skin),0,4.410132e-07,0
+CA-Multi,3,115.jpg,Normal(Healthy skin),0,0.0006432251,0
+CA-Multi,3,116.jpg,Normal(Healthy skin),0,0.00015679027,0
+CA-Multi,3,118.jpg,Normal(Healthy skin),0,0.017666182,0
+CA-Multi,3,119.jpg,Normal(Healthy skin),0,8.902043e-08,0
+CA-Multi,3,12.jpg,Normal(Healthy skin),0,3.4176213e-07,0
+CA-Multi,3,120.jpg,Normal(Healthy skin),0,8.397602e-05,0
+CA-Multi,3,121.jpg,Normal(Healthy skin),0,1.9411056e-07,0
+CA-Multi,3,123.jpg,Normal(Healthy skin),0,3.7017594e-06,0
+CA-Multi,3,124.jpg,Normal(Healthy skin),0,4.3858432e-07,0
+CA-Multi,3,125.jpg,Normal(Healthy skin),0,3.9645624e-07,0
+CA-Multi,3,126.jpg,Normal(Healthy skin),0,4.2811862e-07,0
+CA-Multi,3,132.jpg,Normal(Healthy skin),0,5.131746e-06,0
+CA-Multi,3,142.jpg,Normal(Healthy skin),0,2.5251877e-06,0
+CA-Multi,3,163.jpg,Normal(Healthy skin),0,5.7683707e-07,0
+CA-Multi,3,175.jpg,Normal(Healthy skin),0,3.7041045e-06,0
+CA-Multi,3,184.jpg,Normal(Healthy skin),0,7.035148e-05,0
+CA-Multi,3,20.jpg,Normal(Healthy skin),0,9.7094485e-08,0
+CA-Multi,3,201.jpg,Normal(Healthy skin),0,2.078977e-05,0
+CA-Multi,3,202.jpg,Normal(Healthy skin),0,2.347369e-05,0
+CA-Multi,3,203.jpg,Normal(Healthy skin),0,4.053624e-05,0
+CA-Multi,3,205.jpg,Normal(Healthy skin),0,1.4549762e-07,0
+CA-Multi,3,215.jpg,Normal(Healthy skin),0,1.46439625e-05,0
+CA-Multi,3,217.jpg,Normal(Healthy skin),0,1.2847573e-06,0
+CA-Multi,3,235.jpg,Normal(Healthy skin),0,1.7096021e-06,0
+CA-Multi,3,236.jpg,Normal(Healthy skin),0,4.0375124e-07,0
+CA-Multi,3,237.jpg,Normal(Healthy skin),0,4.1425605e-07,0
+CA-Multi,3,238.jpg,Normal(Healthy skin),0,8.266454e-06,0
+CA-Multi,3,257.jpg,Normal(Healthy skin),0,1.04110495e-05,0
+CA-Multi,3,258.jpg,Normal(Healthy skin),0,5.770956e-08,0
+CA-Multi,3,259.jpg,Normal(Healthy skin),0,8.099111e-07,0
+CA-Multi,3,264.jpg,Normal(Healthy skin),0,2.745912e-05,0
+CA-Multi,3,267.jpg,Normal(Healthy skin),0,3.5443776e-07,0
+CA-Multi,3,269.jpg,Normal(Healthy skin),0,4.3268187e-06,0
+CA-Multi,3,271.jpg,Normal(Healthy skin),0,7.790935e-07,0
+CA-Multi,3,272.jpg,Normal(Healthy skin),0,5.9231445e-07,0
+CA-Multi,3,286.jpg,Normal(Healthy skin),0,4.058378e-07,0
+CA-Multi,3,315 - Copy.jpg,Normal(Healthy skin),0,3.1955533e-05,0
+CA-Multi,3,323 - Copy.jpg,Normal(Healthy skin),0,5.5928226e-06,0
+CA-Multi,3,325 - Copy.jpg,Normal(Healthy skin),0,2.2219149e-07,0
+CA-Multi,3,326.jpg,Normal(Healthy skin),0,9.4068804e-05,0
+CA-Multi,3,342.jpg,Normal(Healthy skin),0,8.2525876e-05,0
+CA-Multi,3,345.jpg,Normal(Healthy skin),0,4.4697397e-05,0
+CA-Multi,3,354.jpg,Normal(Healthy skin),0,0.0002902112,0
+CA-Multi,3,361.jpg,Normal(Healthy skin),0,6.2312542e-06,0
+CA-Multi,3,43.jpg,Normal(Healthy skin),0,0.0061766123,0
+CA-Multi,3,44.jpg,Normal(Healthy skin),0,0.0081189545,0
+CA-Multi,3,45.jpg,Normal(Healthy skin),0,0.0053809145,0
+CA-Multi,3,55.jpg,Normal(Healthy skin),0,0.000784355,0
+CA-Multi,4,102.jpg,Abnormal(Ulcer),1,0.9999989,1
+CA-Multi,4,108.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Multi,4,109.jpg,Abnormal(Ulcer),1,0.9999902,1
+CA-Multi,4,110.jpg,Abnormal(Ulcer),1,0.9999827,1
+CA-Multi,4,119.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,4,120.jpg,Abnormal(Ulcer),1,0.9999945,1
+CA-Multi,4,190.jpg,Abnormal(Ulcer),1,0.9947748,1
+CA-Multi,4,191.jpg,Abnormal(Ulcer),1,0.9994394,1
+CA-Multi,4,192.jpg,Abnormal(Ulcer),1,0.9998157,1
+CA-Multi,4,193.jpg,Abnormal(Ulcer),1,0.99996245,1
+CA-Multi,4,213.jpg,Abnormal(Ulcer),1,0.9996771,1
+CA-Multi,4,214.jpg,Abnormal(Ulcer),1,0.17965133,0
+CA-Multi,4,23.jpg,Abnormal(Ulcer),1,0.99997044,1
+CA-Multi,4,233.jpg,Abnormal(Ulcer),1,0.9999995,1
+CA-Multi,4,234.jpg,Abnormal(Ulcer),1,0.9999918,1
+CA-Multi,4,245.jpg,Abnormal(Ulcer),1,0.9999906,1
+CA-Multi,4,246.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,4,247.jpg,Abnormal(Ulcer),1,0.9999933,1
+CA-Multi,4,248.jpg,Abnormal(Ulcer),1,0.9999534,1
+CA-Multi,4,249.jpg,Abnormal(Ulcer),1,0.99997497,1
+CA-Multi,4,250.jpg,Abnormal(Ulcer),1,0.9999254,1
+CA-Multi,4,288.jpg,Abnormal(Ulcer),1,0.99984443,1
+CA-Multi,4,293.jpg,Abnormal(Ulcer),1,0.9997963,1
+CA-Multi,4,311.jpg,Abnormal(Ulcer),1,0.99959254,1
+CA-Multi,4,312.jpg,Abnormal(Ulcer),1,0.99997425,1
+CA-Multi,4,313.jpg,Abnormal(Ulcer),1,0.9999633,1
+CA-Multi,4,314.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,4,32.jpg,Abnormal(Ulcer),1,0.99965155,1
+CA-Multi,4,326.jpg,Abnormal(Ulcer),1,0.99999905,1
+CA-Multi,4,327.jpg,Abnormal(Ulcer),1,0.99999917,1
+CA-Multi,4,328.jpg,Abnormal(Ulcer),1,0.9999999,1
+CA-Multi,4,329.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,4,331.jpg,Abnormal(Ulcer),1,0.9999964,1
+CA-Multi,4,332.jpg,Abnormal(Ulcer),1,0.99283665,1
+CA-Multi,4,333.jpg,Abnormal(Ulcer),1,0.99995494,1
+CA-Multi,4,345.jpg,Abnormal(Ulcer),1,0.9999937,1
+CA-Multi,4,371.jpg,Abnormal(Ulcer),1,0.99997616,1
+CA-Multi,4,372.jpg,Abnormal(Ulcer),1,0.44186884,1
+CA-Multi,4,373.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,4,374.jpg,Abnormal(Ulcer),1,0.99999046,1
+CA-Multi,4,378.jpg,Abnormal(Ulcer),1,0.99959147,1
+CA-Multi,4,379.jpg,Abnormal(Ulcer),1,0.9999944,1
+CA-Multi,4,404.jpg,Abnormal(Ulcer),1,0.999805,1
+CA-Multi,4,405.jpg,Abnormal(Ulcer),1,0.9925315,1
+CA-Multi,4,406.jpg,Abnormal(Ulcer),1,0.99999714,1
+CA-Multi,4,407.jpg,Abnormal(Ulcer),1,0.999972,1
+CA-Multi,4,412.jpg,Abnormal(Ulcer),1,0.99951506,1
+CA-Multi,4,427.jpg,Abnormal(Ulcer),1,0.9999956,1
+CA-Multi,4,428.jpg,Abnormal(Ulcer),1,0.9999862,1
+CA-Multi,4,429.jpg,Abnormal(Ulcer),1,0.99998605,1
+CA-Multi,4,432.jpg,Abnormal(Ulcer),1,0.9999709,1
+CA-Multi,4,433.jpg,Abnormal(Ulcer),1,0.99999964,1
+CA-Multi,4,436.jpg,Abnormal(Ulcer),1,0.9995179,1
+CA-Multi,4,447.jpg,Abnormal(Ulcer),1,0.99952525,1
+CA-Multi,4,449.jpg,Abnormal(Ulcer),1,0.9998106,1
+CA-Multi,4,45.jpg,Abnormal(Ulcer),1,0.99998665,1
+CA-Multi,4,451.jpg,Abnormal(Ulcer),1,0.99999356,1
+CA-Multi,4,461.jpg,Abnormal(Ulcer),1,0.9999505,1
+CA-Multi,4,462.jpg,Abnormal(Ulcer),1,0.9999814,1
+CA-Multi,4,465.jpg,Abnormal(Ulcer),1,0.9999949,1
+CA-Multi,4,467.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,4,47.jpg,Abnormal(Ulcer),1,1.0,1
+CA-Multi,4,485.jpg,Abnormal(Ulcer),1,0.99996746,1
+CA-Multi,4,486.jpg,Abnormal(Ulcer),1,0.99315953,1
+CA-Multi,4,490.jpg,Abnormal(Ulcer),1,0.99999976,1
+CA-Multi,4,491.jpg,Abnormal(Ulcer),1,0.9992373,1
+CA-Multi,4,496.jpg,Abnormal(Ulcer),1,0.47197554,1
+CA-Multi,4,506.jpg,Abnormal(Ulcer),1,0.9994212,1
+CA-Multi,4,52.jpg,Abnormal(Ulcer),1,0.9831842,1
+CA-Multi,4,61.jpg,Abnormal(Ulcer),1,0.9996833,1
+CA-Multi,4,62.jpg,Abnormal(Ulcer),1,0.99972945,1
+CA-Multi,4,63.jpg,Abnormal(Ulcer),1,0.9984865,1
+CA-Multi,4,64.jpg,Abnormal(Ulcer),1,0.99791855,1
+CA-Multi,4,65.jpg,Abnormal(Ulcer),1,0.99870217,1
+CA-Multi,4,66.jpg,Abnormal(Ulcer),1,0.994317,1
+CA-Multi,4,67.jpg,Abnormal(Ulcer),1,0.99996376,1
+CA-Multi,4,68.jpg,Abnormal(Ulcer),1,0.99998844,1
+CA-Multi,4,69.jpg,Abnormal(Ulcer),1,0.9994749,1
+CA-Multi,4,70.jpg,Abnormal(Ulcer),1,0.99995625,1
+CA-Multi,4,71.jpg,Abnormal(Ulcer),1,0.9999988,1
+CA-Multi,4,72.jpg,Abnormal(Ulcer),1,0.99954134,1
+CA-Multi,4,73.jpg,Abnormal(Ulcer),1,0.99999917,1
+CA-Multi,4,74.jpg,Abnormal(Ulcer),1,0.9999565,1
+CA-Multi,4,76.jpg,Abnormal(Ulcer),1,0.9998522,1
+CA-Multi,4,77.jpg,Abnormal(Ulcer),1,0.9997173,1
+CA-Multi,4,90.jpg,Abnormal(Ulcer),1,0.9761025,1
+CA-Multi,4,91.jpg,Abnormal(Ulcer),1,0.99993,1
+CA-Multi,4,92.jpg,Abnormal(Ulcer),1,0.9988292,1
+CA-Multi,4,93.jpg,Abnormal(Ulcer),1,0.99976283,1
+CA-Multi,4,94.jpg,Abnormal(Ulcer),1,0.998285,1
+CA-Multi,4,95.jpg,Abnormal(Ulcer),1,0.66310585,1
+CA-Multi,4,111.jpg,Normal(Healthy skin),0,0.0005260424,0
+CA-Multi,4,112.jpg,Normal(Healthy skin),0,0.00019532687,0
+CA-Multi,4,113.jpg,Normal(Healthy skin),0,8.187182e-06,0
+CA-Multi,4,117.jpg,Normal(Healthy skin),0,4.665638e-05,0
+CA-Multi,4,131.jpg,Normal(Healthy skin),0,3.846124e-05,0
+CA-Multi,4,135.jpg,Normal(Healthy skin),0,0.0014120983,0
+CA-Multi,4,138.jpg,Normal(Healthy skin),0,0.00016831618,0
+CA-Multi,4,14.jpg,Normal(Healthy skin),0,0.01850831,0
+CA-Multi,4,140.jpg,Normal(Healthy skin),0,1.7630244e-05,0
+CA-Multi,4,147.jpg,Normal(Healthy skin),0,1.695165e-05,0
+CA-Multi,4,151.jpg,Normal(Healthy skin),0,5.600188e-06,0
+CA-Multi,4,152.jpg,Normal(Healthy skin),0,0.00023701326,0
+CA-Multi,4,171.jpg,Normal(Healthy skin),0,0.0009173681,0
+CA-Multi,4,206.jpg,Normal(Healthy skin),0,2.7619508e-05,0
+CA-Multi,4,207.jpg,Normal(Healthy skin),0,2.5587344e-05,0
+CA-Multi,4,208.jpg,Normal(Healthy skin),0,1.0432448e-05,0
+CA-Multi,4,209.jpg,Normal(Healthy skin),0,1.047243e-05,0
+CA-Multi,4,211.jpg,Normal(Healthy skin),0,1.6369147e-05,0
+CA-Multi,4,212.jpg,Normal(Healthy skin),0,4.0816773e-05,0
+CA-Multi,4,213.jpg,Normal(Healthy skin),0,4.382354e-06,0
+CA-Multi,4,214.jpg,Normal(Healthy skin),0,1.25132665e-05,0
+CA-Multi,4,216.jpg,Normal(Healthy skin),0,1.7520628e-05,0
+CA-Multi,4,219.jpg,Normal(Healthy skin),0,1.9382584e-05,0
+CA-Multi,4,220.jpg,Normal(Healthy skin),0,0.00037333,0
+CA-Multi,4,227.jpg,Normal(Healthy skin),0,2.6788433e-05,0
+CA-Multi,4,228.jpg,Normal(Healthy skin),0,2.2518583e-05,0
+CA-Multi,4,229.jpg,Normal(Healthy skin),0,9.136842e-06,0
+CA-Multi,4,233.jpg,Normal(Healthy skin),0,3.9889626e-05,0
+CA-Multi,4,234.jpg,Normal(Healthy skin),0,0.000102015605,0
+CA-Multi,4,252.jpg,Normal(Healthy skin),0,0.00011433261,0
+CA-Multi,4,262.jpg,Normal(Healthy skin),0,3.1316802e-05,0
+CA-Multi,4,266.jpg,Normal(Healthy skin),0,0.00010950493,0
+CA-Multi,4,27.jpg,Normal(Healthy skin),0,9.642502e-06,0
+CA-Multi,4,276.jpg,Normal(Healthy skin),0,2.6563042e-05,0
+CA-Multi,4,277.jpg,Normal(Healthy skin),0,7.111862e-05,0
+CA-Multi,4,278.jpg,Normal(Healthy skin),0,3.1894182e-05,0
+CA-Multi,4,279.jpg,Normal(Healthy skin),0,4.911789e-06,0
+CA-Multi,4,324.jpg,Normal(Healthy skin),0,0.00039696554,0
+CA-Multi,4,330.jpg,Normal(Healthy skin),0,3.411869e-05,0
+CA-Multi,4,355.jpg,Normal(Healthy skin),0,0.20491621,0
+CA-Multi,4,370.jpg,Normal(Healthy skin),0,8.318054e-06,0

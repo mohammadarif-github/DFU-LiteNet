@@ -1,0 +1,4 @@
+,exact copy in training,related patch in training,no relative in training,test images,% with a copy or relative
+"A. Careless (all files, random)",415,481,159,1055,84.9
+"B. De-duplicated, random",0,502,211,713,70.4
+C. Leakage-free (ours),0,0,713,713,0.0

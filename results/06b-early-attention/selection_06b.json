@@ -1,0 +1,7 @@
+{
+  "selected_attention_nb06": "CA-Multi",
+  "rule_choice_all6": "CA-Multi",
+  "rule_choice_all6_without_fold0": "CA-Multi",
+  "mcnemar_p_vs_baseline_rule_choice": 0.375,
+  "rule": "lowest mean validation loss among attention variants"
+}

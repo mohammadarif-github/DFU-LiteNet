@@ -1,0 +1,7 @@
+model,protocol,exact copy in training: n,exact copy in training: error %,related patch in training: n,related patch in training: error %,no relative in training: n,no relative in training: error %,Fisher p (related vs none)
+MobileNetV3Small,A,415,0.24,481,0.42,159,2.52,0.012
+MobileNetV3Small,B,0,,502,0.6,211,3.32,0.0093
+ResNet50,A,415,0.0,481,0.62,159,1.26,0.1658
+ResNet50,B,0,,502,0.4,211,1.9,0.0665
+ScratchCNN,A,415,2.89,481,2.7,159,8.18,0.0022
+ScratchCNN,B,0,,502,1.99,211,8.06,0.0003

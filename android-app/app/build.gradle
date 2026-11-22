@@ -1,0 +1,31 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.dfulitenet.demo'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId 'com.dfulitenet.demo'
+        minSdk 28
+        targetSdk 34
+        versionCode 1
+        versionName '1.0'
+    }
+    buildTypes {
+        release { minifyEnabled false }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    androidResources {
+        noCompress 'tflite'   // the model is memory-mapped, so it must not be compressed
+    }
+}
+
+dependencies {
+    // Google's on-device runtime for TensorFlow Lite models (LiteRT); Java API: org.tensorflow.lite.Interpreter
+    implementation 'com.google.ai.edge.litert:litert:1.0.1'
+}

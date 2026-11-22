@@ -1,0 +1,7 @@
+model,protocol,F1 inflation (points),accuracy as reported (%),accuracy leakage-free (%),paired images,only this protocol right,only C right,McNemar p
+MobileNetV3Small,A,0.15,99.43,99.02,713,4,3,1.0
+MobileNetV3Small,B,-0.0,99.02,99.02,713,2,2,1.0
+ResNet50,A,0.05,99.34,99.02,713,7,6,1.0
+ResNet50,B,-0.01,99.02,99.02,713,5,5,1.0
+ScratchCNN,A,2.28,97.54,93.83,713,29,9,0.0017
+ScratchCNN,B,0.62,94.39,93.83,713,23,19,0.644

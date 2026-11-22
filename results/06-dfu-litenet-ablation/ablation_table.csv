@@ -1,0 +1,6 @@
+variant,F1 change (points),missed ulcers,false alarms,AUC (pooled),extra params,"baseline right, variant wrong","variant right, baseline wrong",McNemar p
+Baseline,0.0,3,3,0.9981,0,0,0,1.0
+ECA-Late,-0.52,4,7,0.9964,5,7,2,0.1797
+CA-Late,-0.32,5,4,0.9979,32328,4,1,0.375
+ECA-Multi,-0.32,6,3,0.9988,11,5,2,0.4531
+CA-Multi,-0.32,3,6,0.9983,34264,4,1,0.375

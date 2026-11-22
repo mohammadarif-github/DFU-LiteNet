@@ -1,0 +1,10 @@
+<resources>
+    <color name="navy">#14213D</color>
+    <color name="blue">#1F5FA8</color>
+    <color name="orange">#C2571A</color>
+    <color name="green">#2E7D4F</color>
+    <color name="grey">#4A5568</color>
+    <color name="paper">#F7F6F2</color>
+    <color name="card">#FFFFFF</color>
+    <color name="line">#DBD9D2</color>
+</resources>

@@ -1,0 +1,21 @@
+{
+  "selected_backbone": "MobileNetV3Small",
+  "selected_in_05b": "MobileNetV3Small",
+  "selected_without_fold0": "MobileNetV3Small",
+  "best_f1_model": "MobileNetV3Large",
+  "eligible": [
+    "ConvNeXtTiny",
+    "EfficientNetB0",
+    "EfficientNetV2B0",
+    "MobileNetV2",
+    "MobileNetV3Large",
+    "MobileNetV3Small",
+    "NASNetMobile",
+    "ResNet50"
+  ],
+  "pareto": [
+    "MobileNetV3Large",
+    "MobileNetV3Small"
+  ],
+  "rule": "lightest model with mean F1 >= best mean F1 - best std"
+}

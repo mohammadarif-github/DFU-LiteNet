@@ -1,0 +1,9 @@
+variant,precision,size (MB),F1 (%),AUC (%),missed ulcers (total),false alarms (total),same label as Keras (%),heatmap corr. vs Keras,CPU backend,CPU ms (1 thread),CPU ms (4 threads)
+Baseline,FP32,3.74,99.37 ± 0.43,99.93,3,3,100.0,1.0,XNNPACK,2.19,1.33
+Baseline,FP16,1.93,99.37 ± 0.43,99.93,3,3,100.0,0.9998,XNNPACK,2.32,1.4
+Baseline,INT8-dyn,1.12,99.16 ± 0.80,99.93,3,5,99.72,0.9643,XNNPACK,4.82,4.55
+Baseline,INT8,1.23,91.23 ± 4.14,98.88,2,89,87.56,0.7254,built-in,13.67,46.69
+CA-Multi,FP32,3.9,99.05 ± 0.69,99.95,3,6,100.0,1.0,XNNPACK,2.19,1.44
+CA-Multi,FP16,2.02,99.05 ± 0.69,99.95,3,6,100.0,0.9999,XNNPACK,2.53,1.53
+CA-Multi,INT8-dyn,1.2,99.05 ± 0.69,99.91,3,6,99.7,0.9648,XNNPACK,4.87,4.12
+CA-Multi,INT8,1.32,91.75 ± 6.67,98.82,2,87,88.48,0.6985,built-in,15.84,49.23

@@ -1,0 +1,1056 @@
+class,file,label,md5,group,matched_photo,keep,fold
+Abnormal(Ulcer),1.jpg,1,31a84c8b66e9c841205938ebbe45d08f,521,True,True,1
+Abnormal(Ulcer),10.jpg,1,b7517a04e2d127ae3debc5d563dde6bf,1295,True,True,2
+Abnormal(Ulcer),100.jpg,1,7dbf26adfdf686cbb1918e468930ca72,485,True,True,3
+Abnormal(Ulcer),101.jpg,1,d563b197d14f7265eec188620f5e01da,485,True,True,3
+Abnormal(Ulcer),102.jpg,1,cfea383ad1dd363826d640db6aa6e0a6,486,True,True,4
+Abnormal(Ulcer),103.jpg,1,768c2f291ab3949edf381583eb6eea3e,499,True,True,2
+Abnormal(Ulcer),104.jpg,1,f1dfc1c1bb2d9b3d54cdb7c693e8cfb0,499,True,True,2
+Abnormal(Ulcer),105.jpg,1,32f33fd6db29352103750ab2abe17785,499,True,True,2
+Abnormal(Ulcer),106.jpg,1,25f93ee036f27032f5bdd1a2e80c287a,488,True,True,2
+Abnormal(Ulcer),107.jpg,1,8fc40bc684a11ec50d48cb46acdbdce5,488,True,True,2
+Abnormal(Ulcer),108.jpg,1,c0ac1949f2c2b1457ea8f2216b23a37a,980,True,True,4
+Abnormal(Ulcer),109.jpg,1,960478c09e149c5ebd2e3dda17464116,980,True,True,4
+Abnormal(Ulcer),11.jpg,1,d4e76efd0299a59bcbd8eae6aaf14585,499,True,True,2
+Abnormal(Ulcer),110.jpg,1,0e8e769f68d8a429a3eff5b00b414120,980,True,True,4
+Abnormal(Ulcer),111.jpg,1,2f487ec881070c097fae5c0c27506ecb,39,True,True,2
+Abnormal(Ulcer),112.jpg,1,aca78eded84823233258d588ca28fe3e,39,True,True,2
+Abnormal(Ulcer),113.jpg,1,62e7acc872536b309da450ba613a506a,39,True,True,2
+Abnormal(Ulcer),114.jpg,1,c8830cc842da642d0ae763b8b3bae14e,39,True,True,2
+Abnormal(Ulcer),115.jpg,1,9b440b6066e89c923432e9eb95b70b10,39,True,True,2
+Abnormal(Ulcer),116.jpg,1,d722343c1e9584ab02b55bf41c660062,39,False,True,2
+Abnormal(Ulcer),117.jpg,1,80983590dcaf183024628293d3a62f6c,39,False,True,2
+Abnormal(Ulcer),118.jpg,1,7647ebcad185a40a6a236aede3f27d32,39,False,True,2
+Abnormal(Ulcer),119.jpg,1,8447438d8f5746599da5e703a4339ca9,980,True,True,4
+Abnormal(Ulcer),12.jpg,1,0efd84fae92247cdeb3521741959fabf,1295,True,True,2
+Abnormal(Ulcer),120.jpg,1,a7f4725df52f9c0be2833b014cd95019,980,True,True,4
+Abnormal(Ulcer),121.jpg,1,6083e82a4114d4425ebfd90111c6c1cd,1317,True,True,0
+Abnormal(Ulcer),122.jpg,1,324ba14dc8676e7b781cfdbaa4c9f49e,1317,True,True,0
+Abnormal(Ulcer),123.jpg,1,7d57263c87252226113816e5b800cb28,1317,True,True,0
+Abnormal(Ulcer),124.jpg,1,4d365008ecb9fa9925d4908f5914685c,521,True,True,1
+Abnormal(Ulcer),125.jpg,1,e6669882de4771b84c534f3b22eebbf7,58,True,True,3
+Abnormal(Ulcer),126.jpg,1,20ca5891d2e374d2cc67bcb1d75d5d4b,521,True,True,1
+Abnormal(Ulcer),127.jpg,1,fcf594d595ea0c0e95b4e48eaa94e54b,526,True,True,1
+Abnormal(Ulcer),128.jpg,1,c88027fbcde6a71d79c7f7537febf5ba,526,True,True,1
+Abnormal(Ulcer),129.jpg,1,420ac7118131801a6b4266458272305b,526,True,True,1
+Abnormal(Ulcer),13.jpg,1,ccbdf9cbe9864ea6ffa6339680c4981d,1001,False,True,1
+Abnormal(Ulcer),130.jpg,1,29948c6cf4b0f0a31ec7effe365b4c85,526,True,True,1
+Abnormal(Ulcer),131.jpg,1,411ea64392f20f7d44797836dce8e023,526,True,True,1
+Abnormal(Ulcer),132.jpg,1,1b80c80c09f7a1602f52ad30be2f55c8,533,True,True,2
+Abnormal(Ulcer),133.jpg,1,9c16ab345fae4a25c6acf235022198ed,533,True,True,2
+Abnormal(Ulcer),134.jpg,1,ef4c5fab8cd6993367daf42e59304aff,533,True,True,2
+Abnormal(Ulcer),135.jpg,1,d034552bb80617eb9d84f7c6bf67914f,533,True,True,2
+Abnormal(Ulcer),136.jpg,1,237f04c9aa237e1f7d9751545fa3c42a,71,True,True,2
+Abnormal(Ulcer),137.jpg,1,805c4eafcc895995bf432fdd303ad4f0,71,True,True,2
+Abnormal(Ulcer),138.jpg,1,5fb9a8e668ee1838ec918f07f4fe039b,72,True,True,2
+Abnormal(Ulcer),139.jpg,1,84ed1cc86ddc32ccd40e5669cac1f438,72,True,True,2
+Abnormal(Ulcer),14.jpg,1,fa7fdf6f77bcff4bd8831f8dc0efdd7e,29,True,True,2
+Abnormal(Ulcer),140.jpg,1,ff749ea9688485dafa9bf941cf955e26,521,True,True,1
+Abnormal(Ulcer),141.jpg,1,768ec9c61ff2c861c1f9d9bc71d48c05,521,True,True,1
+Abnormal(Ulcer),142.jpg,1,94e169d538043457097f66e86088c34c,521,True,True,1
+Abnormal(Ulcer),143.jpg,1,69fff2c317595f68c43d5699b5701597,75,True,True,3
+Abnormal(Ulcer),144.jpg,1,6aa62152489208acf8b899f75c71fe74,76,True,True,3
+Abnormal(Ulcer),145.jpg,1,d1460731cc7be0586c1feb1d95b7fc61,77,True,True,1
+Abnormal(Ulcer),146.jpg,1,092b2e90129690163ca67cd854a6e329,555,True,True,3
+Abnormal(Ulcer),147.jpg,1,0168c870df9351495edb044026b2824c,555,True,True,3
+Abnormal(Ulcer),148.jpg,1,9590345915ec57146d17e5cd0eaf484f,555,True,True,3
+Abnormal(Ulcer),149.jpg,1,50a738a269a7ca92ba98f39a0be7e0d6,555,True,True,3
+Abnormal(Ulcer),15.jpg,1,ae2c4b74119a12dbb6c0f0b529d8295e,58,True,True,3
+Abnormal(Ulcer),150.jpg,1,46571033502ed3c096a7b468d60ea76a,555,True,True,3
+Abnormal(Ulcer),151.jpg,1,9abc06495e3b2d17e874786ab357fe56,555,True,True,3
+Abnormal(Ulcer),152.jpg,1,2f5f9ed2e6a9db8311d88cbd34c21813,555,True,True,3
+Abnormal(Ulcer),153.jpg,1,f890c7e5c487a450b446cdfe4df2496b,555,True,True,3
+Abnormal(Ulcer),154.jpg,1,8b499171d6111e98526ffc8d588c5046,555,True,True,3
+Abnormal(Ulcer),155.jpg,1,469cbe4d984d1ff5d42abfd104284726,555,True,True,3
+Abnormal(Ulcer),156.jpg,1,b96ee62c7014b9164216cff78be98d17,555,True,True,3
+Abnormal(Ulcer),157.jpg,1,58fa74f1dc10ae0c3efa1a0db357b345,1295,True,True,2
+Abnormal(Ulcer),158.jpg,1,eac45b8631b82510f41d8121cdbee473,1295,True,True,2
+Abnormal(Ulcer),159.jpg,1,5cd7b971024dd2a956f6a73fa639e582,1295,True,True,2
+Abnormal(Ulcer),16.jpg,1,68c4edd11992d235e73700cbd7865ce9,555,True,True,3
+Abnormal(Ulcer),160.jpg,1,7de4c2f7dcc201c1981dc036c14f5537,1295,True,True,2
+Abnormal(Ulcer),161.jpg,1,bdd67ede159c00453ad56a9134b66892,1317,True,True,0
+Abnormal(Ulcer),162.jpg,1,c58037e54986c304e844cb6709e89535,1317,True,True,0
+Abnormal(Ulcer),163.jpg,1,b52ce7a4d67069e9a5d1975dc0d5edd8,1317,True,True,0
+Abnormal(Ulcer),164.jpg,1,cb775c6a7038d5a092dfe086a40074f9,1317,True,True,0
+Abnormal(Ulcer),165.jpg,1,ef3fca33e681fb94b54378c43e24fd09,90,True,True,3
+Abnormal(Ulcer),166.jpg,1,c2e79d7e4ecb67c6a74b0908bd1a07ec,98,True,True,3
+Abnormal(Ulcer),167.jpg,1,4513e16bb1081738839049c59373e1b2,100,True,True,3
+Abnormal(Ulcer),168.jpg,1,108e17a618685af67d654d99375c96b0,1394,True,True,1
+Abnormal(Ulcer),169.jpg,1,763454a68bbc18869dcf56cbeca3040b,1394,True,True,1
+Abnormal(Ulcer),17.jpg,1,27d12362ae3959fa2865f1060562f806,485,True,True,3
+Abnormal(Ulcer),170.jpg,1,ec4b87d3c53f81de8c23ed90b61943f9,1394,True,True,1
+Abnormal(Ulcer),171.jpg,1,2efc43d4e5b3b47333355de9cc54e218,1394,True,True,1
+Abnormal(Ulcer),172.jpg,1,cfccce62ec9a725fff001f75d16d3789,1394,True,True,1
+Abnormal(Ulcer),173.jpg,1,43a41b7849df78a10d86996e646f5fce,784,True,True,3
+Abnormal(Ulcer),174.jpg,1,848986c85bd4ee3c87871549244c8888,784,False,True,3
+Abnormal(Ulcer),175.jpg,1,fb7d4223ad28adfe1bf9c285edc06f95,784,True,True,3
+Abnormal(Ulcer),176.jpg,1,2ce54e3f49c66889300e16e76af6a421,784,True,True,3
+Abnormal(Ulcer),177.jpg,1,508accc0d57d45059170b7d023b82e5c,784,True,True,3
+Abnormal(Ulcer),178.jpg,1,33c375e48ef5de4e85168b27a7497ea8,784,True,True,3
+Abnormal(Ulcer),179.jpg,1,aca371e74738773cea6036b1392f87e4,784,False,True,3
+Abnormal(Ulcer),18.jpg,1,1043bb96b6386fb682d05af6bc4e9df2,700,True,True,3
+Abnormal(Ulcer),180.jpg,1,316b5350f1c1044623c029b163137dee,586,True,True,0
+Abnormal(Ulcer),181.jpg,1,b0ee425d92eb03979dc9a13cc0e333cf,586,True,True,0
+Abnormal(Ulcer),182.jpg,1,a984f8e4b87f57ed51a8f0ad3d5a8e17,586,True,True,0
+Abnormal(Ulcer),183.jpg,1,a1439314e4af383b012e49f8164384b4,586,True,True,0
+Abnormal(Ulcer),184.jpg,1,9c177a9d5a8556092189db0a565b88c9,700,True,True,3
+Abnormal(Ulcer),185.jpg,1,aa945af45e0f252cccc2de3ff7a79440,700,True,True,3
+Abnormal(Ulcer),186.jpg,1,9e29e66b7853139d4abb6a25242fe158,700,True,True,3
+Abnormal(Ulcer),187.jpg,1,99d721f7e6910275bca1aff721713b6d,126,True,True,0
+Abnormal(Ulcer),188.jpg,1,f5b107a892ac32cb18b9397f6edde3db,108,True,True,3
+Abnormal(Ulcer),189.jpg,1,f1fa6da9ff18d4ad600c70e845f58b5e,108,True,True,3
+Abnormal(Ulcer),19.jpg,1,fbe803a25573fabd1bf17203d208a9c6,1295,True,True,2
+Abnormal(Ulcer),190.jpg,1,6ac68bc7f1cf069bc9ef60628dbdd6b8,256,True,True,4
+Abnormal(Ulcer),191.jpg,1,c85a62694c41e2341d340e9ea24c1cfc,256,True,True,4
+Abnormal(Ulcer),192.jpg,1,f5f09210b405c526b6b82f00abb407b3,288,True,True,4
+Abnormal(Ulcer),193.jpg,1,5018c8601f8d0440a34573325e6ddf40,288,True,True,4
+Abnormal(Ulcer),194.jpg,1,a063c8c0d6f2a4ac637560acd9019c7b,1402,True,True,2
+Abnormal(Ulcer),195.jpg,1,d7e28629937eec3de6f26a3a13e06717,237,True,True,3
+Abnormal(Ulcer),196.jpg,1,8a72f49c841e358dc8c02d364fda80f8,237,True,True,3
+Abnormal(Ulcer),197.jpg,1,c9600ff76a1bb6106308406d72a5261d,237,True,True,3
+Abnormal(Ulcer),198.jpg,1,57b50f792d9431c7bc9ac7218162b563,237,True,True,3
+Abnormal(Ulcer),2.jpg,1,66156995788d2e03326c2e8284a8f14b,98,True,True,3
+Abnormal(Ulcer),20.jpg,1,29f254d1924a3d437e116142827c42c1,849,True,True,0
+Abnormal(Ulcer),200.jpg,1,1dd384c48bb879ea4825e97e5d08d9c4,139,True,True,0
+Abnormal(Ulcer),201.jpg,1,57aafe2c1b2426d153274311020d0c7c,849,True,True,0
+Abnormal(Ulcer),202.jpg,1,278bf38e19a22fd6cff04e95675cc626,849,True,True,0
+Abnormal(Ulcer),203.jpg,1,390492ea4ac133525afcf17f46c418e9,849,True,True,0
+Abnormal(Ulcer),204.jpg,1,6487c9e5ebedc90e0865577a176e0444,849,True,True,0
+Abnormal(Ulcer),205.jpg,1,bd443fd0478061641ac5521775de4cb8,132,True,True,2
+Abnormal(Ulcer),206.jpg,1,b312d448a0c2161764aa7d2fd9aaf144,132,True,True,2
+Abnormal(Ulcer),207.jpg,1,0865d79477cf1cdec4288991dbdbdf41,849,True,True,0
+Abnormal(Ulcer),208.jpg,1,a1ff97d2648a6f8ba2f6d9f797fdc052,849,True,True,0
+Abnormal(Ulcer),209.jpg,1,6c265b95fbf1f10b37c9b111b370f49d,617,True,True,3
+Abnormal(Ulcer),21.jpg,1,7eeaa0ff77dfd80397736e7679ab56fc,849,True,True,0
+Abnormal(Ulcer),210.jpg,1,c34c0cbb37b532c4d9c527e108132105,617,True,True,3
+Abnormal(Ulcer),211.jpg,1,3f462f121b9c04f245489bfc6a7e8e45,617,True,True,3
+Abnormal(Ulcer),212.jpg,1,97a8125cd826bab09eb11cc0cda31491,617,True,True,3
+Abnormal(Ulcer),213.jpg,1,112812ee79aab3ff72cc64059cb6392d,365,True,True,4
+Abnormal(Ulcer),214.jpg,1,b92b0cc532c71bd075ed2bbd6b5abe50,146,True,True,4
+Abnormal(Ulcer),215.jpg,1,2ebbb145ab580d33e482b599ac0a785b,147,True,True,3
+Abnormal(Ulcer),216.jpg,1,c4497075327927af4b1a675953995cc7,147,True,True,3
+Abnormal(Ulcer),217.jpg,1,c60d6e3459732311cd9d61c982d155f9,147,True,True,3
+Abnormal(Ulcer),218.jpg,1,f2967d99e4cbc177bd0d291c387a917f,743,True,True,2
+Abnormal(Ulcer),219.jpg,1,b21aaccfc52e3142fe147cf6ae45b74a,743,True,True,2
+Abnormal(Ulcer),22.jpg,1,7dea66703d0e5a3302f012d0e89accf3,284,True,True,1
+Abnormal(Ulcer),220.jpg,1,c10df61737cda553ebfc638f6e4f9526,743,True,True,2
+Abnormal(Ulcer),221.jpg,1,8a05bcfd13ce70a0fd09baf96c5cdea9,617,True,True,3
+Abnormal(Ulcer),222.jpg,1,ca7b2c735e5680308508c4f639f96e37,849,True,True,0
+Abnormal(Ulcer),223.jpg,1,dd70905cc49c3b8b8d1dfc45a1dc9586,108,True,True,3
+Abnormal(Ulcer),224.jpg,1,65068a660ca7bb294e8b0bc05455ed0a,39,False,True,2
+Abnormal(Ulcer),225.jpg,1,b6127a468db8f95a2c7b06c2fc1d183d,39,True,True,2
+Abnormal(Ulcer),226.jpg,1,75e06e2b6d2f2f5770744b320cd1e590,1317,True,True,0
+Abnormal(Ulcer),227.jpg,1,e8cf3d4921cee6e98b7f8c545e00b52e,1295,True,True,2
+Abnormal(Ulcer),228.jpg,1,33c375e48ef5de4e85168b27a7497ea8,784,True,False,3
+Abnormal(Ulcer),229.jpg,1,9dc103be7cf87cde386dbb365e8210a0,743,True,True,2
+Abnormal(Ulcer),23.jpg,1,f5e75e7bb81db7bc13f0bf79d9d1bd7e,191,True,True,4
+Abnormal(Ulcer),230.jpg,1,59c2267b60ab5bf4fa3abcafebb15658,151,True,True,1
+Abnormal(Ulcer),231.jpg,1,7d4ffa1577aa6b2756603bbf6cdba658,849,True,True,0
+Abnormal(Ulcer),232.jpg,1,7e9c0e70b2b4a79b80ce69d0a8813f8f,1428,True,True,3
+Abnormal(Ulcer),233.jpg,1,7b6afa6ad6897015d550e0265f68994b,642,True,True,4
+Abnormal(Ulcer),234.jpg,1,8285a965e57708e281b966af417e248d,642,True,True,4
+Abnormal(Ulcer),235.jpg,1,9405ee285c1cf874ba4c040b73cc072b,154,True,True,2
+Abnormal(Ulcer),236.jpg,1,3e45042bb25c588e189dd928778a46a4,155,True,True,2
+Abnormal(Ulcer),237.jpg,1,557afa89deb159f84d7ad4e20eaf33ae,155,True,True,2
+Abnormal(Ulcer),238.jpg,1,d2937ae33a34aa1d9c43030aca83ce55,155,True,True,2
+Abnormal(Ulcer),239.jpg,1,be22a46f0134f2cba5b365db6bece542,653,True,True,0
+Abnormal(Ulcer),24.jpg,1,2ba9e9f87d5ea026818f8b072530faf9,58,True,True,3
+Abnormal(Ulcer),240.jpg,1,b8c730b9acd7a1555b221f8f206ac064,653,True,True,0
+Abnormal(Ulcer),241.jpg,1,1020e6141139cf820ea9c8956bf629c7,653,True,True,0
+Abnormal(Ulcer),242.jpg,1,da117efe1f29d42e7e1c6bd00eee385e,653,True,True,0
+Abnormal(Ulcer),243.jpg,1,bd5af98499cd68e1fd0a801559a9d8d4,653,True,True,0
+Abnormal(Ulcer),244.jpg,1,cb7ac7606e59fedb97a0d39fce69de0b,653,True,True,0
+Abnormal(Ulcer),245.jpg,1,2ae682eb923564b604142f7d07b7c1d3,810,True,True,4
+Abnormal(Ulcer),246.jpg,1,ed1f41a99270d72b16cee3fe0bdaea0a,810,True,True,4
+Abnormal(Ulcer),247.jpg,1,6bd758835a65a01a210a173c4068b5c1,810,True,True,4
+Abnormal(Ulcer),248.jpg,1,405a84906721cb4d447f23b67e26ed7e,810,True,True,4
+Abnormal(Ulcer),249.jpg,1,9c7609592f752f5748fa03419ef85a24,810,True,True,4
+Abnormal(Ulcer),25.jpg,1,350d9865c5ea3283a3fe1aba6936f4fc,1394,True,True,1
+Abnormal(Ulcer),250.jpg,1,d30ce9a4ef15c845595d1735d22d5530,191,True,True,4
+Abnormal(Ulcer),251.jpg,1,1bb09c65900b65e8c781adc3d7a626ba,284,True,True,1
+Abnormal(Ulcer),252.jpg,1,ce1bb0aeff06c6311405b2520d06c545,284,True,True,1
+Abnormal(Ulcer),253.jpg,1,7c4d560c7fd0ca423a1a96594b5d65e5,284,True,True,1
+Abnormal(Ulcer),254.jpg,1,dd67b6341873c64f9089fd5b299d9981,284,True,True,1
+Abnormal(Ulcer),255.jpg,1,ffbb45e60feb0771b7177674bbedaab4,284,True,True,1
+Abnormal(Ulcer),256.jpg,1,de0eb357040deabd03f3a1e01b4ca0b5,284,True,True,1
+Abnormal(Ulcer),257.jpg,1,daebbf4e2543ce6545dd222468c908f4,284,True,True,1
+Abnormal(Ulcer),258.jpg,1,a71320e6cf75cb916542a33045bd0775,1394,True,True,1
+Abnormal(Ulcer),259.jpg,1,4425f5510f429c75d1ac97806706d200,1394,True,True,1
+Abnormal(Ulcer),26.jpg,1,ca3857b4a2421a2d8f84fc8f3b41d9f0,237,True,True,3
+Abnormal(Ulcer),260.jpg,1,76e717fe1f992aebc329e14efbbb5d93,1394,True,True,1
+Abnormal(Ulcer),261.jpg,1,7f20013ebbc8e2ab7ade2894fa3957a7,1394,True,True,1
+Abnormal(Ulcer),262.jpg,1,6c4120c2b8e1931a9d9596f0afc30831,849,True,True,0
+Abnormal(Ulcer),263.jpg,1,90c28fa992a065a4ffa8a09abefa04aa,849,True,True,0
+Abnormal(Ulcer),264.jpg,1,74a8d5896dd98fedb6bd9f1215ea8c3f,849,True,True,0
+Abnormal(Ulcer),265.jpg,1,c032abeaebb6d1efd9baca6d74989afc,849,True,True,0
+Abnormal(Ulcer),266.jpg,1,74eaed0918bebda464302d4025aafe81,849,True,True,0
+Abnormal(Ulcer),267.jpg,1,849a3eaf14e22870b53c1db90896d5a2,849,True,True,0
+Abnormal(Ulcer),268.jpg,1,f94a582a3a7a1f41862f9692ecd27b70,849,True,True,0
+Abnormal(Ulcer),269.jpg,1,8f5ab1cc1ad31a7a8e21e3ef4dbf31f4,849,True,True,0
+Abnormal(Ulcer),27.jpg,1,366553ec7f3f974e6cffc193eeb424b0,586,True,True,0
+Abnormal(Ulcer),270.jpg,1,b59f25eda46027ecbe6522748450259d,849,True,True,0
+Abnormal(Ulcer),271.jpg,1,0c80db43225f1f5049152c3a299d1101,165,True,True,3
+Abnormal(Ulcer),272.jpg,1,2366f170c757effc88dfdb0f56ae8996,167,True,True,3
+Abnormal(Ulcer),273.jpg,1,38596e93b9dfc035b67efb0211b3e531,1402,True,True,2
+Abnormal(Ulcer),274.jpg,1,7421a0a13f2e05d5a378cec56b72fafd,301,True,True,3
+Abnormal(Ulcer),275.jpg,1,110ccf837c486e3f6bcbdedc9a5e611d,1402,True,True,2
+Abnormal(Ulcer),276.jpg,1,016aeaddbc34b3ffa94f646306168f72,174,True,True,0
+Abnormal(Ulcer),277.jpg,1,3a55f3842da4b4a55c336599f4a13a56,177,True,True,0
+Abnormal(Ulcer),278.jpg,1,1a618079363ef98fd7c82aa9accb436d,1405,True,True,1
+Abnormal(Ulcer),279.jpg,1,49e983462c56fa43f3aac6a281762855,693,True,True,1
+Abnormal(Ulcer),28.jpg,1,e0dba91537eab8bc5e6e4c72abb06184,693,True,True,1
+Abnormal(Ulcer),280.jpg,1,a0214beb6039b608963ee258e110064a,693,True,True,1
+Abnormal(Ulcer),281.jpg,1,733116e6bb83389e898ea9346c23f0a8,693,True,True,1
+Abnormal(Ulcer),282.jpg,1,43da2e59e4e5e82a9ab64ad2aee7ab3e,132,True,True,2
+Abnormal(Ulcer),283.jpg,1,a36c03f42eb203cc480b3d1f1e31fecc,132,True,True,2
+Abnormal(Ulcer),284.jpg,1,0371088f10ea8c5c93b9ab5ae552d49a,132,True,True,2
+Abnormal(Ulcer),285.jpg,1,dd70905cc49c3b8b8d1dfc45a1dc9586,108,True,False,3
+Abnormal(Ulcer),286.jpg,1,68c4edd11992d235e73700cbd7865ce9,555,True,False,3
+Abnormal(Ulcer),287.jpg,1,1043bb96b6386fb682d05af6bc4e9df2,700,True,False,3
+Abnormal(Ulcer),288.jpg,1,6bb64b10c52e5ea11861f1a979afa36d,326,True,True,4
+Abnormal(Ulcer),289.jpg,1,29f254d1924a3d437e116142827c42c1,849,True,False,0
+Abnormal(Ulcer),29.jpg,1,78efe63d0bd1cd093b2f652eae36ec2c,617,True,True,3
+Abnormal(Ulcer),290.jpg,1,0dc48736800cac26925845d71dff0ec7,476,True,True,2
+Abnormal(Ulcer),291.jpg,1,93a3fb368047fc886d7e1f7422862ae5,958,False,True,2
+Abnormal(Ulcer),292.jpg,1,bb20bbcc01844a153caa277f5c635342,987,True,True,3
+Abnormal(Ulcer),293.jpg,1,9035a1be0229b806563fd77f1b30a772,980,True,True,4
+Abnormal(Ulcer),294.jpg,1,25f93ee036f27032f5bdd1a2e80c287a,488,True,False,2
+Abnormal(Ulcer),295.jpg,1,7d57263c87252226113816e5b800cb28,1317,True,False,0
+Abnormal(Ulcer),296.jpg,1,0e8e769f68d8a429a3eff5b00b414120,980,True,False,4
+Abnormal(Ulcer),297.jpg,1,29948c6cf4b0f0a31ec7effe365b4c85,526,True,False,1
+Abnormal(Ulcer),298.jpg,1,c58037e54986c304e844cb6709e89535,1317,True,False,0
+Abnormal(Ulcer),299.jpg,1,c9600ff76a1bb6106308406d72a5261d,237,True,False,3
+Abnormal(Ulcer),3.jpg,1,6e7407e343e8652acdb5111baf90e798,77,True,True,1
+Abnormal(Ulcer),30.jpg,1,c164c46bba24d16eb2710b928412701a,994,False,True,0
+Abnormal(Ulcer),300.jpg,1,fb7d4223ad28adfe1bf9c285edc06f95,784,True,False,3
+Abnormal(Ulcer),301.jpg,1,12f5d295b9c6806c65b2bf3700a30f16,132,True,True,2
+Abnormal(Ulcer),302.jpg,1,2e612668e817a099b70ecedb1938900f,719,True,True,1
+Abnormal(Ulcer),303.jpg,1,876bcdede1595e544c8fd49491253ac9,719,True,True,1
+Abnormal(Ulcer),304.jpg,1,d15ff5252f1742d8f54bb0b09887de02,719,True,True,1
+Abnormal(Ulcer),305.jpg,1,8e76e266f110d0e50484837c4708f721,719,True,True,1
+Abnormal(Ulcer),306.jpg,1,aa170f6b72e81211c33d7e441ffa8e0b,849,True,True,0
+Abnormal(Ulcer),307.jpg,1,d271440088413573014bb9517f7ff889,849,True,True,0
+Abnormal(Ulcer),308.jpg,1,3724eba1391595b31733bb91aee91e26,849,True,True,0
+Abnormal(Ulcer),309.jpg,1,885f54791b4096cd712b4f6fc78ca06f,849,True,True,0
+Abnormal(Ulcer),31.jpg,1,d91f3200180115090f9ce6bc56358486,743,True,True,2
+Abnormal(Ulcer),310.jpg,1,4c1ee70a15aea6f4f5e1941d470a4c50,1394,True,True,1
+Abnormal(Ulcer),311.jpg,1,98e12d36bb4d39b7ef154569a87cef06,187,True,True,4
+Abnormal(Ulcer),312.jpg,1,46643429867aecbdf8256e4ae428e31c,4,False,True,4
+Abnormal(Ulcer),313.jpg,1,92882b67d68bda115ce51f2b2225748e,4,True,True,4
+Abnormal(Ulcer),314.jpg,1,d521cc933819e9cd25f0af07c71ba36c,4,True,True,4
+Abnormal(Ulcer),315.jpg,1,c59aa3b44aa892cf700523271b36742b,436,True,True,2
+Abnormal(Ulcer),316.jpg,1,b2c4ca02fecd8bfb6cdeab60c3beb9f3,436,True,True,2
+Abnormal(Ulcer),317.jpg,1,e3a762ea2ac9016b8f8c01a684321211,436,True,True,2
+Abnormal(Ulcer),318.jpg,1,a0d0f34a95d293c7f3d657fe02ce8d77,436,True,True,2
+Abnormal(Ulcer),319.jpg,1,0936c07adc7b3ae16f2024915d70c95b,436,True,True,2
+Abnormal(Ulcer),32.jpg,1,d5829d7e34e325a429a467b65536c27e,191,True,True,4
+Abnormal(Ulcer),320.jpg,1,5a440a85836a03a63dba8ca7e47ec209,93,True,True,2
+Abnormal(Ulcer),321.jpg,1,06b896602b8aff208981354537418e3d,739,False,True,2
+Abnormal(Ulcer),322.jpg,1,9861abd20943421bc48802335461a9b0,277,True,True,3
+Abnormal(Ulcer),323.jpg,1,dd5eb3a50894b387c80d6b03392233a6,277,True,True,3
+Abnormal(Ulcer),324.jpg,1,359369e7c7785f5af8ca1bba15a16ac4,195,True,True,1
+Abnormal(Ulcer),325.jpg,1,4b40a52c547bc516afab817992b752e1,743,True,True,2
+Abnormal(Ulcer),326.jpg,1,0d164810b4a08ddc7c36803d9c3cf98e,747,True,True,4
+Abnormal(Ulcer),327.jpg,1,0b41e69bfb754841d438676179e3ae24,747,True,True,4
+Abnormal(Ulcer),328.jpg,1,f4387f0bf5ca96a0b0460d3fd2ed3533,747,True,True,4
+Abnormal(Ulcer),329.jpg,1,fe033d1b9f3b8cb296fa9d8ee218983d,747,True,True,4
+Abnormal(Ulcer),33.jpg,1,42f299eaffbfd18bb155971fbd5a2860,284,True,True,1
+Abnormal(Ulcer),330.jpg,1,d7e5e566262e4b7f2ba7375fe58d19d5,1402,True,True,2
+Abnormal(Ulcer),331.jpg,1,672b4c1da038525b1f30a07d2ea7a8c8,256,True,True,4
+Abnormal(Ulcer),332.jpg,1,8a501a887454b0a9fc20482e1543f007,256,True,True,4
+Abnormal(Ulcer),333.jpg,1,1fe1ba95eca9c116dbb7678992ebe6eb,256,True,True,4
+Abnormal(Ulcer),334.jpg,1,f71cb08084d1165b9585621142f38b55,756,True,True,0
+Abnormal(Ulcer),335.jpg,1,b1e472975ddd2f3933bf77a05dfc25b2,756,True,True,0
+Abnormal(Ulcer),336.jpg,1,8dea7fa29ff7d3066f52833f9951ad02,756,True,True,0
+Abnormal(Ulcer),337.jpg,1,605e0c05095996abd5e96ef42aa79e45,756,True,True,0
+Abnormal(Ulcer),338.jpg,1,86a89889472a86ee7d19ef7458b02cee,849,True,True,0
+Abnormal(Ulcer),339.jpg,1,09381ae2253cd43baa1861e6955d2061,849,True,True,0
+Abnormal(Ulcer),34.jpg,1,63616a96792e39db3977cc76e2c29895,39,True,True,2
+Abnormal(Ulcer),340.jpg,1,55482df673bf45be48232b47e149e470,849,True,True,0
+Abnormal(Ulcer),341.jpg,1,07f38242175cfcf1a7a054103b63eb0e,849,True,True,0
+Abnormal(Ulcer),342.jpg,1,31b65905030510dc63bcfc4505784d8d,849,True,True,0
+Abnormal(Ulcer),343.jpg,1,ba23ce04fafb8801952298fbabc62f2f,849,True,True,0
+Abnormal(Ulcer),344.jpg,1,e07ff7d8e857dd4a82b1eb9d8c6136b0,1464,True,True,1
+Abnormal(Ulcer),345.jpg,1,42d718b308b574147e7048ef4c21901b,4,True,True,4
+Abnormal(Ulcer),346.jpg,1,a873876f66ad95f4bd82b2111100d38a,219,True,True,2
+Abnormal(Ulcer),347.jpg,1,4beacd7bd8d408b18cb4c8db30ee6bf2,221,True,True,1
+Abnormal(Ulcer),348.jpg,1,cfc000de076a2f7a07a0c5f93aad2b1b,222,True,True,2
+Abnormal(Ulcer),349.jpg,1,393ed4d2d29d12b8f5cefd19f9c8b76f,222,True,True,2
+Abnormal(Ulcer),35.jpg,1,37e2367f0554f39d93a793abc059e27a,104,True,True,1
+Abnormal(Ulcer),350.jpg,1,4607af267dbcc09e199aed98132c5ee6,132,True,True,2
+Abnormal(Ulcer),351.jpg,1,e1ca5310b63bd8f6027c4f3af7bd6c98,227,True,True,0
+Abnormal(Ulcer),352.jpg,1,49f6b1abb13ed60bb00f9d3f74febec8,229,True,True,1
+Abnormal(Ulcer),353.jpg,1,b7ebcb39001931ef3d45bfdaa9dc3690,231,True,True,0
+Abnormal(Ulcer),354.jpg,1,5730356cc9b527864558de70c1986ec7,231,True,True,0
+Abnormal(Ulcer),355.jpg,1,0eb3a57112a438ccf9a9c8caa2fb4ef3,231,True,True,0
+Abnormal(Ulcer),356.jpg,1,543e146a0fe6284a4d28965bb5c1c294,777,False,True,0
+Abnormal(Ulcer),357.jpg,1,46b8143c43924ac57d115a60719b7f71,233,True,True,1
+Abnormal(Ulcer),358.jpg,1,2606ff3538e912422fb62a0cf98f3297,233,True,True,1
+Abnormal(Ulcer),359.jpg,1,c00711255c904c70b535566803cdfd58,233,True,True,1
+Abnormal(Ulcer),36.jpg,1,bc7418a95c1247d1d14db7bc73834a30,91,True,True,0
+Abnormal(Ulcer),360.jpg,1,95310f39d547ece28257d4e4665f368c,784,True,True,3
+Abnormal(Ulcer),361.jpg,1,38d2b1c2ed282d0d3dab4f19a90150d8,784,True,True,3
+Abnormal(Ulcer),362.jpg,1,a4a5eb938d2d71ebded618bb2525325e,784,True,True,3
+Abnormal(Ulcer),363.jpg,1,65b7a75ed786e22d904a9e7de772f651,788,True,True,1
+Abnormal(Ulcer),364.jpg,1,5728dbe0c993dea17c3c9b72af06503d,788,True,True,1
+Abnormal(Ulcer),365.jpg,1,f875e6e28d6ab5ff733b62ef7ea994de,788,True,True,1
+Abnormal(Ulcer),366.jpg,1,28a40912ccb4e9bf0c57b75cf4119a67,788,True,True,1
+Abnormal(Ulcer),367.jpg,1,89862f7e8f64fcf4641bc5766f1bc276,788,True,True,1
+Abnormal(Ulcer),368.jpg,1,9fb1477608d21ce4f820e7b3af68c75e,788,True,True,1
+Abnormal(Ulcer),369.jpg,1,822c86166eda565cc26c92b5a4d9626b,237,True,True,3
+Abnormal(Ulcer),37.jpg,1,90f1a0829d59aded64c86520bcc760ae,586,True,True,0
+Abnormal(Ulcer),370.jpg,1,cf2a7bbe3cd199777a639079c8272968,238,True,True,3
+Abnormal(Ulcer),371.jpg,1,f2fb4512952a134a5cef4b0ed018c0aa,466,True,True,4
+Abnormal(Ulcer),372.jpg,1,b9433365721b001d51c7343a3e0b5967,241,True,True,4
+Abnormal(Ulcer),373.jpg,1,24caeabdc1403c5701081a04ada025e8,461,True,True,4
+Abnormal(Ulcer),374.jpg,1,8b597cc1d546927ebe30c32bf95c2f64,461,True,True,4
+Abnormal(Ulcer),375.jpg,1,2e238eb46e74088ec3e68a098157b91f,243,True,True,0
+Abnormal(Ulcer),376.jpg,1,05fc078149876e8e9d4f85199b94a0fd,243,True,True,0
+Abnormal(Ulcer),377.jpg,1,87f0765f7e01ec2ddfd06411d06d31a8,243,True,True,0
+Abnormal(Ulcer),378.jpg,1,892f9d453f482ae05959868b6d7f0fcf,245,True,True,4
+Abnormal(Ulcer),379.jpg,1,aa5fe15f383751f19016c958c85652c1,247,True,True,4
+Abnormal(Ulcer),38.jpg,1,6bb64b10c52e5ea11861f1a979afa36d,326,True,False,4
+Abnormal(Ulcer),380.jpg,1,1da9df17ff1f6a98c6e499d425b8eb9c,804,False,True,2
+Abnormal(Ulcer),381.jpg,1,2ce54e3f49c66889300e16e76af6a421,784,True,False,3
+Abnormal(Ulcer),382.jpg,1,278bf38e19a22fd6cff04e95675cc626,849,True,False,0
+Abnormal(Ulcer),383.jpg,1,f5f09210b405c526b6b82f00abb407b3,288,True,False,4
+Abnormal(Ulcer),384.jpg,1,8a05bcfd13ce70a0fd09baf96c5cdea9,617,True,False,3
+Abnormal(Ulcer),385.jpg,1,6487c9e5ebedc90e0865577a176e0444,849,True,False,0
+Abnormal(Ulcer),386.jpg,1,2ae682eb923564b604142f7d07b7c1d3,810,True,False,4
+Abnormal(Ulcer),387.jpg,1,110ccf837c486e3f6bcbdedc9a5e611d,1402,True,False,2
+Abnormal(Ulcer),388.jpg,1,ca7b2c735e5680308508c4f639f96e37,849,True,False,0
+Abnormal(Ulcer),389.jpg,1,6bd758835a65a01a210a173c4068b5c1,810,True,False,4
+Abnormal(Ulcer),39.jpg,1,7279bf07a98014baecf3ff19339cbc54,58,True,True,3
+Abnormal(Ulcer),390.jpg,1,dd70905cc49c3b8b8d1dfc45a1dc9586,108,True,False,3
+Abnormal(Ulcer),391.jpg,1,016aeaddbc34b3ffa94f646306168f72,174,True,False,0
+Abnormal(Ulcer),392.jpg,1,74eaed0918bebda464302d4025aafe81,849,True,False,0
+Abnormal(Ulcer),393.jpg,1,29f254d1924a3d437e116142827c42c1,849,True,False,0
+Abnormal(Ulcer),394.jpg,1,733116e6bb83389e898ea9346c23f0a8,693,True,False,1
+Abnormal(Ulcer),395.jpg,1,9035a1be0229b806563fd77f1b30a772,980,True,False,4
+Abnormal(Ulcer),396.jpg,1,3724eba1391595b31733bb91aee91e26,849,True,False,0
+Abnormal(Ulcer),397.jpg,1,b2c4ca02fecd8bfb6cdeab60c3beb9f3,436,True,False,2
+Abnormal(Ulcer),398.jpg,1,98e12d36bb4d39b7ef154569a87cef06,187,True,False,4
+Abnormal(Ulcer),399.jpg,1,31b65905030510dc63bcfc4505784d8d,849,True,False,0
+Abnormal(Ulcer),4.jpg,1,1c5fc7f1c6ce4d1657afc398fabb10d4,39,True,True,2
+Abnormal(Ulcer),40.jpg,1,145e35a0d6365536c4093b9553dce52f,263,False,True,2
+Abnormal(Ulcer),400.jpg,1,0b41e69bfb754841d438676179e3ae24,747,True,False,4
+Abnormal(Ulcer),401.jpg,1,57cd833c2055ea87c5e85fee4aa660fd,248,True,True,1
+Abnormal(Ulcer),402.jpg,1,20951ff6e271ad8ed341caef29aaea38,248,True,True,1
+Abnormal(Ulcer),403.jpg,1,bdcaee3658a9bbb74c8e7fd5ef283068,249,True,True,0
+Abnormal(Ulcer),404.jpg,1,9209f990a8e6fbaae04e3210b7a06748,834,True,True,4
+Abnormal(Ulcer),405.jpg,1,bef52da818431d4b5c981effad6cdf6c,834,True,True,4
+Abnormal(Ulcer),406.jpg,1,20f68dddb3a82e81c1cd0f4060e7b686,834,True,True,4
+Abnormal(Ulcer),407.jpg,1,46452215688464f026714c36b04de46b,834,True,True,4
+Abnormal(Ulcer),408.jpg,1,0465bb5a220fc4ca0025783a67870b6d,465,True,True,3
+Abnormal(Ulcer),409.jpg,1,8c1ec04501b15f2d9ded64e19e4157e5,465,True,True,3
+Abnormal(Ulcer),41.jpg,1,0d09d39cf6e757269971b959a38eefe0,837,False,True,2
+Abnormal(Ulcer),410.jpg,1,4a6e31744f3b38df80c865bc77bd24c5,254,True,True,2
+Abnormal(Ulcer),411.jpg,1,5ec4c56031767e8c4ffab9995ceea550,254,True,True,2
+Abnormal(Ulcer),412.jpg,1,b46071d0731d007d65a960eb2ba14258,256,True,True,4
+Abnormal(Ulcer),413.jpg,1,7a72a8d61cd2b95486679deade44f89d,132,True,True,2
+Abnormal(Ulcer),414.jpg,1,e9e94ba1bcb1a35ed10c8b294b2f9303,132,True,True,2
+Abnormal(Ulcer),415.jpg,1,f797164e1050d9f26e62ec9565796127,843,False,True,2
+Abnormal(Ulcer),416.jpg,1,1622d0f93ddabb546e46317541137a09,844,False,True,1
+Abnormal(Ulcer),417.jpg,1,e54433a889147c813b0f93e2d452d539,849,True,True,0
+Abnormal(Ulcer),418.jpg,1,780ad1abf02bc09605dcc3c7b425b680,849,True,True,0
+Abnormal(Ulcer),419.jpg,1,9a62a440dc68c4d881714edbe1e841f3,849,True,True,0
+Abnormal(Ulcer),42.jpg,1,331e2cc269599db9c0e187185a959e3e,848,False,True,0
+Abnormal(Ulcer),420.jpg,1,d17c4cb02b66f92d8cd337e692210228,849,True,True,0
+Abnormal(Ulcer),421.jpg,1,559b49b4094311efa10d0cfae6ae3518,263,True,True,2
+Abnormal(Ulcer),422.jpg,1,7b1105a8978ea1948805d46f5ecefa27,849,True,True,0
+Abnormal(Ulcer),423.jpg,1,81e4075057623be27416e6536f5b64cc,849,True,True,0
+Abnormal(Ulcer),424.jpg,1,ac18b3ac0268f3b9d625b3727733f3f3,849,True,True,0
+Abnormal(Ulcer),425.jpg,1,6c0f23a9f2d465e85ee9fa299826feff,849,True,True,0
+Abnormal(Ulcer),426.jpg,1,7bd2876e33c793bd8078bbeda5858136,269,True,True,1
+Abnormal(Ulcer),427.jpg,1,e73c6cc20e60bc4d5656408ffcc2de1a,149,True,True,4
+Abnormal(Ulcer),428.jpg,1,c016484d4f6d4227bc5b119d4f957a25,149,True,True,4
+Abnormal(Ulcer),429.jpg,1,5f9306705954523e9686fd07825fef3a,149,True,True,4
+Abnormal(Ulcer),43.jpg,1,eca4dc2711b61daec5dae87356b46325,700,True,True,3
+Abnormal(Ulcer),430.jpg,1,1c46549a5675ab6fc75bd949de295fe3,277,True,True,3
+Abnormal(Ulcer),431.jpg,1,6903c3460984bab95aa2e441f8c5e362,277,True,True,3
+Abnormal(Ulcer),432.jpg,1,ae2e97a7b2f5b5814632a9d4597f2032,862,False,True,4
+Abnormal(Ulcer),433.jpg,1,e75ceef377d4f28d09fe963e3db5870b,280,True,True,4
+Abnormal(Ulcer),434.jpg,1,1105b69a4373f0a19648164ca01fea57,284,True,True,1
+Abnormal(Ulcer),435.jpg,1,08139313f4f2767e8c7445c542d86c43,865,False,True,3
+Abnormal(Ulcer),436.jpg,1,4f4970c872c145e507cd800026334383,288,True,True,4
+Abnormal(Ulcer),437.jpg,1,fc99c8be13fc4c30c9dc75c003c3f30f,291,True,True,2
+Abnormal(Ulcer),438.jpg,1,47d306766cf940a37c591b65b3872569,35,True,True,1
+Abnormal(Ulcer),439.jpg,1,a4cfa017d0550f5140f957bd0b99d538,35,True,True,1
+Abnormal(Ulcer),44.jpg,1,ce72db16534effaf3befd4a55a024fc6,485,True,True,3
+Abnormal(Ulcer),440.jpg,1,6d6e02f7b7b508fa241cdfe9b6283608,586,True,True,0
+Abnormal(Ulcer),441.jpg,1,c76313bd5885062d7baaffcfe9ffeff0,104,True,True,1
+Abnormal(Ulcer),442.jpg,1,30a32bf3af8ff2205bad6f6668dbb101,298,True,True,2
+Abnormal(Ulcer),443.jpg,1,add96cffa467b695ee32d2fd1d97d987,269,True,True,1
+Abnormal(Ulcer),444.jpg,1,efed182ad959bfd1f27c945484104dce,284,True,True,1
+Abnormal(Ulcer),445.jpg,1,e39736d483426372f8072b8d2271ea24,167,True,True,3
+Abnormal(Ulcer),446.jpg,1,12950d68ec094cfd61cf41b377c7ff52,307,True,True,3
+Abnormal(Ulcer),447.jpg,1,e89f873af1e71a4b1543be31a253d119,810,True,True,4
+Abnormal(Ulcer),448.jpg,1,d192796495fbf5158992ea020d57543e,3,True,True,1
+Abnormal(Ulcer),449.jpg,1,a309a6e5ff9274f12f7b4d0343fdc616,326,True,True,4
+Abnormal(Ulcer),45.jpg,1,4331586a023969037d5bba420cf165b4,881,False,True,4
+Abnormal(Ulcer),450.jpg,1,bef32e05c8027c9e4340ab7818bcc7e6,882,False,True,1
+Abnormal(Ulcer),451.jpg,1,abbf722fdfe1425a7bcca7a112fb7a1b,4,True,True,4
+Abnormal(Ulcer),452.jpg,1,7cf6ee6c3f7d3b9cba857037f25e9775,354,True,True,3
+Abnormal(Ulcer),453.jpg,1,9aaca36c226a441639c938eef3b87ca3,354,True,True,3
+Abnormal(Ulcer),454.jpg,1,f9631fab0e61289c17ad5cc093be3fb9,75,True,True,3
+Abnormal(Ulcer),455.jpg,1,9be7ebe1efc7f2598c68247ad9c86bd2,700,True,True,3
+Abnormal(Ulcer),456.jpg,1,0f15e9640e3812a86509584beff765f9,126,True,True,0
+Abnormal(Ulcer),457.jpg,1,81f823cf24df40f845621dd478856c03,132,True,True,2
+Abnormal(Ulcer),458.jpg,1,1fdfa95179ad72404e770fdf5e31f21e,849,False,True,0
+Abnormal(Ulcer),459.jpg,1,09d9df7884137d1ff92ad5a4990812e8,788,True,True,1
+Abnormal(Ulcer),46.jpg,1,bc7418a95c1247d1d14db7bc73834a30,91,True,False,0
+Abnormal(Ulcer),460.jpg,1,d2925799d3cdb5016962f6fc9cd5e11f,284,True,True,1
+Abnormal(Ulcer),461.jpg,1,f6d75a19e9c6d18d52ef2024a61e28d7,94,True,True,4
+Abnormal(Ulcer),462.jpg,1,bb8a7a6298abb970aaf1884f7b488943,4,True,True,4
+Abnormal(Ulcer),463.jpg,1,468be11d044345c4004564847f7f19d5,465,True,True,3
+Abnormal(Ulcer),464.jpg,1,12d22be3a096247d3fb38101c7de0214,3,True,True,1
+Abnormal(Ulcer),465.jpg,1,e8835416c2b4a89ba9745fd24a52113e,51,True,True,4
+Abnormal(Ulcer),466.jpg,1,433572c78a4d66d7c86b78c0daed6ab2,1402,False,True,2
+Abnormal(Ulcer),467.jpg,1,ee2bc0f83c5f588a63c0582a29f5c9eb,4,False,True,4
+Abnormal(Ulcer),468.jpg,1,bfff57adb8fdafa15924460b5f6e1ccb,104,True,True,1
+Abnormal(Ulcer),469.jpg,1,5284c1a5d53b69563cd2e3e6de52c022,230,True,True,0
+Abnormal(Ulcer),47.jpg,1,443efefcaecac9e31afc7dc52bc06dae,4,True,True,4
+Abnormal(Ulcer),470.jpg,1,3e65e83926136559772388edf3c0d980,905,True,True,3
+Abnormal(Ulcer),471.jpg,1,350ab5101ab1fe51daac2f20a8fc9caa,905,True,True,3
+Abnormal(Ulcer),472.jpg,1,0e987d62791b1a136e15bec8eb949d75,906,False,True,1
+Abnormal(Ulcer),473.jpg,1,fea6b54314f285543057c5f58cd5668a,353,True,True,2
+Abnormal(Ulcer),474.jpg,1,ff53af4367ceb8a89f91076424e2ad0d,357,True,True,0
+Abnormal(Ulcer),475.jpg,1,ac7ad16bcc9e48aae5bbbcde6ecdcd61,359,True,True,2
+Abnormal(Ulcer),476.jpg,1,474f6824218d20e1d24916835ef4db2a,361,True,True,1
+Abnormal(Ulcer),477.jpg,1,ab603eb1d448093e66df8d5b80e7ba49,381,True,True,0
+Abnormal(Ulcer),478.jpg,1,3ad7e27e7278ecebe59df25154bfd85e,363,True,True,0
+Abnormal(Ulcer),479.jpg,1,5d53caf51d1284544831ccb7e762b99a,364,True,True,3
+Abnormal(Ulcer),48.jpg,1,c164c46bba24d16eb2710b928412701a,994,False,False,0
+Abnormal(Ulcer),480.jpg,1,5a042e759e9f9ddaa3d6d812a40ea832,366,True,True,0
+Abnormal(Ulcer),481.jpg,1,4e8ee564da5d93ed6e8aac3124a2694b,917,True,True,2
+Abnormal(Ulcer),482.jpg,1,71e070bff1b622ed0adc940888b207b1,917,True,True,2
+Abnormal(Ulcer),483.jpg,1,1778cefc3f92a657902d6e20e8837af7,404,True,True,3
+Abnormal(Ulcer),484.jpg,1,84ed6b02728c1629789adff58978af3e,404,True,True,3
+Abnormal(Ulcer),485.jpg,1,f3450e1b344423e0338d4fa81b8eb5f3,370,True,True,4
+Abnormal(Ulcer),486.jpg,1,157ca50676aea3a8bd3a0352cef9d6a4,372,True,True,4
+Abnormal(Ulcer),487.jpg,1,c1ac18eb00419d0f6800cc0e85a70e52,396,True,True,1
+Abnormal(Ulcer),488.jpg,1,893ef52faa0041698687833d26dbedaf,377,True,True,3
+Abnormal(Ulcer),489.jpg,1,6b38e320241983e9eb4f0a05198ad330,378,True,True,2
+Abnormal(Ulcer),49.jpg,1,7b95545e012cbcf2ce5f52034bbd88d4,29,True,True,2
+Abnormal(Ulcer),490.jpg,1,2e5867f30db297f1b8cc84a03a579f96,424,True,True,4
+Abnormal(Ulcer),491.jpg,1,8bfdeb363b904f090d48e62fda4430de,424,True,True,4
+Abnormal(Ulcer),492.jpg,1,9c8c0ae8d043fe24a0278d3d34b2762c,381,True,True,0
+Abnormal(Ulcer),493.jpg,1,f76ebd22440cb7d3df907fef0c5856ae,931,True,True,1
+Abnormal(Ulcer),494.jpg,1,fe3f6da3f0ad7304a6999dbcaced5d2f,931,True,True,1
+Abnormal(Ulcer),495.jpg,1,9fc65b2b292845a00b0219c150af0011,931,True,True,1
+Abnormal(Ulcer),496.jpg,1,aa3c8aeac9a35ef8be580117d0e76fcb,384,True,True,4
+Abnormal(Ulcer),497.jpg,1,32bf3e4405a9bd759b119f3ae3513956,386,True,True,2
+Abnormal(Ulcer),498.jpg,1,7b5575468976370d7423ccf02119f9e7,394,True,True,3
+Abnormal(Ulcer),499.jpg,1,25ed5f33bb7d3708294c52bb00dda70a,406,True,True,1
+Abnormal(Ulcer),5.jpg,1,1b36a4a77d48ef7f4ee565b0d5e04413,533,True,True,2
+Abnormal(Ulcer),50.jpg,1,6a6331a5e5b71f9bf14007b65bdd4df2,39,True,True,2
+Abnormal(Ulcer),500.jpg,1,ff0da18fa697c75879e7261ebc84139b,406,True,True,1
+Abnormal(Ulcer),501.jpg,1,09e9d83ea4586015a54940fdf140d742,396,True,True,1
+Abnormal(Ulcer),502.jpg,1,954e606c481ce32722468dcd52bbd5c9,406,True,True,1
+Abnormal(Ulcer),503.jpg,1,24cd9beafbc9da649bdcb738f7ff8bd7,404,True,True,3
+Abnormal(Ulcer),504.jpg,1,327a7f9b8983d7e2c84fa543ddf2594e,406,True,True,1
+Abnormal(Ulcer),505.jpg,1,51c5be608b574d5cedd2e93ddebc56be,406,True,True,1
+Abnormal(Ulcer),506.jpg,1,94c62c36eccfd6d8d93aeeed8dc1f99d,407,True,True,4
+Abnormal(Ulcer),507.jpg,1,725eeab80f132b55c93fc208d8106037,366,True,True,0
+Abnormal(Ulcer),508.jpg,1,922225f1932160512bf77a6b702b330e,410,True,True,1
+Abnormal(Ulcer),509.jpg,1,47c6ec7674ff55e6a44ffe67a21273a0,416,True,True,2
+Abnormal(Ulcer),51.jpg,1,3a5e992ed0a4a2ffd47e20d8e4cdb20c,39,True,True,2
+Abnormal(Ulcer),510.jpg,1,2bdf1d2cacb6e224e3a754a3188a96ce,399,True,True,1
+Abnormal(Ulcer),511.jpg,1,741afa670cdf9540d4470c106e349685,417,True,True,1
+Abnormal(Ulcer),512.jpg,1,add8f897dedc5b0582dc1789b005049f,931,True,True,1
+Abnormal(Ulcer),513.jpg,1,1e4acdee71b727f027bfd431505bb69d,433,True,True,0
+Abnormal(Ulcer),52.jpg,1,b3a1789840439a363de7c2bcb7e3628e,999,True,True,4
+Abnormal(Ulcer),53.jpg,1,fb7da99ecb2de82db9d42d9549316fb8,954,False,True,0
+Abnormal(Ulcer),54.jpg,1,a3614d963d41ebfe5a642a2f08a06d56,481,False,True,0
+Abnormal(Ulcer),55.jpg,1,93a3fb368047fc886d7e1f7422862ae5,958,False,False,2
+Abnormal(Ulcer),56.jpg,1,45f7e7b86de4431453e400ab7b322a47,957,False,True,1
+Abnormal(Ulcer),57.jpg,1,067ef124d6dae1208792b24e547d8c15,958,False,True,2
+Abnormal(Ulcer),58.jpg,1,0dc48736800cac26925845d71dff0ec7,476,True,False,2
+Abnormal(Ulcer),59.jpg,1,23635429c34036de019f9def59d23fd9,476,True,True,2
+Abnormal(Ulcer),6.jpg,1,b3f47dde35dab305e0385a87b6a86012,75,True,True,3
+Abnormal(Ulcer),60.jpg,1,5837bfe58870ce87756af74233d10fd4,477,True,True,0
+Abnormal(Ulcer),61.jpg,1,d82d87573b357e1a9347b85c13d54817,967,True,True,4
+Abnormal(Ulcer),62.jpg,1,a2f7c3f2365cd999e7dd4965593966e3,967,True,True,4
+Abnormal(Ulcer),63.jpg,1,a46f609a86c3592b01b2d17f151beb1c,967,True,True,4
+Abnormal(Ulcer),64.jpg,1,834e9cfe57d489a857d53760a561cc1f,967,True,True,4
+Abnormal(Ulcer),65.jpg,1,a615390290fd9b4d2a9856a4afb2afab,967,False,True,4
+Abnormal(Ulcer),66.jpg,1,729e32257d1fd504f998be67312e8f13,967,True,True,4
+Abnormal(Ulcer),67.jpg,1,ad320ba63c3399029cbfd8a8df1be352,967,False,True,4
+Abnormal(Ulcer),68.jpg,1,0b5ac2942ba109eeca3a04b046aebf20,967,True,True,4
+Abnormal(Ulcer),69.jpg,1,de5dff25524d466311cefb3854374d2b,967,True,True,4
+Abnormal(Ulcer),7.jpg,1,349f8d06b80622b52b1b34a31003a713,1394,True,True,1
+Abnormal(Ulcer),70.jpg,1,3151e99e020c856ea0c3e7a45ed5c132,967,True,True,4
+Abnormal(Ulcer),71.jpg,1,d19fdd593ca5b6bffa350d06eb25b765,980,True,True,4
+Abnormal(Ulcer),72.jpg,1,6f361388b7b731c40cba36308e1afbc7,980,True,True,4
+Abnormal(Ulcer),73.jpg,1,746c12b291c382fecd562b2eb4415104,980,True,True,4
+Abnormal(Ulcer),74.jpg,1,69aeea5f2e7c309632b019099fa35403,980,False,True,4
+Abnormal(Ulcer),75.jpg,1,9035a1be0229b806563fd77f1b30a772,980,True,False,4
+Abnormal(Ulcer),76.jpg,1,20dcc852d5c4352fbbc816f038985fd3,980,True,True,4
+Abnormal(Ulcer),77.jpg,1,ddb7702c6b2d2856b0937d22e8faf3be,980,True,True,4
+Abnormal(Ulcer),78.jpg,1,cb81ce27afd6fa81bcabe90d5315ce30,480,True,True,3
+Abnormal(Ulcer),79.jpg,1,438fe1ff64af4a72f9a9b6d7e55b5406,471,True,True,3
+Abnormal(Ulcer),8.jpg,1,6cee39f34d0d69ac27d1ff1c43fb601b,526,True,True,1
+Abnormal(Ulcer),80.jpg,1,2900e7c1eda27df47272dc685ed109c2,471,True,True,3
+Abnormal(Ulcer),81.jpg,1,e69604f8285e1c810d1716bedb75f0fb,987,True,True,3
+Abnormal(Ulcer),82.jpg,1,dad86e386172a325145ace938ba98a32,987,True,True,3
+Abnormal(Ulcer),83.jpg,1,b166d8cd96d9807524cfe276255d3fe4,987,True,True,3
+Abnormal(Ulcer),84.jpg,1,eb2d5b942085aeb2d1716f6fd33e4db0,987,True,True,3
+Abnormal(Ulcer),85.jpg,1,71d1916bae22836e7b26fbe56cce630c,987,True,True,3
+Abnormal(Ulcer),86.jpg,1,7fe6bd95f1fe2933f656b8afa7268282,987,True,True,3
+Abnormal(Ulcer),87.jpg,1,bb20bbcc01844a153caa277f5c635342,987,True,False,3
+Abnormal(Ulcer),88.jpg,1,d01ab44451c51c8d0a4c3451a8a1f01e,987,True,True,3
+Abnormal(Ulcer),89.jpg,1,85b1226b373707d32ca475d36d362f6f,987,True,True,3
+Abnormal(Ulcer),9.jpg,1,77f8dd29632963659ab37378fcd8f75b,994,False,True,0
+Abnormal(Ulcer),90.jpg,1,892cbc7354970a286d22a0da102be11d,999,False,True,4
+Abnormal(Ulcer),91.jpg,1,f5459ccae65258e6b6d300cc5f141686,999,True,True,4
+Abnormal(Ulcer),92.jpg,1,793bb39a6e010edddc99291e0bf40262,999,False,True,4
+Abnormal(Ulcer),93.jpg,1,3a4587c539fee0a56527928b8c4f746c,999,False,True,4
+Abnormal(Ulcer),94.jpg,1,be621fa3fb92b57f88edb39c58f84763,999,False,True,4
+Abnormal(Ulcer),95.jpg,1,97b674c40286decec0e815f1df568a8f,999,False,True,4
+Abnormal(Ulcer),96.jpg,1,82f56fa33436dddac71746d4a35c40a4,1001,False,True,1
+Abnormal(Ulcer),97.jpg,1,8027fefcd84c363af4157a843e5fc344,485,True,True,3
+Abnormal(Ulcer),98.jpg,1,4491ed95415a881f5356cc47136169e2,485,True,True,3
+Abnormal(Ulcer),99.jpg,1,34d398418a4a0becfa707a03149d1e9a,485,True,True,3
+Normal(Healthy skin),1.jpg,0,876f49694c75bb022e38044e44329b1c,476,True,True,2
+Normal(Healthy skin),10.jpg,0,b248a837900c94d377c4482d96889c0e,1344,True,True,0
+Normal(Healthy skin),100.jpg,0,56832ba808814aea0ea329316b1c97e8,1539,True,True,0
+Normal(Healthy skin),101.jpg,0,80dd3f7521fe823c089d726cfc95a9fb,1317,True,True,0
+Normal(Healthy skin),102.jpg,0,1e320ff1188eda43f5832ece8b821e83,1317,True,True,0
+Normal(Healthy skin),103.jpg,0,80a4c5c919b8adac1a9ba283fb945633,1317,True,True,0
+Normal(Healthy skin),104.jpg,0,fc383488e05a8c90a6c75dda25c29cde,1317,True,True,0
+Normal(Healthy skin),105.jpg,0,4c5167872dd54b489cc7298d9a0aefe1,1317,False,True,0
+Normal(Healthy skin),106.jpg,0,c377aa7230b3b88cfa8f4c57d78f3248,1317,False,True,0
+Normal(Healthy skin),107.jpg,0,f29b45cd8e19bcc5fe6ee157a801a354,1317,False,True,0
+Normal(Healthy skin),108.jpg,0,ce8fec50ca78db8b811c06a0b5021f80,1295,False,True,2
+Normal(Healthy skin),109.jpg,0,18d63b21ce80495f3f667ff499e77e8d,1295,True,True,2
+Normal(Healthy skin),11.jpg,0,4a51c60ea83c5dcb5fb7bf3e20e0b0f7,1117,False,True,3
+Normal(Healthy skin),110.jpg,0,52f091913bd67710a4f84845e5c27f81,1295,False,True,2
+Normal(Healthy skin),111.jpg,0,7e828f410f8e307b2a1941d9357c7182,1348,False,True,4
+Normal(Healthy skin),112.jpg,0,49cb8e73c681d90cbfb03ab80bf7cafd,1348,False,True,4
+Normal(Healthy skin),113.jpg,0,8ffa4507f8c89a9f1a15be34e11ba5f1,1304,False,True,4
+Normal(Healthy skin),114.jpg,0,ff4fa67438473ee4929a6c82684b7375,1022,False,True,2
+Normal(Healthy skin),115.jpg,0,b7d51f5669b91599a175c6d6926f1b8e,1208,False,True,3
+Normal(Healthy skin),116.jpg,0,969264b783d076230655b131580afc6c,1208,False,True,3
+Normal(Healthy skin),117.jpg,0,279cbbe3ef0bfcf02244d15d9e80e435,1025,False,True,4
+Normal(Healthy skin),118.jpg,0,c921504059f37c1ab1da88d139f1c24f,88,True,True,3
+Normal(Healthy skin),119.jpg,0,d249ad272697a52074ffee6a639a7667,1027,False,True,3
+Normal(Healthy skin),12.jpg,0,ecbf03dbc719e5b55b03260da6db841d,1117,False,True,3
+Normal(Healthy skin),120.jpg,0,585555aecea5b5cda22ed1fcedc312a6,98,True,True,3
+Normal(Healthy skin),121.jpg,0,6ed0fba9cadc415187d42479e35857e2,1030,False,True,3
+Normal(Healthy skin),122.jpg,0,6a3f78ea8ad04493ca66174ba52326a0,1031,False,True,2
+Normal(Healthy skin),123.jpg,0,27dc04ddb4344a69d6418f899c3e1c4e,1208,False,True,3
+Normal(Healthy skin),124.jpg,0,7c68d933e051873c80f65fa7fd347b8d,1374,False,True,3
+Normal(Healthy skin),125.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,True,3
+Normal(Healthy skin),126.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,True,3
+Normal(Healthy skin),127.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,True,1
+Normal(Healthy skin),128.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),129.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,True,0
+Normal(Healthy skin),13.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,True,0
+Normal(Healthy skin),130.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,False,0
+Normal(Healthy skin),131.jpg,0,ac7e4115fe78f5678176f55c5ca1689c,1365,False,True,4
+Normal(Healthy skin),132.jpg,0,1708d59f298d7712be1258b7d8d5a223,1208,False,True,3
+Normal(Healthy skin),133.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),134.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,True,1
+Normal(Healthy skin),135.jpg,0,60bbbcd9ca0a2968fa967f665f089355,1045,False,True,4
+Normal(Healthy skin),136.jpg,0,a9d828d5a693d961fe0be188727dcff1,1046,False,True,0
+Normal(Healthy skin),137.jpg,0,0250605e455ad27ace574679fb46d10b,1047,False,True,2
+Normal(Healthy skin),138.jpg,0,c426a70e7917093f82f1b235613b680b,1497,False,True,4
+Normal(Healthy skin),139.jpg,0,4718df9e734418203b4d02c9dd5c5303,1049,False,True,1
+Normal(Healthy skin),14.jpg,0,d801b67ab3fea3f91790c5eda72d76d9,1050,False,True,4
+Normal(Healthy skin),140.jpg,0,52dacf1eb4c5d5064521d0875f9c5df3,1497,False,True,4
+Normal(Healthy skin),141.jpg,0,dd12e8f5a5071cfd0c255ba99c4730b7,1052,False,True,0
+Normal(Healthy skin),142.jpg,0,b5fa8fa430ec75a0eaaa9a21dc5ad71c,1053,False,True,3
+Normal(Healthy skin),143.jpg,0,0c063af92d42044316084cc93762936a,1054,False,True,2
+Normal(Healthy skin),144.jpg,0,88cba4cf9bbfc8753041739a9376e42e,56,False,True,1
+Normal(Healthy skin),145.jpg,0,585f69ae43a567b34cc265384264a66d,1295,True,True,2
+Normal(Healthy skin),146.jpg,0,6ca2dced2fdb5c07c6d2f3a6571e147e,1539,True,True,0
+Normal(Healthy skin),147.jpg,0,9a3dc623bad95e1b385441c8b80f786c,1304,False,True,4
+Normal(Healthy skin),148.jpg,0,4c5167872dd54b489cc7298d9a0aefe1,1317,False,False,0
+Normal(Healthy skin),149.jpg,0,c377aa7230b3b88cfa8f4c57d78f3248,1317,False,False,0
+Normal(Healthy skin),15.jpg,0,03680bb698bb9c07cae4d5ce5e4edba2,1122,False,True,1
+Normal(Healthy skin),150.jpg,0,8ffa4507f8c89a9f1a15be34e11ba5f1,1304,False,False,4
+Normal(Healthy skin),151.jpg,0,28b182e7d2f820047fc831323a2fa190,1063,False,True,4
+Normal(Healthy skin),152.jpg,0,20906b53de451b2f2c83547ad9d4279f,1064,False,True,4
+Normal(Healthy skin),153.jpg,0,c6415071b4b43fc1198a554dc02e1a4a,1394,True,True,1
+Normal(Healthy skin),154.jpg,0,38cf50c949ddc34e039725908f41d8b1,1394,True,True,1
+Normal(Healthy skin),155.jpg,0,404d7247583467e49258c0c473570ca9,1394,False,True,1
+Normal(Healthy skin),156.jpg,0,5c2c6b16acae6df81e2a0db0a67acfb2,1394,False,True,1
+Normal(Healthy skin),157.jpg,0,50fac20684fad57734215c1dabeaea5b,1069,False,True,0
+Normal(Healthy skin),158.jpg,0,d330e3840dfec10c0d63e9ea571a7db8,1070,False,True,2
+Normal(Healthy skin),159.jpg,0,c9162b55f575e01b0bef24a308994305,1073,False,True,2
+Normal(Healthy skin),16.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,False,3
+Normal(Healthy skin),160.jpg,0,cbb01c950dbce4126d0f0c4156be09c2,1073,False,True,2
+Normal(Healthy skin),161.jpg,0,537fb8e91f23514a897212a30594ba98,586,True,True,0
+Normal(Healthy skin),162.jpg,0,28bc35bb9dcb6d9697a249792ec4b671,1075,False,True,0
+Normal(Healthy skin),163.jpg,0,65cab7a32aae0ed8afbbedf8dccf3e3d,1076,False,True,3
+Normal(Healthy skin),164.jpg,0,e80e664affc4ee437369c62057530813,1344,True,True,0
+Normal(Healthy skin),165.jpg,0,bb9adc1ef6a42632e07be42655ce8e3e,1344,True,True,0
+Normal(Healthy skin),166.jpg,0,891fcfb46001b81003047352129ed370,1344,False,True,0
+Normal(Healthy skin),167.jpg,0,6abf8e2161208d44cb2b5575dca2819b,1344,True,True,0
+Normal(Healthy skin),168.jpg,0,6cddfc8e05d64e7a07dc8009b3ce7944,1344,True,True,0
+Normal(Healthy skin),169.jpg,0,7a0c94fe45847cff4008920d63776d8e,1344,True,True,0
+Normal(Healthy skin),17.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),170.jpg,0,12e2129fa819a3b12db09e36d5793274,134,True,True,2
+Normal(Healthy skin),171.jpg,0,d83ec13beb27179842a788422fdd07f6,1085,False,True,4
+Normal(Healthy skin),172.jpg,0,7d2273127cce2864fe11cd6603cfc3a9,1086,False,True,0
+Normal(Healthy skin),173.jpg,0,a068f06f0e88af9b579b12b7e46aa0be,1087,False,True,1
+Normal(Healthy skin),174.jpg,0,036204ab556788e0db0a51653de3caaa,1088,False,True,2
+Normal(Healthy skin),175.jpg,0,c852376d24df12974e3544b95a8479ef,1089,False,True,3
+Normal(Healthy skin),176.jpg,0,c601896444423b829f265f26597b9571,1090,False,True,2
+Normal(Healthy skin),177.jpg,0,73fb032f6b192c870fbab99bee833812,1091,False,True,2
+Normal(Healthy skin),178.jpg,0,38f90e8b2b059d72934e587f288a720b,1371,False,True,0
+Normal(Healthy skin),179.jpg,0,e09640ac5ff3bb5424cb5a6bbf288079,1371,True,True,0
+Normal(Healthy skin),18.jpg,0,2844121954d7c35c39d3348f188fa29e,308,True,True,1
+Normal(Healthy skin),180.jpg,0,3b07b7223f26095e8dc67f69abb75a77,1371,False,True,0
+Normal(Healthy skin),181.jpg,0,4f636003820534cbe0eba9ef3446ed3d,1371,False,True,0
+Normal(Healthy skin),182.jpg,0,70b1edb2686920364cd1835671998ee9,1371,False,True,0
+Normal(Healthy skin),183.jpg,0,e3101b5cf290a5fe907c88c1ea7c6b05,1371,False,True,0
+Normal(Healthy skin),184.jpg,0,17802b0777a85bcf4e221e19e2a73d05,1099,False,True,3
+Normal(Healthy skin),185.jpg,0,2133386221bd059546bbb0ca4a702df9,1402,False,True,2
+Normal(Healthy skin),186.jpg,0,bcfbf11716628f02dc99eaf38680372a,1402,False,True,2
+Normal(Healthy skin),187.jpg,0,4bfb837fe1fbb2b90f1bf9ccc4c02952,1402,True,True,2
+Normal(Healthy skin),188.jpg,0,9f2de3e84363424749a6900883ad4aa5,1402,False,True,2
+Normal(Healthy skin),189.jpg,0,15e04dd09763f9af35264a82b8353933,1402,True,True,2
+Normal(Healthy skin),19.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),190.jpg,0,071529ffe64153184d31026f85ef0da7,1375,False,True,2
+Normal(Healthy skin),191.jpg,0,b1c5715ccce3425afeeda0cce4bb58da,1407,False,True,2
+Normal(Healthy skin),192.jpg,0,0a5a39c04e45b1e432c9d8a9ff5ad2ff,1375,False,True,2
+Normal(Healthy skin),193.jpg,0,fd0122987dc5c2990d11bd958c9b1c91,1407,False,True,2
+Normal(Healthy skin),194.jpg,0,9c3b8324687c8e04c0ab491a5cf2f02d,1375,False,True,2
+Normal(Healthy skin),195.jpg,0,08fceaa8ce149997eaa29f8025600e2b,1383,False,True,0
+Normal(Healthy skin),196.jpg,0,4b50e90f6bea7f1570eca1eaf40f4d80,1383,False,True,0
+Normal(Healthy skin),197.jpg,0,3be55d0965493c4754d46678da46e5c3,743,True,True,2
+Normal(Healthy skin),198.jpg,0,f5a4e433776eba3faad8fdbd37a70e9c,151,False,True,1
+Normal(Healthy skin),199.jpg,0,6f058e4b4e2e0be0862be8749587349a,151,False,True,1
+Normal(Healthy skin),2.jpg,0,6ed0fba9cadc415187d42479e35857e2,1030,False,False,3
+Normal(Healthy skin),20.jpg,0,a82bc66cc1e2bcd9eff8fa130485f65c,1117,False,True,3
+Normal(Healthy skin),200.jpg,0,a6578115b19a060e42477d3653939b12,151,True,True,1
+Normal(Healthy skin),201.jpg,0,022c668dc8ee67b00a3c937beed705df,1428,True,True,3
+Normal(Healthy skin),202.jpg,0,92b48987c6bfc1a5fc556ca8ea84119b,1428,True,True,3
+Normal(Healthy skin),203.jpg,0,c1c4d417a6d7602257b9f32d56aa44d2,1428,True,True,3
+Normal(Healthy skin),204.jpg,0,2e6993d9421a70e75677f0f83bf30145,1122,False,True,1
+Normal(Healthy skin),205.jpg,0,471a02925fa003063ac2f10a1442b405,1123,False,True,3
+Normal(Healthy skin),206.jpg,0,009f4d8a375b04e4f495f2d30bbf4881,1365,False,True,4
+Normal(Healthy skin),207.jpg,0,1925f65421bfacef039407e7dfd9b26d,1365,False,True,4
+Normal(Healthy skin),208.jpg,0,afa6dab1e69fe649e5f3ee6529bb961a,1365,False,True,4
+Normal(Healthy skin),209.jpg,0,09ad9eda76fa3bcd8514d5226dde5e21,1365,False,True,4
+Normal(Healthy skin),21.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),210.jpg,0,2b347c0a036c4670fb20c11b2c4f8b04,1405,True,True,1
+Normal(Healthy skin),211.jpg,0,50c52599737a1e44c7f00ee61bafa1ec,4,False,True,4
+Normal(Healthy skin),212.jpg,0,0fc1922422e6e98e83a61a1a11e981f4,4,False,True,4
+Normal(Healthy skin),213.jpg,0,dd60a6b4110b1c14e364ba40eab82b9c,4,True,True,4
+Normal(Healthy skin),214.jpg,0,e4d19bebfcb93a4dff748ee1ec887dc4,4,True,True,4
+Normal(Healthy skin),215.jpg,0,aa22f1cc3ae3e6d85eb110b9ac37f6c0,1134,False,True,3
+Normal(Healthy skin),216.jpg,0,14fc09715648e61855e165573be76778,1135,False,True,4
+Normal(Healthy skin),217.jpg,0,5ce6c2d12f10609b1eb2bbbf48bfc901,1136,False,True,3
+Normal(Healthy skin),218.jpg,0,79f13c852f2cdf3effbdd610944d554b,1137,False,True,1
+Normal(Healthy skin),219.jpg,0,2c549a29b63c04a4434c927d0a1e809e,191,True,True,4
+Normal(Healthy skin),22.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,False,0
+Normal(Healthy skin),220.jpg,0,684496eea57677366cb07c0bbaa001fe,191,True,True,4
+Normal(Healthy skin),221.jpg,0,40e481e19003a2b12560624528a510bf,1145,False,True,2
+Normal(Healthy skin),222.jpg,0,661df2ef9fc7f35a7eb887144bcffaf6,1145,False,True,2
+Normal(Healthy skin),223.jpg,0,864ecb25cd57006169fccaf7004c831d,1145,False,True,2
+Normal(Healthy skin),224.jpg,0,4317a3482d3810b59ff7c272f1e64e39,1145,False,True,2
+Normal(Healthy skin),225.jpg,0,c3893045fc12c1bcfff61c98b947651b,1145,False,True,2
+Normal(Healthy skin),226.jpg,0,5b21a4bccfe35d674c360b254cc797b6,1402,True,True,2
+Normal(Healthy skin),227.jpg,0,7a9ad2c6a408d1525d1f023713222c2c,1432,True,True,4
+Normal(Healthy skin),228.jpg,0,c69ac0e8037c71765029edb54f3147d8,1432,True,True,4
+Normal(Healthy skin),229.jpg,0,d536cdfc1ae23210ba62d34598637356,1432,True,True,4
+Normal(Healthy skin),23.jpg,0,b248a837900c94d377c4482d96889c0e,1344,True,False,0
+Normal(Healthy skin),230.jpg,0,7aa635a9dc752bdfcae9539cee86db21,1464,True,True,1
+Normal(Healthy skin),231.jpg,0,bd664e3deac07d3f9802a5b1f2ebd249,1464,True,True,1
+Normal(Healthy skin),232.jpg,0,1e201bff2b42e8d25b7c0e892ef415c1,1153,False,True,2
+Normal(Healthy skin),233.jpg,0,6148d4d0e62d818d69ee7119089035c4,1154,False,True,4
+Normal(Healthy skin),234.jpg,0,765b631e9fb2e5871ea216278a377324,1155,False,True,4
+Normal(Healthy skin),235.jpg,0,a5e30949c7833abe5ef0757066463bee,1437,False,True,3
+Normal(Healthy skin),236.jpg,0,cc48c61f90e2c8cf4f2f262b9a4ae02b,1437,False,True,3
+Normal(Healthy skin),237.jpg,0,d4dfaa21640944dfdbd91d263e4299f1,1437,False,True,3
+Normal(Healthy skin),238.jpg,0,15d0c4b220fe6ee4a85977141b24093c,1437,False,True,3
+Normal(Healthy skin),239.jpg,0,af47237aeb4ba2fc0938418bdf88938a,1160,False,True,0
+Normal(Healthy skin),24.jpg,0,ecbf03dbc719e5b55b03260da6db841d,1117,False,False,3
+Normal(Healthy skin),240.jpg,0,012a9c1992ae85ae82ba6143eb61f402,1484,False,True,2
+Normal(Healthy skin),241.jpg,0,a1553ae5fcc3c61cd94201bf9de230fb,1484,False,True,2
+Normal(Healthy skin),242.jpg,0,bd098642813c1b77b11f2e4147848eb1,1164,False,True,1
+Normal(Healthy skin),243.jpg,0,49338d6e3c2e857eaeb2d9dc6bfb9e85,1165,False,True,1
+Normal(Healthy skin),244.jpg,0,fb43a45b6db0ae5a78bd430cc82e491c,1166,False,True,2
+Normal(Healthy skin),245.jpg,0,c139fa3e4bc17af7217959a3873ad65c,1167,False,True,2
+Normal(Healthy skin),246.jpg,0,e796f5cf7cbb8bcf86877fc5fe80e03e,1168,False,True,0
+Normal(Healthy skin),247.jpg,0,c92be4325c586f9749e153464a7924d0,1169,False,True,0
+Normal(Healthy skin),248.jpg,0,faf851cbc5b318e591b777ec714622d4,1170,False,True,2
+Normal(Healthy skin),249.jpg,0,d96dbef0d5a4ac225ee52deb9117c65e,1171,False,True,0
+Normal(Healthy skin),25.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,False,0
+Normal(Healthy skin),250.jpg,0,a17813d251ffcc3fe1ac32f9bd9d16fc,1173,False,True,2
+Normal(Healthy skin),251.jpg,0,26181f1ed2bfd3a613957c913b2e11a8,1174,False,True,1
+Normal(Healthy skin),252.jpg,0,d412b068d1fd9154f18a3f77f1cb9924,1175,False,True,4
+Normal(Healthy skin),253.jpg,0,21a9b1ac125e766a594c5bd859bfcfa0,262,True,True,0
+Normal(Healthy skin),254.jpg,0,8e80a04972ff2acf968ffd1e05654694,263,True,True,2
+Normal(Healthy skin),255.jpg,0,5e8f60e0ce6bc18d14b0cd2e558b2b9d,263,True,True,2
+Normal(Healthy skin),256.jpg,0,61c9c53cb6cc1fc1c7b7ff5fdac29809,1179,False,True,2
+Normal(Healthy skin),257.jpg,0,4aea499024ea2d4bc8688380f1593f17,1442,False,True,3
+Normal(Healthy skin),258.jpg,0,7a2c4f1ddf10c23dcba23cad827eba66,1442,False,True,3
+Normal(Healthy skin),259.jpg,0,f7ef4593ba268a1af437ad12fcc00d57,1442,False,True,3
+Normal(Healthy skin),26.jpg,0,1708d59f298d7712be1258b7d8d5a223,1208,False,False,3
+Normal(Healthy skin),260.jpg,0,b9d385bab0dd2a3833ad9582cd3c68f7,1184,False,True,1
+Normal(Healthy skin),261.jpg,0,40b6cf19231375bce53fad3f5862bffa,1185,False,True,1
+Normal(Healthy skin),262.jpg,0,452675be88d1f3384718ed5f9b4baf91,1186,False,True,4
+Normal(Healthy skin),263.jpg,0,aca69e3ad78bbbd7d1696f1c17df89d4,286,True,True,0
+Normal(Healthy skin),264.jpg,0,f77cabcd605e982fb5b79dc11b781969,1188,False,True,3
+Normal(Healthy skin),265.jpg,0,3e7834e4c58baa76d08ec57fed8a6c10,292,True,True,2
+Normal(Healthy skin),266.jpg,0,8d30aa5e7218915f463851a71a48f2c2,1190,False,True,4
+Normal(Healthy skin),267.jpg,0,67b4e5b82375d3e60db52a6adf482288,1191,False,True,3
+Normal(Healthy skin),268.jpg,0,745ded43ebf45a033e165b81fee4157a,1486,False,True,2
+Normal(Healthy skin),269.jpg,0,d9b6d34372de66631a47008e447ffb2c,1193,False,True,3
+Normal(Healthy skin),27.jpg,0,676312f7ef98bde75b21d8eedb9fccca,4,True,True,4
+Normal(Healthy skin),270.jpg,0,b9d22bb47534248832d87671232b5275,1486,False,True,2
+Normal(Healthy skin),271.jpg,0,42fefa591aca156ad51d7ee2a3f5ddbd,1448,False,True,3
+Normal(Healthy skin),272.jpg,0,7b15469c029062142ce4986d7457bf34,1448,False,True,3
+Normal(Healthy skin),273.jpg,0,75ebbe44a678ead3647a241c020641ac,269,True,True,1
+Normal(Healthy skin),274.jpg,0,0050c4e2d8d82d99589bce8abac7ea49,1199,False,True,0
+Normal(Healthy skin),275.jpg,0,af5e182a1e35c2148a12bc1bb4d2509b,849,True,True,0
+Normal(Healthy skin),276.jpg,0,a48863d8f6ba2cde6a0ea2d363293f1b,1491,False,True,4
+Normal(Healthy skin),277.jpg,0,87a40ab1972c7f6177ac6bbb73fd584c,1491,False,True,4
+Normal(Healthy skin),278.jpg,0,a3c872471ebe10674bbc95c4b5b5e663,1445,False,True,4
+Normal(Healthy skin),279.jpg,0,e21d19c589892728c4dce39114aa9682,1445,False,True,4
+Normal(Healthy skin),28.jpg,0,36bb190d70a93d25d14e287a5a2e7946,1405,True,True,1
+Normal(Healthy skin),280.jpg,0,c755f84674a6e2852a73a5b6dc1eac58,1206,False,True,2
+Normal(Healthy skin),281.jpg,0,6ed0fba9cadc415187d42479e35857e2,1030,False,False,3
+Normal(Healthy skin),283.jpg,0,27dc04ddb4344a69d6418f899c3e1c4e,1208,False,False,3
+Normal(Healthy skin),284.jpg,0,6a3f78ea8ad04493ca66174ba52326a0,1031,False,False,2
+Normal(Healthy skin),285.jpg,0,7c68d933e051873c80f65fa7fd347b8d,1374,False,False,3
+Normal(Healthy skin),286.jpg,0,e5a7c44e56d6baf2192a390b6f52e8f5,1374,False,True,3
+Normal(Healthy skin),287.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),288.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,False,3
+Normal(Healthy skin),289.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,False,0
+Normal(Healthy skin),29.jpg,0,0dabc27021db14867048b060a20b0b3c,151,False,True,1
+Normal(Healthy skin),290.jpg,0,b248a837900c94d377c4482d96889c0e,1344,True,False,0
+Normal(Healthy skin),291.jpg,0,ecbf03dbc719e5b55b03260da6db841d,1117,False,False,3
+Normal(Healthy skin),292.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,False,0
+Normal(Healthy skin),293.jpg,0,03680bb698bb9c07cae4d5ce5e4edba2,1122,False,False,1
+Normal(Healthy skin),294.jpg,0,49338d6e3c2e857eaeb2d9dc6bfb9e85,1165,False,False,1
+Normal(Healthy skin),295.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),296.jpg,0,2844121954d7c35c39d3348f188fa29e,308,True,False,1
+Normal(Healthy skin),297.jpg,0,faf851cbc5b318e591b777ec714622d4,1170,False,False,2
+Normal(Healthy skin),298.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,False,3
+Normal(Healthy skin),299.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),3.jpg,0,6a3f78ea8ad04493ca66174ba52326a0,1031,False,False,2
+Normal(Healthy skin),30.jpg,0,ac7e4115fe78f5678176f55c5ca1689c,1365,False,False,4
+Normal(Healthy skin),300.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,False,0
+Normal(Healthy skin),301.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),302.jpg,0,ecbf03dbc719e5b55b03260da6db841d,1117,False,False,3
+Normal(Healthy skin),303.jpg,0,b248a837900c94d377c4482d96889c0e,1344,True,False,0
+Normal(Healthy skin),304.jpg,0,1708d59f298d7712be1258b7d8d5a223,1208,False,False,3
+Normal(Healthy skin),305.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,False,0
+Normal(Healthy skin),306.jpg,0,36bb190d70a93d25d14e287a5a2e7946,1405,True,False,1
+Normal(Healthy skin),307.jpg,0,676312f7ef98bde75b21d8eedb9fccca,4,True,False,4
+Normal(Healthy skin),308.jpg,0,ac7e4115fe78f5678176f55c5ca1689c,1365,False,False,4
+Normal(Healthy skin),309.jpg,0,0dabc27021db14867048b060a20b0b3c,151,False,False,1
+Normal(Healthy skin),31.jpg,0,03680bb698bb9c07cae4d5ce5e4edba2,1122,False,False,1
+Normal(Healthy skin),310.jpg,0,03680bb698bb9c07cae4d5ce5e4edba2,1122,False,False,1
+Normal(Healthy skin),311.jpg,0,7e3502da21f0d3fe3dff1b55509009db,1402,True,True,2
+Normal(Healthy skin),312.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),313.jpg,0,a9d828d5a693d961fe0be188727dcff1,1046,False,False,0
+Normal(Healthy skin),314 - Copy.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),314.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),315 - Copy.jpg,0,ffab68a79d846d8d43505db2dd96f6c3,1245,False,True,3
+Normal(Healthy skin),315.jpg,0,ffab68a79d846d8d43505db2dd96f6c3,1245,False,False,3
+Normal(Healthy skin),316 - Copy.jpg,0,d6c9dc8957e62e10dcc939a009e03b46,1247,False,True,1
+Normal(Healthy skin),316.jpg,0,d6c9dc8957e62e10dcc939a009e03b46,1247,False,False,1
+Normal(Healthy skin),317 - Copy.jpg,0,60bbbcd9ca0a2968fa967f665f089355,1045,False,False,4
+Normal(Healthy skin),317.jpg,0,60bbbcd9ca0a2968fa967f665f089355,1045,False,False,4
+Normal(Healthy skin),318 - Copy.jpg,0,c4c5484589e4e489c609aeb55ac94d90,1251,False,True,1
+Normal(Healthy skin),318.jpg,0,c4c5484589e4e489c609aeb55ac94d90,1251,False,False,1
+Normal(Healthy skin),319.jpg,0,d64af6f99c19e6a07dafbe38dfcf1b5e,1421,False,True,1
+Normal(Healthy skin),32.jpg,0,7e3502da21f0d3fe3dff1b55509009db,1402,True,False,2
+Normal(Healthy skin),320.jpg,0,eaee71ae7394bf767377aa7014b2f148,481,True,True,0
+Normal(Healthy skin),321 - Copy.jpg,0,51d08f83328cebe2a82c01de63032e05,1421,False,True,1
+Normal(Healthy skin),321.jpg,0,51d08f83328cebe2a82c01de63032e05,1421,False,False,1
+Normal(Healthy skin),322 - Copy.jpg,0,43f052247bd11d9f7874cf44c7a9abc0,1258,False,True,0
+Normal(Healthy skin),322.jpg,0,43f052247bd11d9f7874cf44c7a9abc0,1258,False,False,0
+Normal(Healthy skin),323 - Copy.jpg,0,2c378c01d38329bd2078169cced1700b,1260,False,True,3
+Normal(Healthy skin),323.jpg,0,2c378c01d38329bd2078169cced1700b,1260,False,False,3
+Normal(Healthy skin),324.jpg,0,2b3e1e0e1bd7d3aa297335b036151007,1262,False,True,4
+Normal(Healthy skin),325 - Copy.jpg,0,0bf881eaf5c1e57ef772ccf5233d69e5,1467,False,True,3
+Normal(Healthy skin),325.jpg,0,0bf881eaf5c1e57ef772ccf5233d69e5,1467,False,False,3
+Normal(Healthy skin),326.jpg,0,0131f5ef4fb42e6944e684d2838b3828,1467,False,True,3
+Normal(Healthy skin),327.jpg,0,c426a70e7917093f82f1b235613b680b,1497,False,False,4
+Normal(Healthy skin),328.jpg,0,0250605e455ad27ace574679fb46d10b,1047,False,False,2
+Normal(Healthy skin),329.jpg,0,43a3ca224fbde8c44d7f1bac813acbd6,1268,False,True,0
+Normal(Healthy skin),33.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),330.jpg,0,11f2111f777e648e0546b091797578f7,1270,False,True,4
+Normal(Healthy skin),331 - Copy.jpg,0,7c847bc86ee32aa7e2501753901979b9,1271,False,True,1
+Normal(Healthy skin),331.jpg,0,7c847bc86ee32aa7e2501753901979b9,1271,False,False,1
+Normal(Healthy skin),332.jpg,0,dba1f0e96caa90935240a6423f5870b8,1083,False,True,1
+Normal(Healthy skin),333.jpg,0,4718df9e734418203b4d02c9dd5c5303,1049,False,False,1
+Normal(Healthy skin),334.jpg,0,52dacf1eb4c5d5064521d0875f9c5df3,1497,False,False,4
+Normal(Healthy skin),335.jpg,0,dd12e8f5a5071cfd0c255ba99c4730b7,1052,False,False,0
+Normal(Healthy skin),336.jpg,0,478e292c6854fbebaff20d591fd24ba1,1277,False,True,1
+Normal(Healthy skin),337.jpg,0,f27cd239ca1b8d9b20f14621743f2d15,39,False,True,2
+Normal(Healthy skin),338.jpg,0,b5fa8fa430ec75a0eaaa9a21dc5ad71c,1053,False,False,3
+Normal(Healthy skin),339.jpg,0,4870ce16da2a8ce52cb0b6853f07f5e8,1280,False,True,1
+Normal(Healthy skin),34.jpg,0,2844121954d7c35c39d3348f188fa29e,308,True,False,1
+Normal(Healthy skin),340.jpg,0,0c063af92d42044316084cc93762936a,1054,False,False,2
+Normal(Healthy skin),341.jpg,0,1877a51edcc395e1abb937ce33e2c39e,1283,False,True,2
+Normal(Healthy skin),342.jpg,0,bb199a4b432822b311b66797ffc5c9f8,1519,False,True,3
+Normal(Healthy skin),343.jpg,0,717d547cae149ee2bc8228afdd278e40,1285,False,True,2
+Normal(Healthy skin),344.jpg,0,c71ff36c9044e9e61fdfb121ec284b7c,1286,False,True,2
+Normal(Healthy skin),345.jpg,0,70233f4b6c43e5008b6447fc2f2976d6,1519,False,True,3
+Normal(Healthy skin),346.jpg,0,6dbfa51faa0c6265df7263010c548436,1295,False,True,2
+Normal(Healthy skin),347.jpg,0,2f32740c8a57a218cd05813677e696ee,56,False,True,1
+Normal(Healthy skin),348.jpg,0,88cba4cf9bbfc8753041739a9376e42e,56,False,False,1
+Normal(Healthy skin),349.jpg,0,edf6ce5c5f6cb294d04f9c4b26e8a01d,56,False,True,1
+Normal(Healthy skin),35.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),350.jpg,0,b1dfc10f1e19367ffc16331f0efe19d7,1539,True,True,0
+Normal(Healthy skin),351.jpg,0,f29b45cd8e19bcc5fe6ee157a801a354,1317,False,False,0
+Normal(Healthy skin),352.jpg,0,18d63b21ce80495f3f667ff499e77e8d,1295,True,False,2
+Normal(Healthy skin),353.jpg,0,5ee0d290ba658301f009f60e14b9d9ca,1539,False,True,0
+Normal(Healthy skin),354.jpg,0,3fd2e736dff1b5a4a7566c880b0b4747,1297,False,True,3
+Normal(Healthy skin),355.jpg,0,a2a9122efdd1c2bb58ab0564634b2e3b,1298,False,True,4
+Normal(Healthy skin),356.jpg,0,9a3dc623bad95e1b385441c8b80f786c,1304,False,False,4
+Normal(Healthy skin),357.jpg,0,ff4fa67438473ee4929a6c82684b7375,1022,False,False,2
+Normal(Healthy skin),358.jpg,0,e14c8e825625e3e675f9fbb59e1e41e8,56,False,True,1
+Normal(Healthy skin),359.jpg,0,33e6e04c442af427673384ba25dbe203,1302,False,True,2
+Normal(Healthy skin),36.jpg,0,a9d828d5a693d961fe0be188727dcff1,1046,False,False,0
+Normal(Healthy skin),360.jpg,0,8ffa4507f8c89a9f1a15be34e11ba5f1,1304,False,False,4
+Normal(Healthy skin),361.jpg,0,12635215917f80623527d28594fa83d8,1519,False,True,3
+Normal(Healthy skin),362.jpg,0,ca7430cb4d5a0805feecd3a1d82405fb,1539,False,True,0
+Normal(Healthy skin),363.jpg,0,ba7c09b6c02c804b0b58082a371424e3,1539,True,True,0
+Normal(Healthy skin),364.jpg,0,6ca2dced2fdb5c07c6d2f3a6571e147e,1539,True,False,0
+Normal(Healthy skin),365.jpg,0,585f69ae43a567b34cc265384264a66d,1295,True,False,2
+Normal(Healthy skin),366.jpg,0,d44b9cc4eda7468298be124af81e9599,56,True,True,1
+Normal(Healthy skin),367.jpg,0,c377aa7230b3b88cfa8f4c57d78f3248,1317,False,False,0
+Normal(Healthy skin),368.jpg,0,dd8f7c4a8b014b4608b8edc203c212c8,1539,False,True,0
+Normal(Healthy skin),369.jpg,0,56832ba808814aea0ea329316b1c97e8,1539,True,False,0
+Normal(Healthy skin),37.jpg,0,d6c9dc8957e62e10dcc939a009e03b46,1247,False,False,1
+Normal(Healthy skin),370.jpg,0,e455e2c4f6075044adcee501efa409fd,1304,False,True,4
+Normal(Healthy skin),371.jpg,0,1e320ff1188eda43f5832ece8b821e83,1317,True,False,0
+Normal(Healthy skin),372.jpg,0,80a4c5c919b8adac1a9ba283fb945633,1317,True,False,0
+Normal(Healthy skin),373.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),374.jpg,0,b249e24842a920efbd6383eefc7e28eb,1083,False,False,1
+Normal(Healthy skin),375.jpg,0,7a413ff0eb397ab3f94768b97cdac065,1371,False,False,0
+Normal(Healthy skin),377.jpg,0,a9d828d5a693d961fe0be188727dcff1,1046,False,False,0
+Normal(Healthy skin),378.jpg,0,60bbbcd9ca0a2968fa967f665f089355,1045,False,False,4
+Normal(Healthy skin),379.jpg,0,44a5538a583dc062f864772c270ca3a4,1036,False,False,1
+Normal(Healthy skin),38.jpg,0,ffab68a79d846d8d43505db2dd96f6c3,1245,False,False,3
+Normal(Healthy skin),380.jpg,0,4c5167872dd54b489cc7298d9a0aefe1,1317,False,False,0
+Normal(Healthy skin),381.jpg,0,d249ad272697a52074ffee6a639a7667,1027,False,False,3
+Normal(Healthy skin),382.jpg,0,6a3f78ea8ad04493ca66174ba52326a0,1031,False,False,2
+Normal(Healthy skin),383.jpg,0,0c063af92d42044316084cc93762936a,1054,False,False,2
+Normal(Healthy skin),384.jpg,0,279cbbe3ef0bfcf02244d15d9e80e435,1025,False,False,4
+Normal(Healthy skin),385.jpg,0,b7d51f5669b91599a175c6d6926f1b8e,1208,False,False,3
+Normal(Healthy skin),386.jpg,0,4718df9e734418203b4d02c9dd5c5303,1049,False,False,1
+Normal(Healthy skin),387.jpg,0,0250605e455ad27ace574679fb46d10b,1047,False,False,2
+Normal(Healthy skin),389.jpg,0,1708d59f298d7712be1258b7d8d5a223,1208,False,False,3
+Normal(Healthy skin),39.jpg,0,60bbbcd9ca0a2968fa967f665f089355,1045,False,False,4
+Normal(Healthy skin),390.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,False,3
+Normal(Healthy skin),391.jpg,0,52f091913bd67710a4f84845e5c27f81,1295,False,False,2
+Normal(Healthy skin),392.jpg,0,49cb8e73c681d90cbfb03ab80bf7cafd,1348,False,False,4
+Normal(Healthy skin),393.jpg,0,585f69ae43a567b34cc265384264a66d,1295,True,False,2
+Normal(Healthy skin),394.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),395.jpg,0,88cba4cf9bbfc8753041739a9376e42e,56,False,False,1
+Normal(Healthy skin),396.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),397.jpg,0,dd12e8f5a5071cfd0c255ba99c4730b7,1052,False,False,0
+Normal(Healthy skin),398.jpg,0,27dc04ddb4344a69d6418f899c3e1c4e,1208,False,False,3
+Normal(Healthy skin),399.jpg,0,bb9adc1ef6a42632e07be42655ce8e3e,1344,True,False,0
+Normal(Healthy skin),4.jpg,0,27dc04ddb4344a69d6418f899c3e1c4e,1208,False,False,3
+Normal(Healthy skin),40.jpg,0,b848ef819e92dc55f46e39e7d87f41ba,1346,False,True,1
+Normal(Healthy skin),400.jpg,0,c9162b55f575e01b0bef24a308994305,1073,False,False,2
+Normal(Healthy skin),401.jpg,0,7e828f410f8e307b2a1941d9357c7182,1348,False,False,4
+Normal(Healthy skin),402.jpg,0,b5fa8fa430ec75a0eaaa9a21dc5ad71c,1053,False,False,3
+Normal(Healthy skin),403.jpg,0,d330e3840dfec10c0d63e9ea571a7db8,1070,False,False,2
+Normal(Healthy skin),404.jpg,0,4c5167872dd54b489cc7298d9a0aefe1,1317,False,False,0
+Normal(Healthy skin),405.jpg,0,6ed0fba9cadc415187d42479e35857e2,1030,False,False,3
+Normal(Healthy skin),406.jpg,0,c921504059f37c1ab1da88d139f1c24f,88,True,False,3
+Normal(Healthy skin),407.jpg,0,fc383488e05a8c90a6c75dda25c29cde,1317,True,False,0
+Normal(Healthy skin),408.jpg,0,6abf8e2161208d44cb2b5575dca2819b,1344,True,False,0
+Normal(Healthy skin),409.jpg,0,50fac20684fad57734215c1dabeaea5b,1069,False,False,0
+Normal(Healthy skin),41.jpg,0,6f9a3a1d978ec2b5328d49f8ba48aa67,1357,False,True,1
+Normal(Healthy skin),410.jpg,0,ce8fec50ca78db8b811c06a0b5021f80,1295,False,False,2
+Normal(Healthy skin),411.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,False,0
+Normal(Healthy skin),412.jpg,0,28b182e7d2f820047fc831323a2fa190,1063,False,False,4
+Normal(Healthy skin),413.jpg,0,20906b53de451b2f2c83547ad9d4279f,1064,False,False,4
+Normal(Healthy skin),414.jpg,0,c377aa7230b3b88cfa8f4c57d78f3248,1317,False,False,0
+Normal(Healthy skin),415.jpg,0,bcfbf11716628f02dc99eaf38680372a,1402,False,False,2
+Normal(Healthy skin),416.jpg,0,891fcfb46001b81003047352129ed370,1344,False,False,0
+Normal(Healthy skin),417.jpg,0,ac7e4115fe78f5678176f55c5ca1689c,1365,False,False,4
+Normal(Healthy skin),418.jpg,0,52dacf1eb4c5d5064521d0875f9c5df3,1497,False,False,4
+Normal(Healthy skin),419.jpg,0,537fb8e91f23514a897212a30594ba98,586,True,False,0
+Normal(Healthy skin),42.jpg,0,c4c5484589e4e489c609aeb55ac94d90,1251,False,False,1
+Normal(Healthy skin),420.jpg,0,e09640ac5ff3bb5424cb5a6bbf288079,1371,True,False,0
+Normal(Healthy skin),421.jpg,0,65cab7a32aae0ed8afbbedf8dccf3e3d,1076,False,False,3
+Normal(Healthy skin),422.jpg,0,70b1edb2686920364cd1835671998ee9,1371,False,False,0
+Normal(Healthy skin),423.jpg,0,a068f06f0e88af9b579b12b7e46aa0be,1087,False,False,1
+Normal(Healthy skin),425.jpg,0,5c2c6b16acae6df81e2a0db0a67acfb2,1394,False,False,1
+Normal(Healthy skin),426.jpg,0,7c68d933e051873c80f65fa7fd347b8d,1374,False,False,3
+Normal(Healthy skin),427.jpg,0,071529ffe64153184d31026f85ef0da7,1375,False,False,2
+Normal(Healthy skin),428.jpg,0,4b50e90f6bea7f1570eca1eaf40f4d80,1383,False,False,0
+Normal(Healthy skin),429.jpg,0,73fb032f6b192c870fbab99bee833812,1091,False,False,2
+Normal(Healthy skin),43.jpg,0,be3186a89be83e2620eb6f98f93480fe,1400,False,True,3
+Normal(Healthy skin),430.jpg,0,9c3b8324687c8e04c0ab491a5cf2f02d,1375,False,False,2
+Normal(Healthy skin),431.jpg,0,6ca2dced2fdb5c07c6d2f3a6571e147e,1539,True,False,0
+Normal(Healthy skin),432.jpg,0,38f90e8b2b059d72934e587f288a720b,1371,False,False,0
+Normal(Healthy skin),433.jpg,0,6f058e4b4e2e0be0862be8749587349a,151,False,False,1
+Normal(Healthy skin),434.jpg,0,08fceaa8ce149997eaa29f8025600e2b,1383,False,False,0
+Normal(Healthy skin),435.jpg,0,f5a4e433776eba3faad8fdbd37a70e9c,151,False,False,1
+Normal(Healthy skin),436.jpg,0,022c668dc8ee67b00a3c937beed705df,1428,True,False,3
+Normal(Healthy skin),437.jpg,0,9a3dc623bad95e1b385441c8b80f786c,1304,False,False,4
+Normal(Healthy skin),438.jpg,0,c426a70e7917093f82f1b235613b680b,1497,False,False,4
+Normal(Healthy skin),439.jpg,0,38cf50c949ddc34e039725908f41d8b1,1394,True,False,1
+Normal(Healthy skin),44.jpg,0,8d85d962890ef62932c7ae3c7aaef0e5,1400,False,True,3
+Normal(Healthy skin),440.jpg,0,e80e664affc4ee437369c62057530813,1344,True,False,0
+Normal(Healthy skin),441.jpg,0,6cddfc8e05d64e7a07dc8009b3ce7944,1344,True,False,0
+Normal(Healthy skin),442.jpg,0,7d2273127cce2864fe11cd6603cfc3a9,1086,False,False,0
+Normal(Healthy skin),443.jpg,0,404d7247583467e49258c0c473570ca9,1394,False,False,1
+Normal(Healthy skin),444.jpg,0,c6415071b4b43fc1198a554dc02e1a4a,1394,True,False,1
+Normal(Healthy skin),445.jpg,0,1925f65421bfacef039407e7dfd9b26d,1365,False,False,4
+Normal(Healthy skin),446.jpg,0,09ad9eda76fa3bcd8514d5226dde5e21,1365,False,False,4
+Normal(Healthy skin),447.jpg,0,fd0122987dc5c2990d11bd958c9b1c91,1407,False,False,2
+Normal(Healthy skin),448.jpg,0,e4d19bebfcb93a4dff748ee1ec887dc4,4,True,False,4
+Normal(Healthy skin),449.jpg,0,50c52599737a1e44c7f00ee61bafa1ec,4,False,False,4
+Normal(Healthy skin),45.jpg,0,89cd2aea21166caa362d9cd2cb437a4a,1400,False,True,3
+Normal(Healthy skin),450.jpg,0,c3893045fc12c1bcfff61c98b947651b,1145,False,False,2
+Normal(Healthy skin),451.jpg,0,9f2de3e84363424749a6900883ad4aa5,1402,False,False,2
+Normal(Healthy skin),452.jpg,0,0a5a39c04e45b1e432c9d8a9ff5ad2ff,1375,False,False,2
+Normal(Healthy skin),453.jpg,0,8ffa4507f8c89a9f1a15be34e11ba5f1,1304,False,False,4
+Normal(Healthy skin),454.jpg,0,2b347c0a036c4670fb20c11b2c4f8b04,1405,True,False,1
+Normal(Healthy skin),456.jpg,0,2133386221bd059546bbb0ca4a702df9,1402,False,False,2
+Normal(Healthy skin),457.jpg,0,b1c5715ccce3425afeeda0cce4bb58da,1407,False,False,2
+Normal(Healthy skin),458.jpg,0,036204ab556788e0db0a51653de3caaa,1088,False,False,2
+Normal(Healthy skin),459.jpg,0,cbb01c950dbce4126d0f0c4156be09c2,1073,False,False,2
+Normal(Healthy skin),46.jpg,0,51d08f83328cebe2a82c01de63032e05,1421,False,False,1
+Normal(Healthy skin),460.jpg,0,661df2ef9fc7f35a7eb887144bcffaf6,1145,False,False,2
+Normal(Healthy skin),461.jpg,0,c69ac0e8037c71765029edb54f3147d8,1432,True,False,4
+Normal(Healthy skin),462.jpg,0,a6578115b19a060e42477d3653939b12,151,True,False,1
+Normal(Healthy skin),463.jpg,0,4bfb837fe1fbb2b90f1bf9ccc4c02952,1402,True,False,2
+Normal(Healthy skin),464.jpg,0,e3101b5cf290a5fe907c88c1ea7c6b05,1371,False,False,0
+Normal(Healthy skin),465.jpg,0,c852376d24df12974e3544b95a8479ef,1089,False,False,3
+Normal(Healthy skin),466.jpg,0,79f13c852f2cdf3effbdd610944d554b,1137,False,False,1
+Normal(Healthy skin),467.jpg,0,684496eea57677366cb07c0bbaa001fe,191,True,False,4
+Normal(Healthy skin),468.jpg,0,3be55d0965493c4754d46678da46e5c3,743,True,False,2
+Normal(Healthy skin),469.jpg,0,a17813d251ffcc3fe1ac32f9bd9d16fc,1173,False,False,2
+Normal(Healthy skin),47.jpg,0,d64af6f99c19e6a07dafbe38dfcf1b5e,1421,False,False,1
+Normal(Healthy skin),470 (2).jpg,0,40b6cf19231375bce53fad3f5862bffa,1185,False,False,1
+Normal(Healthy skin),470.jpg,0,afa6dab1e69fe649e5f3ee6529bb961a,1365,False,False,4
+Normal(Healthy skin),471.jpg,0,452675be88d1f3384718ed5f9b4baf91,1186,False,False,4
+Normal(Healthy skin),472.jpg,0,5ce6c2d12f10609b1eb2bbbf48bfc901,1136,False,False,3
+Normal(Healthy skin),473.jpg,0,3b07b7223f26095e8dc67f69abb75a77,1371,False,False,0
+Normal(Healthy skin),474.jpg,0,17802b0777a85bcf4e221e19e2a73d05,1099,False,False,3
+Normal(Healthy skin),475.jpg,0,c1c4d417a6d7602257b9f32d56aa44d2,1428,True,False,3
+Normal(Healthy skin),476.jpg,0,009f4d8a375b04e4f495f2d30bbf4881,1365,False,False,4
+Normal(Healthy skin),477.jpg,0,2e6993d9421a70e75677f0f83bf30145,1122,False,False,1
+Normal(Healthy skin),478.jpg,0,4f636003820534cbe0eba9ef3446ed3d,1371,False,False,0
+Normal(Healthy skin),479.jpg,0,d536cdfc1ae23210ba62d34598637356,1432,True,False,4
+Normal(Healthy skin),48.jpg,0,2c378c01d38329bd2078169cced1700b,1260,False,False,3
+Normal(Healthy skin),480.jpg,0,28bc35bb9dcb6d9697a249792ec4b671,1075,False,False,0
+Normal(Healthy skin),481.jpg,0,1e201bff2b42e8d25b7c0e892ef415c1,1153,False,False,2
+Normal(Healthy skin),482.jpg,0,765b631e9fb2e5871ea216278a377324,1155,False,False,4
+Normal(Healthy skin),483.jpg,0,cc48c61f90e2c8cf4f2f262b9a4ae02b,1437,False,False,3
+Normal(Healthy skin),484.jpg,0,40e481e19003a2b12560624528a510bf,1145,False,False,2
+Normal(Healthy skin),485.jpg,0,4317a3482d3810b59ff7c272f1e64e39,1145,False,False,2
+Normal(Healthy skin),486.jpg,0,21a9b1ac125e766a594c5bd859bfcfa0,262,True,False,0
+Normal(Healthy skin),487.jpg,0,5e8f60e0ce6bc18d14b0cd2e558b2b9d,263,True,False,2
+Normal(Healthy skin),488.jpg,0,4aea499024ea2d4bc8688380f1593f17,1442,False,False,3
+Normal(Healthy skin),489.jpg,0,26181f1ed2bfd3a613957c913b2e11a8,1174,False,False,1
+Normal(Healthy skin),49.jpg,0,eaee71ae7394bf767377aa7014b2f148,481,True,False,0
+Normal(Healthy skin),490.jpg,0,e21d19c589892728c4dce39114aa9682,1445,False,False,4
+Normal(Healthy skin),491.jpg,0,67b4e5b82375d3e60db52a6adf482288,1191,False,False,3
+Normal(Healthy skin),492.jpg,0,d9b6d34372de66631a47008e447ffb2c,1193,False,False,3
+Normal(Healthy skin),493.jpg,0,42fefa591aca156ad51d7ee2a3f5ddbd,1448,False,False,3
+Normal(Healthy skin),494.jpg,0,c601896444423b829f265f26597b9571,1090,False,False,2
+Normal(Healthy skin),495.jpg,0,471a02925fa003063ac2f10a1442b405,1123,False,False,3
+Normal(Healthy skin),496.jpg,0,dd60a6b4110b1c14e364ba40eab82b9c,4,True,False,4
+Normal(Healthy skin),497.jpg,0,0fc1922422e6e98e83a61a1a11e981f4,4,False,False,4
+Normal(Healthy skin),498.jpg,0,92b48987c6bfc1a5fc556ca8ea84119b,1428,True,False,3
+Normal(Healthy skin),499.jpg,0,2c549a29b63c04a4434c927d0a1e809e,191,True,False,4
+Normal(Healthy skin),5.jpg,0,e5a7c44e56d6baf2192a390b6f52e8f5,1374,False,False,3
+Normal(Healthy skin),50.jpg,0,43f052247bd11d9f7874cf44c7a9abc0,1258,False,False,0
+Normal(Healthy skin),500.jpg,0,14fc09715648e61855e165573be76778,1135,False,False,4
+Normal(Healthy skin),501.jpg,0,bd098642813c1b77b11f2e4147848eb1,1164,False,False,1
+Normal(Healthy skin),502.jpg,0,c92be4325c586f9749e153464a7924d0,1169,False,False,0
+Normal(Healthy skin),503.jpg,0,bd664e3deac07d3f9802a5b1f2ebd249,1464,True,False,1
+Normal(Healthy skin),504.jpg,0,d412b068d1fd9154f18a3f77f1cb9924,1175,False,False,4
+Normal(Healthy skin),505.jpg,0,c139fa3e4bc17af7217959a3873ad65c,1167,False,False,2
+Normal(Healthy skin),506.jpg,0,5b21a4bccfe35d674c360b254cc797b6,1402,True,False,2
+Normal(Healthy skin),507.jpg,0,7aa635a9dc752bdfcae9539cee86db21,1464,True,False,1
+Normal(Healthy skin),508.jpg,0,d4dfaa21640944dfdbd91d263e4299f1,1437,False,False,3
+Normal(Healthy skin),509.jpg,0,fb43a45b6db0ae5a78bd430cc82e491c,1166,False,False,2
+Normal(Healthy skin),51.jpg,0,0bf881eaf5c1e57ef772ccf5233d69e5,1467,False,False,3
+Normal(Healthy skin),510.jpg,0,f7ef4593ba268a1af437ad12fcc00d57,1442,False,False,3
+Normal(Healthy skin),511.jpg,0,7a2c4f1ddf10c23dcba23cad827eba66,1442,False,False,3
+Normal(Healthy skin),512.jpg,0,61c9c53cb6cc1fc1c7b7ff5fdac29809,1179,False,False,2
+Normal(Healthy skin),513.jpg,0,864ecb25cd57006169fccaf7004c831d,1145,False,False,2
+Normal(Healthy skin),514.jpg,0,b9d385bab0dd2a3833ad9582cd3c68f7,1184,False,False,1
+Normal(Healthy skin),515.jpg,0,7a9ad2c6a408d1525d1f023713222c2c,1432,True,False,4
+Normal(Healthy skin),516.jpg,0,15d0c4b220fe6ee4a85977141b24093c,1437,False,False,3
+Normal(Healthy skin),517.jpg,0,7b15469c029062142ce4986d7457bf34,1448,False,False,3
+Normal(Healthy skin),518.jpg,0,0050c4e2d8d82d99589bce8abac7ea49,1199,False,False,0
+Normal(Healthy skin),519.jpg,0,a5e30949c7833abe5ef0757066463bee,1437,False,False,3
+Normal(Healthy skin),52.jpg,0,2b3e1e0e1bd7d3aa297335b036151007,1262,False,False,4
+Normal(Healthy skin),520.jpg,0,6148d4d0e62d818d69ee7119089035c4,1154,False,False,4
+Normal(Healthy skin),521.jpg,0,75ebbe44a678ead3647a241c020641ac,269,True,False,1
+Normal(Healthy skin),522.jpg,0,af47237aeb4ba2fc0938418bdf88938a,1160,False,False,0
+Normal(Healthy skin),523.jpg,0,a1553ae5fcc3c61cd94201bf9de230fb,1484,False,False,2
+Normal(Healthy skin),524.jpg,0,e796f5cf7cbb8bcf86877fc5fe80e03e,1168,False,False,0
+Normal(Healthy skin),525.jpg,0,012a9c1992ae85ae82ba6143eb61f402,1484,False,False,2
+Normal(Healthy skin),527.jpg,0,d96dbef0d5a4ac225ee52deb9117c65e,1171,False,False,0
+Normal(Healthy skin),528.jpg,0,745ded43ebf45a033e165b81fee4157a,1486,False,False,2
+Normal(Healthy skin),529.jpg,0,af5e182a1e35c2148a12bc1bb4d2509b,849,True,False,0
+Normal(Healthy skin),53.jpg,0,0131f5ef4fb42e6944e684d2838b3828,1467,False,False,3
+Normal(Healthy skin),530.jpg,0,b9d22bb47534248832d87671232b5275,1486,False,False,2
+Normal(Healthy skin),531.jpg,0,8e80a04972ff2acf968ffd1e05654694,263,True,False,2
+Normal(Healthy skin),532.jpg,0,a48863d8f6ba2cde6a0ea2d363293f1b,1491,False,False,4
+Normal(Healthy skin),533.jpg,0,f77cabcd605e982fb5b79dc11b781969,1188,False,False,3
+Normal(Healthy skin),534.jpg,0,aca69e3ad78bbbd7d1696f1c17df89d4,286,True,False,0
+Normal(Healthy skin),535.jpg,0,a3c872471ebe10674bbc95c4b5b5e663,1445,False,False,4
+Normal(Healthy skin),536.jpg,0,c755f84674a6e2852a73a5b6dc1eac58,1206,False,False,2
+Normal(Healthy skin),537.jpg,0,87a40ab1972c7f6177ac6bbb73fd584c,1491,False,False,4
+Normal(Healthy skin),54.jpg,0,c426a70e7917093f82f1b235613b680b,1497,False,False,4
+Normal(Healthy skin),55.jpg,0,afd62bd01d95d73e77c24c9674134167,987,True,True,3
+Normal(Healthy skin),56.jpg,0,43a3ca224fbde8c44d7f1bac813acbd6,1268,False,False,0
+Normal(Healthy skin),57.jpg,0,0250605e455ad27ace574679fb46d10b,1047,False,False,2
+Normal(Healthy skin),58.jpg,0,7c847bc86ee32aa7e2501753901979b9,1271,False,False,1
+Normal(Healthy skin),59.jpg,0,40a491504e1d9af2646b0d429cdd14af,1502,False,True,2
+Normal(Healthy skin),6.jpg,0,7c68d933e051873c80f65fa7fd347b8d,1374,False,False,3
+Normal(Healthy skin),60.jpg,0,11f2111f777e648e0546b091797578f7,1270,False,False,4
+Normal(Healthy skin),61.jpg,0,5fbc53ccccbe59e253cd2647a897eea9,1505,False,True,0
+Normal(Healthy skin),62.jpg,0,52dacf1eb4c5d5064521d0875f9c5df3,1497,False,False,4
+Normal(Healthy skin),63.jpg,0,dba1f0e96caa90935240a6423f5870b8,1083,False,False,1
+Normal(Healthy skin),64.jpg,0,4718df9e734418203b4d02c9dd5c5303,1049,False,False,1
+Normal(Healthy skin),65.jpg,0,478e292c6854fbebaff20d591fd24ba1,1277,False,False,1
+Normal(Healthy skin),66.jpg,0,dd12e8f5a5071cfd0c255ba99c4730b7,1052,False,False,0
+Normal(Healthy skin),67.jpg,0,b5fa8fa430ec75a0eaaa9a21dc5ad71c,1053,False,False,3
+Normal(Healthy skin),68.jpg,0,f27cd239ca1b8d9b20f14621743f2d15,39,False,False,2
+Normal(Healthy skin),69.jpg,0,0c063af92d42044316084cc93762936a,1054,False,False,2
+Normal(Healthy skin),7.jpg,0,d5422448fb5294565058f503480ddb46,1035,False,False,3
+Normal(Healthy skin),70.jpg,0,4870ce16da2a8ce52cb0b6853f07f5e8,1280,False,False,1
+Normal(Healthy skin),71.jpg,0,c71ff36c9044e9e61fdfb121ec284b7c,1286,False,False,2
+Normal(Healthy skin),72.jpg,0,1877a51edcc395e1abb937ce33e2c39e,1283,False,False,2
+Normal(Healthy skin),73.jpg,0,a2a9122efdd1c2bb58ab0564634b2e3b,1298,False,False,4
+Normal(Healthy skin),74.jpg,0,bb199a4b432822b311b66797ffc5c9f8,1519,False,False,3
+Normal(Healthy skin),75.jpg,0,70233f4b6c43e5008b6447fc2f2976d6,1519,False,False,3
+Normal(Healthy skin),76.jpg,0,3fd2e736dff1b5a4a7566c880b0b4747,1297,False,False,3
+Normal(Healthy skin),77.jpg,0,717d547cae149ee2bc8228afdd278e40,1285,False,False,2
+Normal(Healthy skin),78.jpg,0,12635215917f80623527d28594fa83d8,1519,False,False,3
+Normal(Healthy skin),79.jpg,0,c1f56d2a91a2e6ef2c6c1173b210e7a1,56,True,True,1
+Normal(Healthy skin),8.jpg,0,4ad2ddec7c15263cd64b776dcdecc0e6,1437,False,False,3
+Normal(Healthy skin),80.jpg,0,2f32740c8a57a218cd05813677e696ee,56,False,False,1
+Normal(Healthy skin),81.jpg,0,33e6e04c442af427673384ba25dbe203,1302,False,False,2
+Normal(Healthy skin),82 - Copy.jpg,0,88cba4cf9bbfc8753041739a9376e42e,56,False,False,1
+Normal(Healthy skin),82.jpg,0,88cba4cf9bbfc8753041739a9376e42e,56,False,False,1
+Normal(Healthy skin),83.jpg,0,e14c8e825625e3e675f9fbb59e1e41e8,56,False,False,1
+Normal(Healthy skin),84.jpg,0,edf6ce5c5f6cb294d04f9c4b26e8a01d,56,False,False,1
+Normal(Healthy skin),85.jpg,0,a40960aa3568448801a4bee3d6c14aea,56,True,True,1
+Normal(Healthy skin),86.jpg,0,6dbfa51faa0c6265df7263010c548436,1295,False,False,2
+Normal(Healthy skin),87.jpg,0,585f69ae43a567b34cc265384264a66d,1295,True,False,2
+Normal(Healthy skin),88.jpg,0,e43926952da916d036269f096f7afa10,1295,True,True,2
+Normal(Healthy skin),89.jpg,0,91d31ce3d72ec8ddc4f7ca367aeea641,1539,True,True,0
+Normal(Healthy skin),9.jpg,0,2fa4f8cf7048e8dd9491e813e6fc6247,1038,False,False,0
+Normal(Healthy skin),90.jpg,0,da66f68c46925d18e3bef9b97f961211,1539,True,True,0
+Normal(Healthy skin),91.jpg,0,b1dfc10f1e19367ffc16331f0efe19d7,1539,True,False,0
+Normal(Healthy skin),92.jpg,0,dd8f7c4a8b014b4608b8edc203c212c8,1539,False,False,0
+Normal(Healthy skin),93.jpg,0,ca7430cb4d5a0805feecd3a1d82405fb,1539,False,False,0
+Normal(Healthy skin),94.jpg,0,5ee0d290ba658301f009f60e14b9d9ca,1539,False,False,0
+Normal(Healthy skin),95.jpg,0,6ca2dced2fdb5c07c6d2f3a6571e147e,1539,True,False,0
+Normal(Healthy skin),96.jpg,0,ba7c09b6c02c804b0b58082a371424e3,1539,True,False,0
+Normal(Healthy skin),97.jpg,0,d44b9cc4eda7468298be124af81e9599,56,True,False,1
+Normal(Healthy skin),98.jpg,0,e455e2c4f6075044adcee501efa409fd,1304,False,False,4
+Normal(Healthy skin),99.jpg,0,9a3dc623bad95e1b385441c8b80f786c,1304,False,False,4

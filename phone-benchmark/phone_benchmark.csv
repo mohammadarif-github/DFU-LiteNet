@@ -1,0 +1,41 @@
+phone,maker,chip,soc,android,abi,model_file,size_mb,config,median_ms,min_ms,max_ms,p95_ms,peak_memory_mb,status
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP16.tflite,1.93,"big core, 1 thread (XNNPACK)",4.67,4.63,6.48,4.79,13.0,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP16.tflite,1.93,"big cores, 4 threads (XNNPACK)",1.89,1.77,2.43,2.7,12.9,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP16.tflite,1.93,"big core, 1 thread (built-in kernels)",8.94,6.54,9.31,9.77,12.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP16.tflite,1.93,"little core, 1 thread (XNNPACK)",22.21,21.55,22.59,23.96,12.8,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP16.tflite,1.93,GPU delegate,10.35,7.09,10.93,11.31,75.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP32.tflite,3.74,"big core, 1 thread (XNNPACK)",4.65,4.63,6.6,4.79,14.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP32.tflite,3.74,"big cores, 4 threads (XNNPACK)",2.19,1.79,4.68,5.63,14.4,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP32.tflite,3.74,"big core, 1 thread (built-in kernels)",6.74,6.63,10.24,6.91,10.4,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP32.tflite,3.74,"little core, 1 thread (XNNPACK)",22.21,21.89,25.26,24.47,14.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_FP32.tflite,3.74,GPU delegate,10.28,7.94,10.89,11.44,77.5,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8-dyn.tflite,1.12,"big core, 1 thread (XNNPACK)",3.54,3.51,4.96,3.61,10.7,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8-dyn.tflite,1.12,"big cores, 4 threads (XNNPACK)",3.69,3.58,5.23,22.2,9.7,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8-dyn.tflite,1.12,"big core, 1 thread (built-in kernels)",5.1,5.04,7.75,5.28,7.6,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8-dyn.tflite,1.12,"little core, 1 thread (XNNPACK)",18.06,17.94,24.24,20.14,10.0,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8-dyn.tflite,1.12,GPU delegate,10.08,8.02,10.94,11.22,74.4,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8.tflite,1.23,"big core, 1 thread (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8.tflite,1.23,"big cores, 4 threads (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8.tflite,1.23,"big core, 1 thread (built-in kernels)",8.44,7.55,10.11,9.59,6.0,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8.tflite,1.23,"little core, 1 thread (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,Baseline_fold0_INT8.tflite,1.23,GPU delegate,10.3,8.44,11.24,11.74,76.7,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP16.tflite,2.02,"big core, 1 thread (XNNPACK)",5.36,4.76,6.33,5.47,13.4,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP16.tflite,2.02,"big cores, 4 threads (XNNPACK)",1.98,1.88,2.94,2.94,13.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP16.tflite,2.02,"big core, 1 thread (built-in kernels)",8.75,6.98,10.1,8.91,12.1,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP16.tflite,2.02,"little core, 1 thread (XNNPACK)",23.65,22.34,26.05,27.21,13.4,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP16.tflite,2.02,GPU delegate,11.19,9.04,11.62,12.02,81.7,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP32.tflite,3.9,"big core, 1 thread (XNNPACK)",4.75,4.72,6.23,4.88,15.6,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP32.tflite,3.9,"big cores, 4 threads (XNNPACK)",2.07,1.99,2.64,4.43,14.9,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP32.tflite,3.9,"big core, 1 thread (built-in kernels)",7.18,6.83,9.88,7.36,10.5,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP32.tflite,3.9,"little core, 1 thread (XNNPACK)",22.86,22.36,32.39,24.75,15.2,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_FP32.tflite,3.9,GPU delegate,11.1,10.33,11.81,12.05,82.5,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8-dyn.tflite,1.2,"big core, 1 thread (XNNPACK)",3.69,3.63,5.39,4.01,10.6,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8-dyn.tflite,1.2,"big cores, 4 threads (XNNPACK)",3.79,3.42,27.97,14.14,10.2,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8-dyn.tflite,1.2,"big core, 1 thread (built-in kernels)",5.67,5.32,6.95,5.82,7.6,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8-dyn.tflite,1.2,"little core, 1 thread (XNNPACK)",18.7,18.36,22.81,19.56,10.0,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8-dyn.tflite,1.2,GPU delegate,10.91,8.09,11.53,11.67,80.7,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8.tflite,1.32,"big core, 1 thread (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8.tflite,1.32,"big cores, 4 threads (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8.tflite,1.32,"big core, 1 thread (built-in kernels)",9.1,8.75,12.87,9.15,6.3,ok
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8.tflite,1.32,"little core, 1 thread (XNNPACK)",,,,,,failed: ERROR: failed to create XNNPACK runtime
+SM-A356E,samsung,erd8835,s5e8835,16,arm64-v8a,CA-Multi_fold0_INT8.tflite,1.32,GPU delegate,10.73,9.2,11.97,12.64,82.6,ok

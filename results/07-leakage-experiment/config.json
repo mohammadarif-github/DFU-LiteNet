@@ -1,0 +1,32 @@
+{
+  "MODELS": [
+    "MobileNetV3Small",
+    "ResNet50",
+    "ScratchCNN"
+  ],
+  "PROTOCOLS": [
+    "A",
+    "B"
+  ],
+  "FOLDS": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "IMG_SIZE": 224,
+  "BATCH": 32,
+  "EPOCHS_HEAD": 5,
+  "EPOCHS_FT": 30,
+  "LR_HEAD": 0.001,
+  "LR_FT_OPTIONS": [
+    1e-05,
+    0.0001
+  ],
+  "PATIENCE": 7,
+  "SCRATCH_EPOCHS": 60,
+  "SCRATCH_LR": 0.001,
+  "SCRATCH_PATIENCE": 10,
+  "SEED": 42
+}

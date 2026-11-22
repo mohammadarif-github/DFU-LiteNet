@@ -1,0 +1,11 @@
+# Android build output and local settings
+android-app/build/
+android-app/app/build/
+android-app/.gradle/
+android-app/local.properties
+*.apk
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+# macOS
+.DS_Store
